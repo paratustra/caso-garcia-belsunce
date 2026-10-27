@@ -1,0 +1,566 @@
+# Catálogo audiovisual — caso María Marta García Belsunce
+
+Catálogo de enlaces y metadatos (no se descargó ningún medio). Detalle completo en `catalog.csv`.
+
+## Resumen
+
+- Ítems totales: 489 (blog: 172, búsqueda YouTube: 312, web: 5, archive.org: 0).
+- Disponibles: 481; restringidos: 5; no disponibles: 3.
+- Duración total disponible con duración conocida: 125.3 horas.
+- archive.org: sin material audiovisual relacionado con el caso (las coincidencias con "Belsunce" son del barrio de Marsella).
+- Fechas: 318 ítems no tienen fecha porque YouTube bloqueó la consulta de metadatos completos ("Sign in to confirm you're not a bot"); para ellos solo hay título y duración obtenidos de la búsqueda. Los 172 ítems del blog sí tienen metadatos completos (167 disponibles, 5 no).
+- Criterio: se incluyeron canales de TV, radio y noticias, canales de archivo y de juicio, y entrevistas relevantes; se omitieron relatos de youtubers de true crime, reacciones y resúmenes de la serie. Búsqueda limitada a videos de 4 minutos o más.
+- Aviso: los videos del canal "Caso Belsunce" son recopilaciones del blog proderecho de Carrascosa (material de parte, no neutral).
+
+| Tipo | Ítems | Disponibles | Horas |
+|---|---|---|---|
+| documental-serie | 13 | 11 | 2.5 |
+| entrevista | 139 | 139 | 33.2 |
+| juicio-audiencia | 30 | 30 | 19.9 |
+| noticiero | 198 | 198 | 34.9 |
+| otro | 49 | 44 | 10.0 |
+| podcast-radio | 33 | 32 | 12.7 |
+| programa TV | 27 | 27 | 12.0 |
+
+## Prioridad para transcribir
+
+Fuentes con más probabilidad de contener información primaria (audiencias, alegatos, entrevistas largas con protagonistas).
+
+1. [Causa "Pachelo y otros" - Alegatos (1 de 2)](https://www.youtube.com/watch?v=zvHQ6dbVO2o) — Suprema Corte de Justicia Provincia de Buenos Aires, 9:08:22
+2. [TOC Nº 4 de San Isidro. Audiencia Art. 368 CPPBA - Juicio en la causa Nº 5499 - Segunda parte](https://www.youtube.com/watch?v=DhakwFDkCMk) — Suprema Corte de Justicia Provincia de Buenos Aires, 2:34:54
+3. [Juicio a Carrascosa 2007. Alegato de la querella.](https://www.youtube.com/watch?v=jmwXKKtGESU) — Caso Belsunce, 2:37:49
+4. [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio a Irene Hurtig](https://www.youtube.com/watch?v=kb5EYj_pKPs) — Será Justicia, 0:08:34
+5. [Carlos con Roberto Garcia](https://www.youtube.com/watch?v=Zp0zSBUbbf4) — Caso Belsunce, 0:44:07
+6. [Carlos Carrascosa en la noche de Mirtha Legrand](https://www.youtube.com/watch?v=IKL0qgBQ70M) — Caso Belsunce, 0:39:09
+7. [Duggan entrevista a Carrascosa](https://www.youtube.com/watch?v=0vKI4fCbeQ8) — Caso Belsunce, 0:10:07
+8. [Entrevista de audio de Carrascosa para radio Sudamericana](https://www.youtube.com/watch?v=MKV0EztP3gY) — Caso Belsunce, 0:16:05
+9. [Habla Carlos Carrascosa - Entrevista exclusiva en Luján](https://www.youtube.com/watch?v=YkKdLLPya_U) — VOX AUDIOVISUAL, 0:53:54
+10. [Carlos Carrascosa: "Estoy convencido que Pachelo mató a María Marta"](https://www.youtube.com/watch?v=4YeLFR4TMmE) — EL INVITADO, 0:32:12
+11. [Horacio García Belsunce en el programa de Mirtha Legrand](https://www.youtube.com/watch?v=jfs5Dlk-_Aw) — Caso Belsunce, 0:56:36
+12. [Horacio García Belsunce en "El expediente"](https://www.youtube.com/watch?v=pyJUnOixSwI) — Caso Belsunce, 0:33:09
+13. [HGB con Juana Viale](https://www.youtube.com/watch?v=j7cWepPT4AQ) — Caso Belsunce, 0:26:16
+14. [Horacio García Belsunce con Mauro Viale](https://www.youtube.com/watch?v=CoY1GAGVQs4) — Caso Belsunce, 0:24:29
+15. [Horacio García Belsunce en "LasRubiasMasUno"](https://www.youtube.com/watch?v=4YV61R-X9o4) — Caso Belsunce, 0:33:57
+16. [Juan Hurtig con Débora Plager](https://www.youtube.com/watch?v=waXzyPxchys) — Caso Belsunce, 0:37:22
+17. [D-Day: Juan Hurtig with Jorge Lanata](https://www.youtube.com/watch?v=raHLf5bPL2k) — Caso Belsunce, 0:15:12
+18. [Entrevista a JOHN HURTIG - Crimen de María Marta García Belsunce y el documental "Carmel"](https://www.youtube.com/watch?v=l2d45rnD_xQ) — Mundo TKM, 1:07:50
+19. [SUSANA CON LOS GARCÍA BELSUNCE](https://www.youtube.com/watch?v=xWyRMfuQoS8) — laventanadejulia, 0:10:08
+20. [C5N - POLICIALES - CASO BELSUNCE: HURTIG - 1](https://www.youtube.com/watch?v=YCIkbGxxtxA) — C5N, 0:18:21
+21. [C5N - CASO BELSUNCE: DEBATE Y POLEMICA [PARTE 1]](https://www.youtube.com/watch?v=pzRP-sL369A) — C5N, 0:16:41
+22. [Caso Belsunce  - Jorge Lanata](https://www.youtube.com/watch?v=1_bCm7r0nuw) — Caso Belsunce, 0:41:11
+23. [El juez Violini y Dr. Tártara, entrevistados en el programa "Justicia en primera persona"](https://www.youtube.com/watch?v=NDgMX0PcA3I) — Caso Belsunce, 0:36:46
+24. [maria laura garcia belsunce en tn](https://www.youtube.com/watch?v=Ry2nVOvXm4M) — Caso Belsunce, 0:50:45
+25. [Entrevista a Beatriz Goldberg - Abby Moreno & Horacio García Belsunce / El Glóbulo](https://www.youtube.com/watch?v=Tq96IM33r2k) — Galáctica Radio & TV, 1:04:05
+26. [carlos_carrascosa150911.flv](https://www.youtube.com/watch?v=9d25LJAjnAs) — aloshechos, 0:28:36
+
+## Listado por tipo
+
+### juicio-audiencia
+
+- 2011-06-14 — [C5N - POLICIALES - CASO BELSUNCE: DECLARAN 7 TESTIGOS](https://www.youtube.com/watch?v=VszGCrlbqH4) — C5N, 0:05:38
+- 2011-08-30 — [declaracion de casafus](https://www.youtube.com/watch?v=vpaBBCap5BA) — Caso Belsunce, 0:02:44
+- 2011-09-03 — [previa a la declaracion de bartoli.wmv](https://www.youtube.com/watch?v=0DRR10gFbHo) — Caso Belsunce, 0:07:53
+- 2011-09-06 — [declaracion bartoli.wmv](https://www.youtube.com/watch?v=Zt-ZwUBRi7s) — Caso Belsunce, 0:03:15
+- 2011-09-20 — [alegatos fiscalia.wmv](https://www.youtube.com/watch?v=CjlJfVr7aUc) — Caso Belsunce, 0:05:41
+- 2012-05-01 — [García Belsunce  una testigo clave será sometida a una pericia médica   TN com ar   Todo Noticias](https://www.youtube.com/watch?v=Sg9nZgkoxo8) — Caso Belsunce, 0:08:44
+- 2012-07-01 — [ultimas palabras carrascosa](https://www.youtube.com/watch?v=QWQjp0yAroA) — Caso Belsunce, 0:00:39
+- 2017-10-07 — ["Corte por Lozano"   Indagatoria a Pachelo](https://www.youtube.com/watch?v=5vBUp58clPc) — Caso Belsunce, 0:16:06
+- 2017-10-07 — [TN Indagatoria Pachelo](https://www.youtube.com/watch?v=srig4JXyApo) — Caso Belsunce, 0:06:48
+- 2022-11-01 — [TOC Nº 4 de San Isidro. Audiencia Art. 368 CPPBA - Juicio en la causa Nº 5499 - Segunda parte](https://www.youtube.com/watch?v=DhakwFDkCMk) — Suprema Corte de Justicia Provincia de Buenos Aires, 2:34:54
+- 2022-11-01 — [Causa "Pachelo y otros" - Alegatos (1 de 2)](https://www.youtube.com/watch?v=zvHQ6dbVO2o) — Suprema Corte de Justicia Provincia de Buenos Aires, 9:08:22
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio a Hugo Vázquez](https://www.youtube.com/watch?v=-a6Vttaylcs) — Será Justicia, 0:04:24
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Contrainterrogatorio a Irene Hurtig](https://www.youtube.com/watch?v=8M7syqvDEI4) — Será Justicia, 0:05:59
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio al Dr. Santiago Biasi](https://www.youtube.com/watch?v=8o7MfefoVDw) — Será Justicia, 0:06:15
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Contrainterrogatorio al Dr. Santiago Biasi](https://www.youtube.com/watch?v=ABg9R0B_INw) — Será Justicia, 0:04:44
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio a Nora Taylor](https://www.youtube.com/watch?v=CQzRMAXWBoI) — Será Justicia, 0:06:12
+- s/f — [Caso Belsunce: el veredicto +Piqueteros en las calles #EquipoDeNoticias Programa Completo 02/12/2022](https://www.youtube.com/watch?v=DYLMf5W-DL4) — A24com, 2:15:41
+- s/f — ["Cronica" Indagatoria a Pachelo](https://www.youtube.com/watch?v=Hu3IhaxKohI) — Caso Belsunce, 0:23:47
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Contrainterrogatorio a Luis Ferrari](https://www.youtube.com/watch?v=RJiOycK4bcM) — Será Justicia, 0:05:51
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Contrainterrogatorio a Carlos Carrascosa](https://www.youtube.com/watch?v=RhyVKwH0bLY) — Será Justicia, 0:09:47
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio a José Ortiz](https://www.youtube.com/watch?v=ScCTZ2jJqnM) — Será Justicia, 0:05:42
+- s/f — [🚨 Caso Belsunce: hoy se conocerá el veredicto de Pachelo 🚨 I A24](https://www.youtube.com/watch?v=T5pC_fFsx8g) — A24com, 0:06:03
+- s/f — [⚫ Caso Belsunce: Nicolás Pachelo quiere ampliar la indagatoria](https://www.youtube.com/watch?v=X1sGr-SrcW0) — América TV, 0:09:04
+- s/f — [🚨 Caso Belsunce: se habría filtrado el veredicto](https://www.youtube.com/watch?v=Z9h-MOe50I8) — A24com, 0:20:26
+- s/f — [EXPECTATIVA por la DECLARACIÓN del HERMANO de MARÍA MARTA](https://www.youtube.com/watch?v=Zeksbk2vQpo) — C5N, 0:09:47
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio a Inés Ongay](https://www.youtube.com/watch?v=_tb9Cns3b40) — Será Justicia, 0:04:09
+- s/f — [🔴 García Belsunce: se habría filtrado el veredicto antes de la sentencia](https://www.youtube.com/watch?v=jHmY36ROXXc) — América TV, 0:05:35
+- s/f — [Juicio a Carrascosa 2007. Alegato de la querella.](https://www.youtube.com/watch?v=jmwXKKtGESU) — Caso Belsunce, 2:37:49
+- s/f — [Caso María Marta García Belsunce | Juicio por Jurados | Interrogatorio a Irene Hurtig](https://www.youtube.com/watch?v=kb5EYj_pKPs) — Será Justicia, 0:08:34
+- s/f — [Declaración de Nicolás Pachelo tras audiencia (CASO GARCÍA BELSUNCE)](https://www.youtube.com/watch?v=z8ZYhZqk0MQ) — Noticias Argentinas, 0:05:28
+
+### entrevista
+
+- 2011-05-12 — [C5N - POLICIALES - CASO BELSUNCE: HABLA AMIGA DE MARIA MARTA](https://www.youtube.com/watch?v=nQ6klTwrET0) — C5N, 0:04:28
+- 2011-05-13 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 3)](https://www.youtube.com/watch?v=FpnX_xwoQFU) — C5N, 0:10:36
+- 2011-05-13 — [C5N - ESTA NOCHE - VIGLIERO - 2](https://www.youtube.com/watch?v=jpNo6IcWcHs) — C5N, 0:05:15
+- 2011-05-13 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 2)](https://www.youtube.com/watch?v=kt7RiOLw53g) — C5N, 0:11:29
+- 2011-05-13 — [C5N - ESTA NOCHE - VIGLIERO](https://www.youtube.com/watch?v=oI0fytDnQaE) — C5N, 0:04:51
+- 2011-05-13 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 1)](https://www.youtube.com/watch?v=pzRP-sL369A) — C5N, 0:16:41
+- 2011-05-14 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 7)](https://www.youtube.com/watch?v=KNLjY-aBJSE) — C5N, 0:19:27
+- 2011-05-14 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 5)](https://www.youtube.com/watch?v=KtPCCLvagLY) — C5N, 0:22:02
+- 2011-05-14 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 6)](https://www.youtube.com/watch?v=gZIBU3OgoPk) — C5N, 0:17:29
+- 2011-05-14 — [C5N - CASO BELSUNCE: DEBATE Y POLEMICA (PARTE 4)](https://www.youtube.com/watch?v=lkgbLH4mDVY) — C5N, 0:11:36
+- 2011-05-17 — [C5N - ESTA NOCHE - CASO BELSUNCE](https://www.youtube.com/watch?v=PhW4oMOIVas) — C5N, 0:07:12
+- 2011-05-25 — [C5N - ESTA NOCHE - DEGASTALDI](https://www.youtube.com/watch?v=9Fs4Mga0h70) — C5N, 0:08:00
+- 2011-06-01 — [SUSANA GIMÉNEZ CON LOS GARCÍA BELSUNCE - PARTE III](https://www.youtube.com/watch?v=WJwLoOMhNRU) — laventanadejulia, 0:09:20
+- 2011-06-01 — [SUSANA GIMÉNEZ CON LOS GARCÍA BELSUNCE](https://www.youtube.com/watch?v=qcAXO6nkz_Q) — laventanadejulia, 0:10:01
+- 2011-06-01 — [SUSANA CON LOS GARCÍA BELSUNCE](https://www.youtube.com/watch?v=xWyRMfuQoS8) — laventanadejulia, 0:10:08
+- 2011-06-16 — [C5N HABLA CARRASCOSA](https://www.youtube.com/watch?v=-ICTkoU68q0) — C5N, 0:10:07
+- 2011-06-16 — [C5N HABLA CARRASCOSA2](https://www.youtube.com/watch?v=AoKDLg6R6TM) — C5N, 0:08:35
+- 2011-06-16 — [C5N HABLA CARRASCOSA3](https://www.youtube.com/watch?v=WwE14opHoMs) — C5N, 0:07:22
+- 2011-06-23 — [C5N - CASO BELSUNCE: HABLA ROMERO VICTORICA](https://www.youtube.com/watch?v=TKlMyKWI7IM) — C5N, 0:05:58
+- 2011-07-17 — [Entrevista ROLANDO BARBANO](https://www.youtube.com/watch?v=SBQLz04S7Pc) — La Cocina del Periodismo, 0:13:04
+- 2011-07-22 — [Posdata - Horacio García Belsunce](https://www.youtube.com/watch?v=MYASF8bH3dw) — Caso Belsunce, 0:12:22
+- 2011-07-24 — [Kablan-Horacio-1.wmv](https://www.youtube.com/watch?v=Lxpmpyx16do) — Caso Belsunce, 0:07:52
+- 2011-07-25 — [Kablan-Horacio-2.wmv](https://www.youtube.com/watch?v=qC9EvU8MaYE) — Caso Belsunce, 0:10:10
+- 2011-08-16 — [16-08-2011.wmv](https://www.youtube.com/watch?v=0IP2nQhEi2A) — Caso Belsunce, 0:10:01
+- 2011-08-17 — [Hurtig  Esto parece más una caza de brujas que una búsqueda de la verdad - lanacion.com.mp4](https://www.youtube.com/watch?v=Fxb98AW2-Pw) — Caso Belsunce, 0:03:27
+- 2011-09-22 — [rozin-hgb-1_1.wmv](https://www.youtube.com/watch?v=8JRpBAF1Y1k) — Caso Belsunce, 0:08:49
+- 2011-09-22 — [rozin-hgb-1.wmv](https://www.youtube.com/watch?v=BqDkqzOwxMI) — Caso Belsunce, 0:06:59
+- 2011-09-29 — [360 TV - Secreto de sumario 28/09 - Carlos Carrascosa (Parte 3/3)](https://www.youtube.com/watch?v=k6bS7hjCfb4) — 360tvdigital, 0:13:39
+- 2011-09-29 — [360 TV - Secreto de sumario 28/09 - Carlos Carrascosa (Parte 1/3)](https://www.youtube.com/watch?v=lAvC7Lr8f7I) — 360tvdigital, 0:13:42
+- 2011-09-29 — [360 TV - Secreto de sumario 28/09 - Carlos Carrascosa (Parte 2/3)](https://www.youtube.com/watch?v=pOBCGioNinc) — 360tvdigital, 0:13:24
+- 2011-09-30 — [carrascosa-cronica-1.wmv](https://www.youtube.com/watch?v=Cu55ojHSBz4) — Caso Belsunce, 0:06:18
+- 2011-10-01 — [carrascosa-cronica-4.wmv](https://www.youtube.com/watch?v=2wTFrIcn2-0) — Caso Belsunce, 0:06:18
+- 2011-10-01 — [carrascosa-cronica-3.wmv](https://www.youtube.com/watch?v=7P1VweoCXZ0) — Caso Belsunce, 0:06:18
+- 2011-10-01 — [carrascosa-cronica-2.wmv](https://www.youtube.com/watch?v=K3PNWWS7Cec) — Caso Belsunce, 0:06:18
+- 2011-10-01 — [carrascosa-cronica-5.wmv](https://www.youtube.com/watch?v=NCOib7CzMaw) — Caso Belsunce, 0:06:18
+- 2011-10-02 — [carrascosa-cronica-6.wmv](https://www.youtube.com/watch?v=2T2VaDF2Bkc) — Caso Belsunce, 0:06:18
+- 2011-10-02 — [carrascosa-cronica-7.wmv](https://www.youtube.com/watch?v=RzZllT4gHRY) — Caso Belsunce, 0:06:18
+- 2011-11-04 — [C5N - CASO GARCIA BELSUNCE: EL VEREDICTO | IRENE HURTIG | PARTE 2](https://www.youtube.com/watch?v=SRs_PwStSsU) — C5N, 0:06:20
+- 2011-11-04 — [C5N - CASO GARCIA BELSUNCE: EL VEREDICTO | GABRIEL BECKER, ABOGADO DE GORDON](https://www.youtube.com/watch?v=gilXqpaPMGc) — C5N, 0:05:14
+- 2011-11-04 — [C5N - CASO GARCIA BELSUNCE: EL VEREDICTO | HABLA IRENE HURTIG](https://www.youtube.com/watch?v=uwQY9zmdDoo) — C5N, 0:02:23
+- 2011-11-05 — [C5N - EL EXPEDIENTE: CASO GARCIA BELSUNCE | PARTE 2](https://www.youtube.com/watch?v=Aok_eN1qucs) — C5N, 0:06:11
+- 2011-11-05 — [C5N - EL EXPEDIENTE: CASO GARCIA BELSUNCE | PARTE 1](https://www.youtube.com/watch?v=QPunE_TFXcQ) — C5N, 0:14:06
+- 2011-11-08 — [Irene Hurtig en TN - 1](https://www.youtube.com/watch?v=2iNM_PepWMw) — Caso Belsunce, 0:08:16
+- 2011-11-08 — [Irene Hurtig con R. Canaletti. 7/11/11](https://www.youtube.com/watch?v=KE8znzprfSI) — Caso Belsunce, 0:13:16
+- 2011-11-08 — [Irene Hurtig en TN - 3](https://www.youtube.com/watch?v=XsMGx7NWfcc) — Caso Belsunce, 0:09:21
+- 2011-11-08 — [Irener Hurtig en TN - 2](https://www.youtube.com/watch?v=jWxhioi10aI) — Caso Belsunce, 0:08:55
+- 2011-11-09 — [Irene Hurtig con R, Canaletti en TN - 8/11/11](https://www.youtube.com/watch?v=462Ha0e4e00) — Caso Belsunce, 0:09:42
+- 2011-11-10 — [Hurtig-Bartoli-hijos-1.wmv](https://www.youtube.com/watch?v=UZPtgN-OiVU) — Caso Belsunce, 0:06:53
+- 2011-11-10 — [Hurtig Bartoli hijos 2](https://www.youtube.com/watch?v=YrSzOTIpWK0) — Caso Belsunce, 0:06:44
+- 2011-11-10 — [C5N - CASO BELSUNCE: HABLAN AMIGOS DE JOHN HURTIG](https://www.youtube.com/watch?v=tzsPb-SXOH8) — C5N, 0:04:29
+- 2011-11-15 — [C5N - CASO BELSUNCE: ORDENAN EXCARCELACION | EUGENIO BLANCO](https://www.youtube.com/watch?v=Sy1VF36X45o) — C5N, 0:01:26
+- 2011-11-16 — [C5N - CASO BELSUNCE: HABLA ABOGADO DE HORACIO GARCIA BELSUNCE](https://www.youtube.com/watch?v=IK8jGEy7Iu4) — C5N, 0:04:11
+- 2012-04-29 — [maria laura garcia belsunce en tn](https://www.youtube.com/watch?v=Ry2nVOvXm4M) — Caso Belsunce, 0:50:45
+- 2012-05-06 — [bartoli carrascosa arr](https://www.youtube.com/watch?v=IsF6Bw3CATM) — Caso Belsunce, 0:00:28
+- 2012-05-07 — [michelini-carrascosa-ar.wmv](https://www.youtube.com/watch?v=3imjnTcT0_w) — Caso Belsunce, 0:03:04
+- 2012-05-16 — [El Dr. Miguel Angel Perri en "Acoso Textual"](https://www.youtube.com/watch?v=2KdT2k8HFq4) — Miguel Angel Pierri, 0:22:48
+- 2012-07-24 — [Habla Carrascosa desde la cárcel](https://www.youtube.com/watch?v=Yzbnmr7qdoE) — Caso Belsunce, 0:03:07
+- 2012-10-22 — [Entrevista a Carrascosa](https://www.youtube.com/watch?v=J9BTXgwEe28) — Caso Belsunce, 0:09:14
+- 2013-02-17 — [Distancia a la casa de Carrascosa](https://www.youtube.com/watch?v=JYNGGeLiiPI) — Caso Belsunce, 0:02:33
+- 2013-06-30 — [Animales sueltos](https://www.youtube.com/watch?v=S8o-NxVIM3I) — Caso Belsunce, 0:04:12
+- 2014-02-18 — [c5n entrevista a una de las autoras del blog del Caso Belsunce](https://www.youtube.com/watch?v=_Iuc9UY30fg) — Caso Belsunce, 0:09:39
+- 2014-11-28 — [Carrascosa cerca de la libertad: habla su abogado - Telefe Noticias](https://www.youtube.com/watch?v=pq37oE-BhbQ) — Telefe Noticias, 0:00:45
+- 2014-11-28 — [Carrascosa, cerca de la libertad: más detalles - Telefe Noticias](https://www.youtube.com/watch?v=vfQ2Ai7zZTs) — Telefe Noticias, 0:00:49
+- 2014-11-28 — [C5N - CASO GARCIA BELSUNCE: CARRASCOSA PODRIA QUEDAR LIBRE (PARTE 2)](https://www.youtube.com/watch?v=x56EFs-zCwU) — C5N, 0:14:20
+- 2015-02-04 — [Carrascosa con prisión domiciliaria](https://www.youtube.com/watch?v=916BvAZtqLM) — Telenueve, 0:03:06
+- 2015-05-21 — [Horarios de Carrascosa](https://www.youtube.com/watch?v=xnEI7-g3nMQ) — Caso Belsunce, 0:04:39
+- 2016-12-28 — [El juez Violini y Dr. Tártara, entrevistados en el programa "Justicia en primera persona"](https://www.youtube.com/watch?v=NDgMX0PcA3I) — Caso Belsunce, 0:36:46
+- 2016-12-28 — [El juez Violini en TN](https://www.youtube.com/watch?v=lC3txjSrKfY) — Caso Belsunce, 0:20:56
+- 2016-12-30 — [Carlos Carrascosa en desayuno americano](https://www.youtube.com/watch?v=58fqRJxbA9Q) — Caso Belsunce, 0:12:27
+- 2016-12-30 — [Entrevista a Carrascosa en Telenueve](https://www.youtube.com/watch?v=zXKUnbS7T6M) — Caso Belsunce, 0:08:41
+- 2017-10-07 — [Duggan entrevista a Carrascosa](https://www.youtube.com/watch?v=0vKI4fCbeQ8) — Caso Belsunce, 0:10:07
+- 2017-10-09 — [Horacio García Belsunce con Mauro Viale](https://www.youtube.com/watch?v=CoY1GAGVQs4) — Caso Belsunce, 0:24:29
+- 2017-10-09 — [Pablo Duggan entrevista a Gustavo Hechem](https://www.youtube.com/watch?v=bprz7Er-SDU) — Caso Belsunce, 0:15:51
+- 2017-10-10 — [Horacio García Belsunce con Soledad Larghi y Fernando Carnota](https://www.youtube.com/watch?v=B9tpa8dd-aQ) — Caso Belsunce, 0:10:51
+- 2017-10-10 — [Ari Paluch opina sobre la indagatoria a Pachelo y su ex mujer](https://www.youtube.com/watch?v=DFW-tm4WTF4) — Caso Belsunce, 0:03:34
+- 2017-10-10 — [Luis Novaresio entrevistando a Carlos Carrascosa](https://www.youtube.com/watch?v=ldKhK2PC0xA) — Caso Belsunce, 0:09:49
+- 2017-10-14 — [Horacio García Belsunce en "El expediente"](https://www.youtube.com/watch?v=pyJUnOixSwI) — Caso Belsunce, 0:33:09
+- 2017-10-14 — [García Belsunce, el giro  indagan a la exmujer de Pachelo](https://www.youtube.com/watch?v=u_I5IpYWHZ8) — Caso Belsunce, 0:18:36
+- 2017-10-22 — [Carlos Carrascosa en la noche de Mirtha Legrand](https://www.youtube.com/watch?v=IKL0qgBQ70M) — Caso Belsunce, 0:39:09
+- 2017-10-28 — [Crimen y misterio - El caso García Belsunce](https://www.youtube.com/watch?v=O8XAQ3R8geQ) — Caso Belsunce, 0:49:47
+- 2018-01-10 — [Pablo Duggan en el programa de Marcela Tynare](https://www.youtube.com/watch?v=3r-0SGuuGIE) — Caso Belsunce, 0:28:21
+- 2018-02-13 — [Horacio García Belsunce en el programa de Mirtha Legrand](https://www.youtube.com/watch?v=jfs5Dlk-_Aw) — Caso Belsunce, 0:56:36
+- 2018-04-15 — [Horacio García Belsunce en "La noche de Mirtha"](https://www.youtube.com/watch?v=2-H5cI-Zr80) — Caso Belsunce, 0:27:09
+- 2018-04-17 — [Horacio García Belsunce en "LasRubiasMasUno"](https://www.youtube.com/watch?v=4YV61R-X9o4) — Caso Belsunce, 0:33:57
+- 2020-11-16 — [Juan Hurtig con Débora Plager](https://www.youtube.com/watch?v=waXzyPxchys) — Caso Belsunce, 0:37:22
+- 2020-11-19 — [Carlos con Roberto Garcia](https://www.youtube.com/watch?v=Zp0zSBUbbf4) — Caso Belsunce, 0:44:07
+- 2020-12-11 — [El abogado de Carrascosa en TN](https://www.youtube.com/watch?v=Dr5ZyyI6-IY) — Caso Belsunce, 0:11:41
+- s/f — [Horacio Garcia Belsunce en A24](https://www.youtube.com/watch?v=-4HCftGb3PU) — Caso Belsunce, 0:08:39
+- s/f — [C5N - SOCIEDAD: CASO BELSUNCE  (HABLA SUSAN MURRAY) (2)](https://www.youtube.com/watch?v=0gzvAsLbHJ4) — C5N, 0:04:44
+- s/f — [C5N - SOCIEDAD: CASO GARCIA BELSUNCE (DECLARA JOHN HURTIG)](https://www.youtube.com/watch?v=1ueUaE2F_eo) — C5N, 0:04:38
+- s/f — [Horacio García Belsunce on C5N](https://www.youtube.com/watch?v=2OEAB-zTpZU) — Caso Belsunce, 0:16:52
+- s/f — [John Hurtig nos habla sobre el fallo en el caso García Belsunce](https://www.youtube.com/watch?v=4Dyxpn8jai8) — Penal Sin Varrera, 0:15:56
+- s/f — [¡Canaletti re caliente con el caso Belsunce!](https://www.youtube.com/watch?v=4GDPdYWB-ho) — Bendita, 0:10:20
+- s/f — [C5N - CASO BELSUNCE: HABLA AMIGA (3)](https://www.youtube.com/watch?v=4hI3A2xWnrU) — C5N, 0:06:25
+- s/f — [Horacio García Belsunce on “A fuego lento“ with C Mariño and C Reato 12/21/16](https://www.youtube.com/watch?v=66Hjcfw5sT0) — Caso Belsunce, 0:14:22
+- s/f — [GPS 15 -11-2020 / CASO MARIA MARTA GARCIA BELSUNCE / ATAQUES CON ARMA BLANCA.](https://www.youtube.com/watch?v=6KbC5_vliWw) — Ruben Martin, 0:57:46
+- s/f — [ABSOLVIERON a PACHELO en el CASO MARÍA MARTA: HABLA HORACIO GARCÍA BELSUNCE](https://www.youtube.com/watch?v=6_MFOCgOjgw) — C5N, 0:04:20
+- s/f — [Con sentido público - Noticia del Caso García-Belsunce - 04-11-11](https://www.youtube.com/watch?v=8kxwtTzMQK8) — Canal Siete, 0:07:34
+- s/f — [C5N - Caso García Belsunce: Habla Carlos Carrascosa tras su absolución](https://www.youtube.com/watch?v=AO6WXJSh9u4) — C5N, 0:05:36
+- s/f — [WHO is NICOLÁS PACHELO? | Victoria DE MASI with Pedro ROSEMBLAT on INDUSTRIA NACIONAL](https://www.youtube.com/watch?v=EXrxGsvInaU) — GELATINA, 0:30:30
+- s/f — [We spoke with NICOLÁS PACHELO'S LAWYER following his ACQUITTAL](https://www.youtube.com/watch?v=Hk9r-Vp8ABc) — C5N, 0:08:41
+- s/f — [CARRASCOSA habló tras la PERPETUA a PACHELO: “Era la DEUDA que tenía con MARÍA”](https://www.youtube.com/watch?v=HvTGTUw99XE) — C5N, 0:05:04
+- s/f — [C5N - CASO BELSUNCE: HABLA AMIGA (4)](https://www.youtube.com/watch?v=I9FzafkEsQo) — C5N, 0:04:33
+- s/f — [⚖️ EN EXCLUSIVO CON A24 los fiscales en el caso del asesinato de María Marta García Belsunce](https://www.youtube.com/watch?v=IvcTlYqyFSE) — A24com, 0:07:59
+- s/f — [Horacio García Belsunce en TN](https://www.youtube.com/watch?v=LL0fn5DPERQ) — Caso Belsunce, 0:15:29
+- s/f — [C5N - Primero en C5N: Absolvieron a Carlos Carrascosa](https://www.youtube.com/watch?v=LLvaR8OufKo) — C5N, 0:04:20
+- s/f — [CASO MARÍA MARTA: DECLARA HORACIO GARCÍA BELSUNCE](https://www.youtube.com/watch?v=M8lK7qTyS30) — C5N, 0:11:01
+- s/f — [JUICIO por el CRIMEN de MARÍA MARTA BELSUNCE: declara PACHELO](https://www.youtube.com/watch?v=NPEQFYiaUbA) — C5N, 0:04:38
+- s/f — [Nicolás Pachelo amenazó con quitarse la vida - CASO MARÍA MARTA GARCÍA BELSUNCE](https://www.youtube.com/watch?v=N_WWK9BHxdg) — Telenoche, 0:04:19
+- s/f — [#TheGaze | Exclusive interview with Carrascosa on Canal 26 - PART 2-](https://www.youtube.com/watch?v=OpXhWoqkYZE) — Canal 26, 0:10:56
+- s/f — [Debate on the García Belsunce case, with Pablo Duggan and Liliana Caruso](https://www.youtube.com/watch?v=P36hK7teSPo) — Lagrimita y Morisqueta, 0:14:10
+- s/f — [Habla Horacio García Belsunce (2Parte)](https://www.youtube.com/watch?v=P5mYnnXy9EI) — Crónica TV, 0:09:57
+- s/f — [We spoke with Irene Hurtig, 16 years after the murder of María Marta](https://www.youtube.com/watch?v=PsYjen5dmIY) — Crónica TV, 0:12:15
+- s/f — [Habla Horacio García Belsunce](https://www.youtube.com/watch?v=S4yy5a8Vmd8) — Crónica TV, 0:05:35
+- s/f — [Horacio García Belsunce entrevistado por el equipo de Antonio Laje](https://www.youtube.com/watch?v=TOFn_IRJ8j0) — Caso Belsunce, 0:33:59
+- s/f — [Caso  Belsunce + De la entrevista laboral al infierno #ElNotiA24 I PROGRAMA COMPLETO 02/12/2022](https://www.youtube.com/watch?v=VNWspzrenpM) — A24com, 2:32:12
+- s/f — [C5N - CASO BELSUNCE: HABLA AMIGA DE MARIA MARTA (2)](https://www.youtube.com/watch?v=X67LkrqpOtQ) — C5N, 0:06:07
+- s/f — [Horacio García Belsunce on Intratables](https://www.youtube.com/watch?v=Y-vOJegT5Qo) — Caso Belsunce, 0:14:00
+- s/f — [Ari Paluch entrevista a Horacio García Belsunce](https://www.youtube.com/watch?v=YDB4-vpbWoA) — Caso Belsunce, 0:12:37
+- s/f — [🔴 A 23 AÑOS DEL CRIMEN DE MARÍA MARTA, HABLA CARLOS CARRASCOSA: "Dios me ayudó a atravesar esto"](https://www.youtube.com/watch?v=YMUZ1xrZw8k) — América TV, 0:24:59
+- s/f — [Habla Carlos Carrascosa - Entrevista exclusiva en Luján](https://www.youtube.com/watch?v=YkKdLLPya_U) — VOX AUDIOVISUAL, 0:53:54
+- s/f — [C5N - SOCIEDAD: CASO BELSUNCE (HABLA SUSAN MURRAY)](https://www.youtube.com/watch?v=b0fYTmbdaFY) — C5N, 0:05:08
+- s/f — [Irene Hurtig  "No hay razón para que yo vaya presa"2.flv](https://www.youtube.com/watch?v=c_bTHwJScYA) — Caso Belsunce, 0:08:56
+- s/f — [C5N - Caso García Belsunce: Habla Horacio García Belsunce](https://www.youtube.com/watch?v=gDQhdvnR2J0) — C5N, 0:08:13
+- s/f — [Guillermo Andino entrevista a Carlos Carrascosa - DiFilm (2007)](https://www.youtube.com/watch?v=ghErNFza0VU) — archivodichiara, 0:08:59
+- s/f — [Iniciativa Privada - Absolución de Carrascosa](https://www.youtube.com/watch?v=gyENdSraKpE) — Caso Belsunce, 1:04:43
+- s/f — [C5N - POLICIALES - CASO BELSUNCE: HABLA QUIÑONES](https://www.youtube.com/watch?v=hd3lmav1p9Y) — C5N, 0:11:43
+- s/f — [Entrevista a JOHN HURTIG - Crimen de María Marta García Belsunce y el documental "Carmel"](https://www.youtube.com/watch?v=l2d45rnD_xQ) — Mundo TKM, 1:07:50
+- s/f — [Belsunce: Terminó de declarar la ex de Pachelo](https://www.youtube.com/watch?v=mvz3YdUOxfw) — C5N, 0:06:48
+- s/f — [Horacio García Belsunce en Crónica](https://www.youtube.com/watch?v=oJp5gb2Hc2Q) — Caso Belsunce, 0:09:48
+- s/f — [C5N   CASO BELSUNCE   HABLA SUSAN 4](https://www.youtube.com/watch?v=oLwoUx1VH2M) — C5N, 0:04:03
+- s/f — [C5N - CASO BELSUNCE: HABLA BARTOLI](https://www.youtube.com/watch?v=pMrp3rAgMxs) — C5N, 0:04:24
+- s/f — [D-Day: Juan Hurtig with Jorge Lanata](https://www.youtube.com/watch?v=raHLf5bPL2k) — Caso Belsunce, 0:15:12
+- s/f — [JUICIO a PACHELO: DECLARÓ CARRASCOSA](https://www.youtube.com/watch?v=tXRIxP_i9Dw) — C5N, 0:04:27
+- s/f — [CASO MARÍA MARTA: HABLA la ABOGADA de PACHELO](https://www.youtube.com/watch?v=ueZUfkojBfY) — C5N, 0:07:14
+- s/f — [Carlos Carrascosa declared innocent - Morfi](https://www.youtube.com/watch?v=vmllNb7kL2M) — Telefe, 0:05:18
+- s/f — [Who Killed María Marta Belsunce? - Interview with Carlos Carrascosa - Antes de Mañana 10/11/20](https://www.youtube.com/watch?v=wiTC38EhH7U) — Jotax Digital, 0:10:30
+- s/f — [⚖ Caso Belsunce: hoy declara Carlos Carrascosa como testigo](https://www.youtube.com/watch?v=yoRNXockPG4) — A24com, 0:06:59
+- s/f — [Caso Belsunce: declaró un policía y acusó a Pachelo](https://www.youtube.com/watch?v=zXZRsrun9lc) — LA NACION, 0:07:19
+
+### programa TV
+
+- 2011-05-17 — [C5N - TEXTUALES - CASO BELSUNCE - 4](https://www.youtube.com/watch?v=-_TTYZHQ1A8) — C5N, 0:15:58
+- 2011-05-17 — [C5N - TEXTUALES - CASO BELSUNCE - 2](https://www.youtube.com/watch?v=26Cq6UNSP50) — C5N, 0:14:59
+- 2011-05-17 — [C5N - TEXTUALES - CASO BELSUNCE - 1](https://www.youtube.com/watch?v=BzjDHhf6DbA) — C5N, 0:13:46
+- 2011-05-17 — [C5N - TEXTUALES - CASO BELSUNCE - 3](https://www.youtube.com/watch?v=_37sV4PJStk) — C5N, 0:14:53
+- 2011-05-27 — [C5N - CASO BELSUNCE: ESPECIAL - 4](https://www.youtube.com/watch?v=BRHF1D5btOw) — C5N, 0:14:22
+- 2011-05-27 — [C5N - CASO BELSUNCE: ESPECIAL - 3](https://www.youtube.com/watch?v=BSLLLTxDsO8) — C5N, 0:11:30
+- 2011-05-27 — [C5N - CASO BELSUNCE: ESPECIAL - 1](https://www.youtube.com/watch?v=g2x30Rc0h40) — C5N, 0:15:12
+- 2011-05-27 — [C5N - CASO BELSUNCE: ESPECIAL - 2](https://www.youtube.com/watch?v=hV5ysqwV-Ws) — C5N, 0:14:28
+- 2011-06-04 — [de frente caso García Belsunce   Parte 2](https://www.youtube.com/watch?v=w0eD_CNx8IA) — correobcg, 0:27:19
+- 2011-06-05 — [de frente caso García Belsunce   Parte 1](https://www.youtube.com/watch?v=_YJ9ZDN7Xa0) — correobcg, 0:31:03
+- 2015-05-21 — [La recuperación del pituto](https://www.youtube.com/watch?v=667wMJJ3jAY) — Caso Belsunce, 0:01:25
+- s/f — [Caso Belsunce  - Jorge Lanata](https://www.youtube.com/watch?v=1_bCm7r0nuw) — Caso Belsunce, 0:41:11
+- s/f — [The García Belsunce Family and Their Version of Events Part 4 - Susana Gimenez](https://www.youtube.com/watch?v=1laIwkzbolI) — Telefe, 0:04:51
+- s/f — [C5N - ESTA NOCHE: HORACIO GARCIA BELSUNCE](https://www.youtube.com/watch?v=4iZKI23i-Bs) — C5N, 0:08:26
+- s/f — [Altamura: misteriosa desaparición + Caso Belsunce #ElNotiA24 I PROGRAMA COMPLETO 13/07/2022](https://www.youtube.com/watch?v=9iVTAbdo8_A) — A24com, 1:50:16
+- s/f — [C5N – El Expediente: Carrascosa, como nunca lo viste (Parte 1)](https://www.youtube.com/watch?v=Coq2sRkR1jE) — C5N, 0:50:16
+- s/f — [Iniciativa Privada - Capítulo 18 - Caso María Marta García Belsunce](https://www.youtube.com/watch?v=F0VffbVzOLs) — Iniciativa Privada, 1:11:05
+- s/f — [Tuny Kollmann sobre el caso María Marta García Belsunce "La Negra Pop"](https://www.youtube.com/watch?v=L1BqWIv923Y) — Event 53, 0:25:52
+- s/f — [Especial María Marta - El Crimen del Country](https://www.youtube.com/watch?v=LxJcf_hoCFM) — TNT América Latina, 0:28:18
+- s/f — [Caso Belsunce + Alberto le respondió al procurador #ElDiarioDeLaTarde I PROGRAMA COMPLETO 26/08/2022](https://www.youtube.com/watch?v=QPLDiq6I7pM) — A24com, 1:46:18
+- s/f — [The García Belsunce Family and Their Version of Events Part 1 - Susana Gimenez](https://www.youtube.com/watch?v=QvtG71cgBIg) — Telefe, 0:04:32
+- s/f — [The Gracía Belsunce Family and Their Version of the Events Part 5 - Susana Gimenez](https://www.youtube.com/watch?v=Qx8T750QtEA) — Telefe, 0:05:20
+- s/f — [Del "pituto" a la absolución de Carrascosa](https://www.youtube.com/watch?v=bF_KJTq1wng) — Telenueve, 0:07:54
+- s/f — [Tuny Kollmann sobre el “Caso García Belsunce” "La Negra Pop"](https://www.youtube.com/watch?v=iNdwPZedoPQ) — Event 59, 0:35:37
+- s/f — [La Flia Gracía Belsunce y Su Versión de los Hechos Parte 3 -  Susana Gimenez](https://www.youtube.com/watch?v=pGqo9QXR3I8) — Telefe, 0:04:42
+- s/f — [El Pituto Show investiga el caso de García Belsunce](https://www.youtube.com/watch?v=uX4M_CEQ7w8) — Caricias Significativas, 0:20:56
+- s/f — ["Caso García Belsunce: la reconstrucción 16 años después" por Paulo Kablan "La negra Pop"](https://www.youtube.com/watch?v=uyKp7ptkRl4) — Free Pepo, 0:17:18
+
+### noticiero
+
+- 2011-05-12 — [C5N - BELSUNCE: LA ESCUCHA TELEFONICA](https://www.youtube.com/watch?v=oiOs-cNxvEA) — C5N, 0:01:19
+- 2011-05-16 — [C5N CASO BELSUNCE: IRENE HURTIG PIDE AL FBI](https://www.youtube.com/watch?v=-I3-YeyS7dU) — C5N, 0:02:11
+- 2011-05-16 — [C5N - CASO BELSUNCE: RECORRIDO DE BARTOLI Y HURTIG](https://www.youtube.com/watch?v=68uLajiJAao) — C5N, 0:02:05
+- 2011-05-16 — [C5N - CASO BELSUNCE: RECORRIDO DE LA MASAJISTA](https://www.youtube.com/watch?v=Hr2-HjP2qJQ) — C5N, 0:02:05
+- 2011-05-17 — [Visión Siete: No detendrán a Irene Hurtig](https://www.youtube.com/watch?v=RQNBrbG4XU4) — Canal Siete, 0:00:36
+- 2011-06-07 — [C5N - POLICIALES - CASO BELSUNCE: HURTIG - 4](https://www.youtube.com/watch?v=-YuFcKAchAw) — C5N, 0:14:25
+- 2011-06-07 — [C5N - POLICIALES - CASO BELSUNCE: HURTIG - 3](https://www.youtube.com/watch?v=Lyt5Gms7tSM) — C5N, 0:10:06
+- 2011-06-07 — [C5N - POLICIALES - CASO BELSUNCE: HURTIG - 1](https://www.youtube.com/watch?v=YCIkbGxxtxA) — C5N, 0:18:21
+- 2011-06-07 — [C5N - POLICIALES - CASO BELSUNCE: HURTIG - 2](https://www.youtube.com/watch?v=em2DwRNqOgg) — C5N, 0:16:02
+- 2011-06-07 — [C5N - POLICIALES - CASO BELSUNCE: HURTIG - 5](https://www.youtube.com/watch?v=psZE8GRSDI8) — C5N, 0:16:51
+- 2011-06-08 — [C5N - CASO BELSUNCE: CARRASCOSA ROMPIO EL SILENCIO](https://www.youtube.com/watch?v=0toLkFwkdq0) — C5N, 0:01:37
+- 2011-07-06 — [C5N - CASO BELSUNCE: AMPLIAN ACUSACION A BARTOLI](https://www.youtube.com/watch?v=aj_LGw2DOwk) — C5N, 0:06:01
+- 2011-08-10 — [C5N - POLICIALES - CASO BELSUNCE: EL JUICIO | PARTE 2](https://www.youtube.com/watch?v=IwFjiTu6akA) — C5N, 0:07:05
+- 2011-08-10 — [C5N - POLICIALES - CASO BELSUNCE: EL JUICIO | PARTE 1](https://www.youtube.com/watch?v=xbsn_0rXCHo) — C5N, 0:06:40
+- 2011-08-26 — [C5N - SOCIEDAD: JUICIO A MOLINA PICO](https://www.youtube.com/watch?v=sdHfKUMbKIo) — C5N, 0:01:20
+- 2011-11-12 — [C5N - CASO BELSUNCE: LOS JUZGADOS, PRESOS](https://www.youtube.com/watch?v=CNjZrKE6zqw) — C5N, 0:05:05
+- 2011-11-14 — [El descargo de Horacio García Belsunce](https://www.youtube.com/watch?v=neXzuvES8LE) — LA NACION, 0:04:07
+- 2011-11-18 — [C5N - CASO BELSUNCE: LOS 5 CONDENADOS, LIBRES | IRENE HURTIG](https://www.youtube.com/watch?v=H5Vw_fzhLSM) — C5N, 0:04:38
+- 2013-03-23 — [C5N - POLICIALES: CASO GARCIA BELSUNCE](https://www.youtube.com/watch?v=hrNpAEn1IGY) — C5N, 0:03:23
+- 2014-11-02 — [DiFilm - Caso Garcia Belsunce - Molina Pico pide la detención de Carrascosa (2003)](https://www.youtube.com/watch?v=dSh-gKPg6dQ) — archivodichiara, 0:01:04
+- 2014-11-28 — [Visión 7 - Caso García Belsunce: Carrascosa a un paso de la libertad](https://www.youtube.com/watch?v=bbcYLNv5RVI) — Canal Siete, 0:01:13
+- 2014-12-01 — [Visión 7 - Caso García Belsunce: La defensa pide la excarcelación de Carrascosa](https://www.youtube.com/watch?v=oabb4Ernq8o) — Canal Siete, 0:01:55
+- 2022-07-26 — [CASO GARCÍA BELSUNCE: CARRASCOSA DENUNCIÓ al FISCAL MOLINA PICO por ENCUBRIMIENTO](https://www.youtube.com/watch?v=yngNAXWXlxA) — C5N, 0:03:33
+- s/f — [Caso García Belsunce: pruebas que complican a Pachelo en el juicio I A24](https://www.youtube.com/watch?v=-bDr1SeWRxk) — A24com, 0:07:58
+- s/f — [Pachelo on the Bench: The 3 Conclusions of the Trial - Telefe News](https://www.youtube.com/watch?v=-c1lrAmZQl4) — Telefe Noticias, 0:09:41
+- s/f — [C5N - TRUE CRIME - BELSUNCE CASE: HORACIO G. BELSUNCE](https://www.youtube.com/watch?v=-e7XY4TflYA) — C5N, 0:10:02
+- s/f — [🔴 María Marta García Belsunce: día clave en el juicio por el crimen](https://www.youtube.com/watch?v=0XtCVxdVmxI) — América TV, 0:22:23
+- s/f — [Caso Belsunce: Pachelo contraataca en las redes - #ElNotiDeA24 17/08/2022](https://www.youtube.com/watch?v=0rKNCax2Ey0) — A24com, 0:05:40
+- s/f — [AVANZA el JUICIO por el CASO MARÍA MARTA: TODOS los DETALLES](https://www.youtube.com/watch?v=0rw34DjZKc8) — C5N, 0:06:30
+- s/f — [Caso García Belsunce: confirman la absolución del viudo Carlos Carrascosa](https://www.youtube.com/watch?v=0s3Ho0m5CUI) — C5N, 0:08:31
+- s/f — [Crimen de María Marta García Belsunce: la fiscalía pidió perpetua para Pachelo](https://www.youtube.com/watch?v=1J_dD-p6xe4) — Telenueve, 0:04:11
+- s/f — [Belsunce Case Trial: Everyone Against Pachelo. A Police Officer Testified and a Wiretap Was Revealed](https://www.youtube.com/watch?v=285521lH4Og) — LA NACION, 0:09:53
+- s/f — [Crece el misterio por el crimen del country que recuerda al caso Belsunce](https://www.youtube.com/watch?v=2X85xUBH2Vo) — América TV, 0:16:54
+- s/f — [El abogado de Nicolás Pachelo habló de la situación del acusado- +INFO por LN+](https://www.youtube.com/watch?v=2Z14DGHgsRU) — LA NACION, 0:04:31
+- s/f — [Javier Díaz investigó el caso García Belsunce](https://www.youtube.com/watch?v=2c6RTd6ava4) — América TV, 0:04:39
+- s/f — [John Hurtig: "Pachelo mató a María Marta"](https://www.youtube.com/watch?v=324oiU-tQyg) — Crónica TV, 0:28:00
+- s/f — [The RELATIONSHIP between ROBERTO GARCÍA MORITÁN and NICOLÁS PACHELO](https://www.youtube.com/watch?v=3BbQUxRQ-iI) — C5N, 0:08:11
+- s/f — [En junio comenzará el juicio contra Nicolás Pachelo. Crimen de María Marta García Belsunce](https://www.youtube.com/watch?v=3Be19RE5Wx4) — LA NACION, 0:12:35
+- s/f — [C5N - SOCIEDAD - CASO BELSUNCE: ¿SEGUIRAN PRESOS LOS DETENIDOS?](https://www.youtube.com/watch?v=3FnTQvgTs5o) — C5N, 0:04:32
+- s/f — [Pachelo absuelto por el crimen, condenado por robo](https://www.youtube.com/watch?v=3bFZz6Cdqfw) — LA NACION, 0:10:05
+- s/f — [C5N - GARCIA BELSUNCE CASE: THE VERDICT | CARRASCOSA SPEAKS](https://www.youtube.com/watch?v=3nvJcR4n7No) — C5N, 0:06:00
+- s/f — [Carrascosa, tras la perpetua para el asesino de María Marta: “Siempre pensé que había sido Pachelo”](https://www.youtube.com/watch?v=3rfHxfEIqb0) — Todo Noticias, 0:19:11
+- s/f — [The María Marta García Belsunce Case](https://www.youtube.com/watch?v=3uitDgpcLYA) — El Nueve Argentina, 0:44:22
+- s/f — [C5N - CASO BELSUNCE: HABLO IRENE HURTIG](https://www.youtube.com/watch?v=4-AV_UEF8SQ) — C5N, 0:18:26
+- s/f — [García Belsunce Case: Pachelo's Ex-Wife Testifies](https://www.youtube.com/watch?v=4D0xUUdIHBI) — Todo Noticias, 0:05:27
+- s/f — [MARÍA MARTA GARCÍA BELSUNCE: El crimen que conmocionó al país (parte 2)](https://www.youtube.com/watch?v=4RU4ePLQnyg) — C5N, 0:17:00
+- s/f — [Country club robbery: Prosecutors have dismantled Nicolás Pachelo's alibi](https://www.youtube.com/watch?v=4bF5McCXqFs) — C5N, 0:34:55
+- s/f — [🔴 Nicolás Pachelo fue CONDENADO A PRISIÓN PERPETUA por el crimen de María Marta García Belsulnce](https://www.youtube.com/watch?v=5HA5psm9RPA) — América TV, 0:11:38
+- s/f — [BELSUNCE CASE TRIAL: New testimony against PACHELO](https://www.youtube.com/watch?v=5NOZIUsvBlE) — Todo Noticias, 0:05:20
+- s/f — [John Hurtig: "Molina Pico es una basura repugnante, que no tiene derecho de hacer lo que hizo"](https://www.youtube.com/watch?v=5VC8BQRwb6c) — eldoce, 0:10:59
+- s/f — [Juicio por el crimen de María Marta: se conoce el fallo contra Nicolás Pachelo](https://www.youtube.com/watch?v=63EsnTuHE1U) — LA NACION, 0:09:53
+- s/f — [María Marta García Belsunce: comienzo el juicio a casi 20 años del crimen](https://www.youtube.com/watch?v=6CuKpj1W_yA) — América TV, 0:05:20
+- s/f — [C5N - CASO BELSUNCE: SE REANUDO EL JUICIO](https://www.youtube.com/watch?v=6aelPrdw8QU) — C5N, 0:06:26
+- s/f — [C5N - CASO GARCIA BELSUNCE](https://www.youtube.com/watch?v=6inAYT9QA84) — C5N, 0:06:33
+- s/f — [Horacio García Belsunce gave his verdict on who killed his sister María Marta.](https://www.youtube.com/watch?v=6qBezsVU888) — eltrece, 0:05:32
+- s/f — [Caso García Belsunce: 23 años del homicidio que conmocionó al país](https://www.youtube.com/watch?v=7-UgfBm0vVA) — LA NACION, 0:16:15
+- s/f — [BELSUNCE CASE | John Hurtig: "The doctors left saying it was an accident"](https://www.youtube.com/watch?v=7h-wpGJ1SUQ) — C5N, 0:12:50
+- s/f — [🚨 Scandal in the García Belsunce case: Was the verdict leaked?](https://www.youtube.com/watch?v=7jiTIDT3IF0) — A24com, 0:11:26
+- s/f — [🔴 Prisión perpetua para Nicolás Pachelo por el crimen de María Marta García Belsunce](https://www.youtube.com/watch?v=7owus94uOb8) — América TV, 0:04:07
+- s/f — [🚨 ¡ÚLTIMO MOMENTO! | Absolvieron a Nicolás Pachelo del crimen de García Belsunce](https://www.youtube.com/watch?v=8Yrcm0bFoa8) — América TV, 0:05:34
+- s/f — [Caso Belsunce: comenzó el juicio contra Pachelo y dos ex vigiladores del Carmel](https://www.youtube.com/watch?v=8hpnqnx7xTA) — Canal 26, 0:04:31
+- s/f — [C5N POLICE - BELSUNCE CASE: LAWYER SPEAKS](https://www.youtube.com/watch?v=9CcRZo0_DWE) — C5N, 0:06:00
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (7)](https://www.youtube.com/watch?v=9N0XmUP5plI) — C5N, 0:06:38
+- s/f — [C5N - CASO BELSUNCE: UN FISCAL SE OPONE A LA LIBERTAD](https://www.youtube.com/watch?v=9hOpmhdTiOc) — C5N, 0:05:03
+- s/f — [The trial of Pachelo for the murder of María Marta García Belsunce has begun.](https://www.youtube.com/watch?v=9omE5EqEm5U) — Crónica TV, 0:31:19
+- s/f — [C5N  - CASO MARIA MARTA BELSUNCE: PRISION DOMICILIARIA PARA CARRASCOSA](https://www.youtube.com/watch?v=ARcleI38OnY) — C5N, 0:11:34
+- s/f — [Caso García Belsunce: absolvieron a Nicolás Pachelo](https://www.youtube.com/watch?v=AhWNsXCIfSk) — Perfil, 0:04:11
+- s/f — [Pachelo acquitted of María Marta's murder](https://www.youtube.com/watch?v=Ao2wkBahM8M) — LA NACION, 0:05:59
+- s/f — [GARCÍA BELSUNCE: la MASAJISTA en la MIRA - Telefe Noticias](https://www.youtube.com/watch?v=B2wlbfmk3gY) — Telefe Noticias, 0:07:07
+- s/f — [TERCER JUICIO POR EL CRÍMERN DE MARÍA MARTA GARCÍA BELSUNCE](https://www.youtube.com/watch?v=B8ss7jqK4lY) — Telenoche, 0:04:43
+- s/f — [🚨 Caso Belsunce: TENSIÓN dentro del recinto. Absolvieron a Nicolás Pachelo](https://www.youtube.com/watch?v=BFwj5Y1d4Os) — A24com, 0:17:42
+- s/f — [Maria Marta Garcia Belsunce - 26 de octubre de 2012 DiFilm](https://www.youtube.com/watch?v=BK7MvJ6Lg9c) — ArchivoDiChiara Canal 2, 0:06:51
+- s/f — [BELSUNCE CASE | Horacio García Belsunce: "I can't forgive the scoundrel Molina Pico"](https://www.youtube.com/watch?v=C_SlEv_IDPo) — C5N, 0:12:14
+- s/f — [María Marta García Belsunce, nadie fue | CÁMARA DEL CRIMEN](https://www.youtube.com/watch?v=CjFv9ebuMY4) — Todo Noticias, 0:38:56
+- s/f — [Pachelo lloró cuando escuchó su absolución y dijo sentir "una mezcla de felicidad y tristeza"](https://www.youtube.com/watch?v=DBEBD0dt0HI) — Crónica TV, 0:12:24
+- s/f — [C5N - POLITICA EN VIVO: IRENE HURTIG | PARTE 2](https://www.youtube.com/watch?v=DOMap_vE_PQ) — C5N, 0:05:40
+- s/f — [Caso García Belsunce](https://www.youtube.com/watch?v=Drgg64TG_vs) —  ABC MUNDIAL NEWS, 0:10:16
+- s/f — [Carlos Carrascosa: "I had a record number of visitors in prison"](https://www.youtube.com/watch?v=E7Sq0mt_0_E) — eltrece, 0:04:59
+- s/f — [C5N - García Belsunce Case | Carlos Carrascosa free: "I was locked up for 7 years"](https://www.youtube.com/watch?v=F2afzh-9pzw) — C5N, 0:12:38
+- s/f — [Pachelo trial: Stepmother testified](https://www.youtube.com/watch?v=FOMNrVAVwdM) — C5N, 0:07:10
+- s/f — [Horacio García Belsunce habló de la absolución a Carrascosa - Café de la Tarde](https://www.youtube.com/watch?v=FcYH7LAEjDw) — LA NACION, 0:18:56
+- s/f — [Caso Garcia Belsunce - Un cartonero acuso a Carlos Carrascosa - Miguel Pierri 2003 V-09432 DiFilm](https://www.youtube.com/watch?v=Hx6XGeBtBGk) — ArchivoDiChiara Canal 2, 0:05:24
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (3)](https://www.youtube.com/watch?v=Ispoiy3Gy0o) — C5N, 0:06:01
+- s/f — [Belsunce Case: The Truth | CRIME CHAMBER (Full episode from 11/14/2020)](https://www.youtube.com/watch?v=J9j1E67oPSw) — Todo Noticias, 1:22:25
+- s/f — [García Belsunce: Pachelo en el banquillo](https://www.youtube.com/watch?v=JRZUJB_DE0U) — Canal Siete Noticias, 0:05:44
+- s/f — [C5N - CASO BELSUNCE: EL JUICIO - INFORME](https://www.youtube.com/watch?v=JTHbKWtceJw) — C5N, 0:04:07
+- s/f — [García Belsunce: habrá reconstrucción del homicidio 16 años después](https://www.youtube.com/watch?v=KVaKOxos4VI) — LA NACION, 0:08:44
+- s/f — [Caso María Marta García Belsunce: confirmaron la prisión para Nicolás Pachelo │DSV│ 19-02-25](https://www.youtube.com/watch?v=KzfU-ztaHlQ) — Canal de la Ciudad, 0:04:39
+- s/f — [Horacio García Belsunce habló de Nicolás Pachelo - Cortá por Lozano](https://www.youtube.com/watch?v=Mpsh5sYMh9Q) — Telefe, 0:05:09
+- s/f — [A 18 años, todavía no se sabe quién mató María Marta García Belsunce](https://www.youtube.com/watch?v=N17ftNfi8nA) — América TV, 0:06:11
+- s/f — [MARÍA MARTA CASE: WHO is GUILTY?](https://www.youtube.com/watch?v=ND75Ex8rzRo) — C5N, 0:53:19
+- s/f — [Crimen de María Marta García Belsunce:  el rol de cada uno de los acusados a 20 años del asesinato](https://www.youtube.com/watch?v=NjYZdtWnW7k) — Telenueve, 0:12:23
+- s/f — [Caso Garcia Belsunce - Carrascosa dice que es inocente V-04911 - DiFilm (1999)](https://www.youtube.com/watch?v=OJ1vxjJm5kY) — ArchivoDiChiara Canal 2, 0:05:43
+- s/f — [Pachelo detenido: "que la justicia llegue, aunque sea 30 años después"](https://www.youtube.com/watch?v=OV662ESivLE) — C5N, 0:09:18
+- s/f — [María Marta García Belsunce: The crime that shocked the country (part 3)](https://www.youtube.com/watch?v=P8ahQtOuIYE) — C5N, 0:10:36
+- s/f — [⚖ Comienza el juicio a Nicolás Pachelo por el caso Belsunce I A24](https://www.youtube.com/watch?v=PgQaRGWhejI) — A24com, 0:05:50
+- s/f — [Nicolás Pachelo, condenado a prisión perpetua por el crimen de María Marta García Belsunce](https://www.youtube.com/watch?v=PzOynugtpFI) — eltrece, 0:06:37
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (4)](https://www.youtube.com/watch?v=Q3WHdnOlFm8) — C5N, 0:05:40
+- s/f — [🚨 Belsunce Case: Pachelo acquitted of the crime of María Marta I A24](https://www.youtube.com/watch?v=QJiyRStttW4) — A24com, 0:08:41
+- s/f — [C5N - TRUE CRIME: MARÍA MARTA GARCÍA BELSUNCE](https://www.youtube.com/watch?v=Qc6JF_bhcnE) — C5N, 0:05:21
+- s/f — [El crimen de María Marta Belsunce: el caso que horrorizó al país](https://www.youtube.com/watch?v=QdiIclaTC_I) — América TV, 0:06:53
+- s/f — ["Pachelo volverá a matar", Patricio Ferrari en #ElNotiDeA24 2/12/2022](https://www.youtube.com/watch?v=QgIhWBTM44Q) — A24com, 0:10:57
+- s/f — [GARCÍA BELSUNCE CASE: NICOLÁS PACHELO BREAKS HIS SILENCE AT THE TRIAL](https://www.youtube.com/watch?v=S59k9wJNvF0) — A24com, 0:05:04
+- s/f — [MARÍA MARTA GARCÍA BELSUNCE CASE: Nicolás Pachelo sentenced to life imprisonment](https://www.youtube.com/watch?v=S9zzHYiWGbU) — Telenoche, 0:05:10
+- s/f — [El testimonio de Carrascosa tras la confirmación de la condena a Pachelo: "Es una misión cumplida"](https://www.youtube.com/watch?v=SHIOKlL6m8U) — Todo Noticias, 0:10:04
+- s/f — [Nota a Horacio García Belsunce (Version completa)](https://www.youtube.com/watch?v=SckTo9htt38) — Crónica TV, 0:34:15
+- s/f — [Caso García Belsunce: absolvieron a Nicolás Pachelo - ATP 02 12 22](https://www.youtube.com/watch?v=TLsQu98pdig) — ATP Santa Fe, 0:07:49
+- s/f — [⚖ Juicio por el crimen de María Marta García Belsunce I A24](https://www.youtube.com/watch?v=Tfe8QIefN6w) — A24com, 0:10:18
+- s/f — [C5N - POLICIALES - CASO BELSUNCE: EL JUICIO](https://www.youtube.com/watch?v=TvAw6ps9EkI) — C5N, 0:04:27
+- s/f — [Belsunce: están imputados Nicolás Pachelo y dos vigiladores](https://www.youtube.com/watch?v=UILLJLU8RXY) — América TV, 0:09:59
+- s/f — [🚨 Caso Belsunce: "se hizo justicia" - Abogada de Pachelo I a24](https://www.youtube.com/watch?v=UM_ViamQCtQ) — A24com, 0:05:15
+- s/f — [Caso García Belsunce: las pruebas de la perpetua a Nicolás Pachelo](https://www.youtube.com/watch?v=UQ-9L-YIF7g) — América TV, 0:08:23
+- s/f — [10 años de impunidad: el crimen de María Marta García Belsunce  | A24](https://www.youtube.com/watch?v=Uwoi2vhYZm8) — A24com, 0:04:42
+- s/f — [GARCÍA BELSUNCE CASE: Carlos Carrascosa files complaint against prosecutor Molina Pico for "aggra...](https://www.youtube.com/watch?v=WUVpJK3OG6M) — eltrece, 0:04:05
+- s/f — [Caso María Marta García Belsunce: Carrascosa fue absuelto](https://www.youtube.com/watch?v=WkIcDRbOltk) — eltrece, 0:09:59
+- s/f — [GARCÍA BELSUNCE CASE: 22 YEARS LATER, PACHELO IS LIFE SENTENCED - Telefe Noticias](https://www.youtube.com/watch?v=WtYxmrHk2ZU) — Telefe Noticias, 0:23:11
+- s/f — [Carlos Carrascosa publica libro sobre el crimen de María Marta](https://www.youtube.com/watch?v=Wx6L51YfJ9M) — Crónica TV, 0:11:13
+- s/f — [Garcia Belsunce Case - Carlos Carrascosa Insisted on His Innocence - DiFilm (2007)](https://www.youtube.com/watch?v=XMDh7lb3fv8) — archivodichiara, 0:11:29
+- s/f — [García Belsunce: "Nicolás Pachelo me amenazó de muerte". Juicio por el crimen de María Marta](https://www.youtube.com/watch?v=XXm7vTBpeJs) — LA NACION, 0:09:43
+- s/f — [🚨 Caso Belsunce: Nicolás Pachelo volvió después de 20 años al country I A24](https://www.youtube.com/watch?v=X_mCoL0f8-Y) — A24com, 0:04:22
+- s/f — [Quién es quién en el caso María Marta Belsunce](https://www.youtube.com/watch?v=XuKGYnvy-uw) — América TV, 0:09:58
+- s/f — [Crimen de María Marta: ¿Qué dicen los gestos de los sospechosos?](https://www.youtube.com/watch?v=XzDFSxDV_hs) — Crónica TV, 0:25:04
+- s/f — [María Marta's brother's anger hours before the verdict: "They're going to acquit Nicolás Pachelo"](https://www.youtube.com/watch?v=YD-zY_jlYqs) — Todo Noticias, 0:10:12
+- s/f — [El caso de María Marta Belsunce - Rebobinando Historias #9](https://www.youtube.com/watch?v=YI9XuPFTc_M) — Crónica TV, 0:12:27
+- s/f — [🚨 Crimen de María Marta García Belsunce: Nicolás Pachelo a prisión perpetua](https://www.youtube.com/watch?v=YkyAJWzrf0w) — A24com, 0:16:31
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE](https://www.youtube.com/watch?v=Yq1JrX_hY84) — C5N, 0:05:21
+- s/f — [Nicolás Pachelo abrió un Instagram desde la cárcel y dio su versión del caso García Belsunce](https://www.youtube.com/watch?v=ZicPlqB_kig) — Telenueve, 0:07:25
+- s/f — [¿Quién mató a María Marta?](https://www.youtube.com/watch?v=Zz8IAlitzmg) — Telenueve, 0:06:19
+- s/f — [C5N - GARCIA BELSUNCE CASE (SUMMARY)](https://www.youtube.com/watch?v=_dz8tWOxTWI) — C5N, 0:04:11
+- s/f — [🚨 ¿Quién mató a María Marta Belsunce?🚨 A24](https://www.youtube.com/watch?v=_osBWO-JxUU) — A24com, 0:06:01
+- s/f — ["Yo se que Nicolás es inocente" abogada de Nicolás Pachelo I A234](https://www.youtube.com/watch?v=aL2bulM8SI4) — A24com, 0:08:29
+- s/f — [🔴 A 20 años del caso García Belsunce: allanan la casa de la masajista](https://www.youtube.com/watch?v=aOYpiHFf3Ck) — América TV, 0:07:58
+- s/f — [C5N - CASO BELSUNCE: MARCHA POR LOS DETENIDOS | IRENE HURTIG](https://www.youtube.com/watch?v=aVv8iuLB0Eg) — C5N, 0:05:43
+- s/f — [Carrascosa, a un paso de quedar libre](https://www.youtube.com/watch?v=agCI0HT-UMY) — Telenueve, 0:04:19
+- s/f — [The truth about the murder of María Marta García Belsunce | CRIME CHAMBER](https://www.youtube.com/watch?v=aoOb0Ak-Znk) — Todo Noticias, 0:49:48
+- s/f — [C5N - CASO BELSUNCE: NO DETENDRAN A IRENE HURTIG](https://www.youtube.com/watch?v=asPSCgmmzdg) — C5N, 0:05:07
+- s/f — [Horacio García Belsunce spoke](https://www.youtube.com/watch?v=auaOfT6ZO6U) — C5N, 0:09:17
+- s/f — [María Marta Belsunce: A 18 años del homicidio en Country Club Carmel](https://www.youtube.com/watch?v=bCCmdxQajcY) — El Nueve Argentina, 0:23:35
+- s/f — [C5N - POLICIALES - CASO BELSUNCE: EL JUICIO | PARTE 2](https://www.youtube.com/watch?v=bHjWi3W3M68) — C5N, 0:09:11
+- s/f — [García Belsunce Case - The Glue of Discord - DiFilm (2003)](https://www.youtube.com/watch?v=c2GCXliH3G8) — archivodichiara, 0:05:27
+- s/f — [Detuvieron a Nicolás Pachelo, acusado de hacer cuatro asaltos](https://www.youtube.com/watch?v=cqx52IW2lKM) — C5N, 0:06:07
+- s/f — [🔴 Carlos Carrascosa: "Le prometí a María Marta condenar al que la mató"](https://www.youtube.com/watch?v=dty8qOwuVPQ) — A24com, 0:16:58
+- s/f — [C5N - BELSUNCE CASE: GUILLERMO BARTOLI SPEAKS](https://www.youtube.com/watch?v=fifSwen1TX4) — C5N, 0:07:33
+- s/f — [C5N - CASO BELSUNCE: NO DETENDRAN A IRENE HURTIG](https://www.youtube.com/watch?v=g8Ao3WUg3F8) — C5N, 0:04:59
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (8)](https://www.youtube.com/watch?v=hVNEkG784lE) — C5N, 0:06:41
+- s/f — [🚨 Caso Belsunce: "A maría Marta la acaban de matar de nuevo" I A24](https://www.youtube.com/watch?v=hgIMhoK4680) — A24com, 0:06:38
+- s/f — [C5N - CASO BELSUNCE: LAS ESCUCHAS](https://www.youtube.com/watch?v=jYLsQTRfil4) — C5N, 0:07:40
+- s/f — [García Belsunce Case: Prosecution accuses Pachelo](https://www.youtube.com/watch?v=jfByAbs3eig) — LA NACION, 0:13:01
+- s/f — [C5N -CASO GARCIA BELSUNCE: CARRASCOSA DE ALOJA EN LA CASA DE UN AMIGO2](https://www.youtube.com/watch?v=k2XsHO3C3VQ) — C5N, 0:06:33
+- s/f — [Caso Belsunce: Empiezan a conocerse las replicas de las partes 2007](https://www.youtube.com/watch?v=lNPMxv7n-i0) — ArchivoDiChiara Canal 2, 0:04:11
+- s/f — [Informe de Secretos Verdaderos | Caso García Belsunce: ¿Quién mató a María Marta?](https://www.youtube.com/watch?v=lb-U4YlhTJ4) — América TV, 0:09:17
+- s/f — [Visión Siete: Amigas de María Marta sospechan de la familia](https://www.youtube.com/watch?v=m_lz_gjYX6Q) — Canal Siete, 0:05:25
+- s/f — [Belsunce: Piden perpetua a Pachelo - #ElNotiDeA24 31/10/2022](https://www.youtube.com/watch?v=mg_59XJvmNw) — A24com, 0:11:41
+- s/f — [CARMEL: Who Killed María Marta? | Pablo Duggan and the secrets of the GARCÍA BELSUNCE case](https://www.youtube.com/watch?v=n6JuF67jbRI) — C5N, 0:15:44
+- s/f — [MARÍA MARTA GARCÍA BELSUNCE: The crime that shocked the country (part 1)](https://www.youtube.com/watch?v=nRaq11arPsk) — C5N, 0:19:00
+- s/f — [MARÍA MARTA GARCÍA BELSUNCE CASE: Nicolás Pachelo speaks from prison](https://www.youtube.com/watch?v=nTamsOUTUOw) — Telenoche, 0:19:09
+- s/f — [Hugo Lescano, analiza imágenes de Carmel, ¿Quién mató a Maria Marta? en Para Alquilar Balcones](https://www.youtube.com/watch?v=nTpnMbm6ECg) — Canal de la Ciudad, 0:11:23
+- s/f — [BELSUNCE CASE | Carrascosa, acquitted by the Court: "I achieved my goal of dying innocent"](https://www.youtube.com/watch?v=nytxeQgtHAs) — C5N, 0:07:42
+- s/f — [🚨 García Belsunce Case: Pachelo in deeper trouble | A24](https://www.youtube.com/watch?v=oEBnQmm6Ekc) — A24com, 0:04:40
+- s/f — [CASO GARCÍA BELSUNCE: Pachelo quedó absuelto y hubo escándalo en el tribunal ¿EL CRIMEN PERFECTO?](https://www.youtube.com/watch?v=o__4qd-bxqI) — eltrece, 0:05:22
+- s/f — [CRIMEN de MARÍA MARTA: la CÁMARA OCULTA que COMPLICA a PACHELO](https://www.youtube.com/watch?v=ou_OkMddNz4) — C5N, 0:12:08
+- s/f — [NGFEDERAL - CRIMEN DE MARÍA MARTA: NICOLÁS PACHELO ABSUELTO  - NACIONALES](https://www.youtube.com/watch?v=pvAiH6tEpUo) — NGFEDERAL, 0:09:36
+- s/f — ["Pachelo no mató a María Marta", Raquel Pérez Iglesias en #ElNotiA24 1/11/2022](https://www.youtube.com/watch?v=pyed0zqy0ic) — A24com, 0:13:23
+- s/f — [Caso María Marta Belsunce: a 18 años del crimen](https://www.youtube.com/watch?v=qNj5Fg8B3gY) — América TV, 0:09:56
+- s/f — [🚨 Trial against Pachelo and two former Carmel security guards I A24](https://www.youtube.com/watch?v=qPcSkKdjjnQ) — A24com, 0:05:31
+- s/f — [Caso García Belsunce, en un año prescribe la causa](https://www.youtube.com/watch?v=qa4TRBeFQdA) — Crónica TV, 0:09:20
+- s/f — [ARGENTINA | El crimen de María Marta García Belsunce: Pachelo fue absuelto](https://www.youtube.com/watch?v=qgKdQixbk0w) — Canal 26, 0:04:08
+- s/f — [MARIA MARTA CASE: THE FULL VERDICT IS READ TO PACHELO](https://www.youtube.com/watch?v=qnmiUMAgRMs) — C5N, 0:14:54
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (2)](https://www.youtube.com/watch?v=rCzB5fwOXmQ) — C5N, 0:05:00
+- s/f — [Nicolás Pachelo estrenó cuenta de Instagram y Youtube](https://www.youtube.com/watch?v=rUX9gWmY7OY) — América TV, 0:06:02
+- s/f — [El hermano de García Belsunce: "MOLINA PICO ES UN PSICÓPATA" y la escucha telefónica CLAVE cajoneada](https://www.youtube.com/watch?v=rx__ehkNYyM) — eltrece, 0:04:26
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (5)](https://www.youtube.com/watch?v=s2CWozJ9Pqc) — C5N, 0:04:58
+- s/f — [Caso García Belsunce: absolvieron a Nicolás Pachelo y el homicidio de María Marta quedará impune](https://www.youtube.com/watch?v=sja6V8hfsTE) — LA NACION, 0:08:31
+- s/f — [A 20 años: ¿Quién mató a María Marta García Belsunce?](https://www.youtube.com/watch?v=tML-GaYmrpU) — América TV, 0:09:52
+- s/f — [CASO GARCÍA BELSUNCE: PACHELO NEGÓ HABER CONOCIDO a MARÍA MARTA](https://www.youtube.com/watch?v=u9OUztzOE0g) — C5N, 0:04:02
+- s/f — [C5N - CASO BELSUNCE: HABLO BARTOLI](https://www.youtube.com/watch?v=uJVbNvXwcbA) — C5N, 0:04:20
+- s/f — [C5N - CASO BELSUNCE: INSPECCION OCULAR EN EL CARMEL](https://www.youtube.com/watch?v=uwRP12iE3bU) — C5N, 0:07:56
+- s/f — [🚨 CASO BELSUNCE: la investigación interminable I A24](https://www.youtube.com/watch?v=v7SDP78gfDA) — A24com, 0:09:34
+- s/f — [✉ La carta de Carrascosa a María Marta Belsunce I A24](https://www.youtube.com/watch?v=vMaBi_EKAiU) — A24com, 0:07:43
+- s/f — [🔴Caso Belsunce: todas las pruebas contra Nicolás Pácelo🔴 I A24](https://www.youtube.com/watch?v=vTQvyNKJreY) — A24com, 0:40:03
+- s/f — [DiFilm - Caso Belsunce Las lagrimas de Carrascosa 2007](https://www.youtube.com/watch?v=vVuR4pzXB9k) — ArchivoDiChiara Canal 2, 0:14:39
+- s/f — [Visión Siete: Caso Belsunce: Un testimonio clave](https://www.youtube.com/watch?v=wMGu6QaEjiE) — Canal Siete, 0:05:13
+- s/f — [AVANCES EN EL JUICIO POR EL CASO DE GARCÍA BELSUNCE](https://www.youtube.com/watch?v=wa437JBzSgQ) — A24com, 0:05:56
+- s/f — [C5N - CASO GARCIA BELSUNCE: EN VIVO HORACIO GARCIA BELSUNCE (6)](https://www.youtube.com/watch?v=xcAQsEWLcnY) — C5N, 0:04:01
+- s/f — [Horacio García Belsunce en Intratables](https://www.youtube.com/watch?v=xfVdTGrc1Ok) — Perfil, 0:05:11
+- s/f — [María Marta Case: for Carrascosa's lawyer, it was Pachelo who shot García Belsunce](https://www.youtube.com/watch?v=yH0g6ClbMRw) — Telenueve, 0:06:40
+- s/f — [Hugo Lopez Carribero - La Nota del Día - 20/12/2016 - Caso María Marta García Belsunce](https://www.youtube.com/watch?v=yLaVDCIkGIM) — Clippingtvargentina, 0:08:02
+- s/f — [Caso María Marta García Belsunce: Pachelo absuelto por el crimen, condenado por robo](https://www.youtube.com/watch?v=yLs0Tm1k5RU) — LA NACION, 0:10:48
+- s/f — [Carrascosa: "Falta profundizar más el tema de la autopsia, es la prueba por la que estoy libre"](https://www.youtube.com/watch?v=yNWkVjvwHQ0) — C5N, 0:08:48
+- s/f — [C5N - CASO BELSUNCE: CUARTO INTERMEDIO HASTA EL MARTES](https://www.youtube.com/watch?v=yOsh2d0CS1E) — C5N, 0:05:33
+- s/f — [María Marta García Belsunce case: The court sentenced Nicolás Pachelo to life imprisonment](https://www.youtube.com/watch?v=zF4wpWrJE5Q) — Todo Noticias, 0:04:26
+- s/f — [🚨 Caso Belsunce: absolvieron a Nicolás Pachelo](https://www.youtube.com/watch?v=zFBfVUd1g_Y) — A24com, 0:17:42
+- s/f — ["Will Nicolás Pachelo kill again?", John Hurtig on #ElNotiDeA24 12/01/2022](https://www.youtube.com/watch?v=zKDAvGZoRlE) — A24com, 0:10:50
+- s/f — [🚨Caso Belsunce: 6 balas, 6 razones para culpara a Nicolás Pachelo 🚨 I A24](https://www.youtube.com/watch?v=zgJjx2M2PXI) — A24com, 0:10:07
+- s/f — [García Belsunce, el giro: indagan a la exmujer de Pachelo](https://www.youtube.com/watch?v=zgu57hHYtAw) — C5N, 0:18:36
+- s/f — [C5N - POLICIALES - CASO BELSUNCE: EL JUICIO](https://www.youtube.com/watch?v=zmr80_gzSco) — C5N, 0:07:02
+- s/f — [Juicio por el crimen de María Marta - Carlos Strione y Luis Rosales en #ParaQueSepas 13/07/2022](https://www.youtube.com/watch?v=zqmy9MX6vM8) — A24com, 0:40:15
+- s/f — [GARCÍA BELSUNCE CASE: LIFE SENTENCE for PACHELO and CARRASCOSA'S WORD](https://www.youtube.com/watch?v=zu6noZM9K-g) — C5N, 0:52:08
+
+### documental-serie
+
+- 2020-11-05 — [Carmel: ¿Quién mató a María Marta? (docuserie, 4 episodios)](https://www.netflix.com/search?q=Carmel%20Qui%C3%A9n%20mat%C3%B3%20a%20Mar%C3%ADa%20Marta) — Netflix, — (restringido)
+- 2020-11-15 — [Duggan sobre el documental del caso](https://www.youtube.com/watch?v=1VGJQuJ0WkQ) — Caso Belsunce, 0:50:46
+- 2020-11-15 — [HGB con Juana Viale](https://www.youtube.com/watch?v=j7cWepPT4AQ) — Caso Belsunce, 0:26:16
+- 2022-07-17 — [María Marta: el crimen del country (serie ficcional, 8 episodios)](https://www.max.com/) — HBO Max, — (restringido)
+- s/f — [El detrás de escena del documental "Carmel: ¿quién mató a María Marta?"](https://www.youtube.com/watch?v=KxefUuSBn_s) — CLARÍN, 0:04:43
+- s/f — [La grieta en el periodismo policial por el documental de G. Belsunce](https://www.youtube.com/watch?v=O4xe0tp6tQg) — América TV, 0:05:20
+- s/f — [John Hurtig: "Estoy decepcionado con el documental"](https://www.youtube.com/watch?v=U6KqIk9z_Pc) — América TV, 0:06:33
+- s/f — [Carmel | La investigación detrás del documental](https://www.youtube.com/watch?v=W23R_nvpgdI) — Netflix Latinoamérica, 0:06:52
+- s/f — [John Hurtig enojado con la serie ‘Carmel’](https://www.youtube.com/watch?v=gKKejq72fEQ) — Telenueve, 0:25:47
+- s/f — [Carmel: ¿Quién mató a María Marta? | Tráiler oficial | Netflix](https://www.youtube.com/watch?v=k07_DrISizQ) — Netflix Latinoamérica, 0:02:14
+- s/f — [El documental que desató el escándalo entre periodistas](https://www.youtube.com/watch?v=oGHmFj3mptE) — América TV, 0:05:46
+- s/f — [Furor por el documental del crimen de María Marta García Belsunce](https://www.youtube.com/watch?v=xB5Yg9dw7Do) — C5N, 0:12:30
+- s/f — [Detuvieron a Nicolás Pachelo por una serie de robos en un countrys](https://www.youtube.com/watch?v=yCQaYDJTV8w) — A24com, 0:04:32
+
+### podcast-radio
+
+- 2011-09-16 — [carlos_carrascosa150911.flv](https://www.youtube.com/watch?v=9d25LJAjnAs) — aloshechos, 0:28:36
+- 2011-09-20 — [hgb-audio-alegato fiscal.wmv](https://www.youtube.com/watch?v=5j1Gpuzlp_g) — Caso Belsunce, 0:06:35
+- 2020-12-11 — [Entrevista de audio de Carrascosa para radio Sudamericana](https://www.youtube.com/watch?v=MKV0EztP3gY) — Caso Belsunce, 0:16:05
+- 2021-07-01 — [40 minutos para matar (podcast, 6 episodios, temporada 1 jul-sep 2021)](https://podimo.com/) — Podimo, — (restringido)
+- 2025-08-14 — [Modus Operandi ep. 277: ¿Quién mató a María Marta? (en portugués)](https://www.thetvdb.com/series/modus-operandi/episodes/11287695) — Modus Operandi, 1:02:00
+- s/f — [Horacio García Belsunce en Radio Nacional](https://www.youtube.com/watch?v=5vjXUC-Ub00) — Caso Belsunce, 0:16:39
+- s/f — [El caso García Belsunce / @AyelenBerdinas en Charlatown](https://www.youtube.com/watch?v=704edLKYAn4) — Vorterix, 0:22:07
+- s/f — [Qui va matar la Maria Marta? Un crim que donarà la volta al món](https://www.youtube.com/watch?v=7JyItcVBgco) — Catalunya Ràdio, 0:54:25
+- s/f — [María Marta: El crimen del country | Podcast - Ep 08 | La actualidad del caso | HBO Max](https://www.youtube.com/watch?v=8B-a2L6ayUA) — HBO Max Latinoamérica, 0:24:11
+- s/f — [Laura Novoa sobre "María Marta: El crimen del country" en #TodoPasa](https://www.youtube.com/watch?v=FKnQGISfpnU) — Urbana Play 104.3 FM, 0:30:47
+- s/f — [Nora Dalmasso and María Marta García Belsunce, cases marked by status and impunity | BLENDER](https://www.youtube.com/watch?v=HUSs8taZ1Yo) — BLENDER, 0:39:28
+- s/f — [María Marta: El crimen del country | Podcast - Ep 07 | La hora de la justicia | HBO Max](https://www.youtube.com/watch?v=HqwpApCPy3o) — HBO Max Latinoamérica, 0:19:07
+- s/f — [CASO MARIA MARTA BELSUNCE Columna de policiales de Rolando Barbano - martes 12-07-22](https://www.youtube.com/watch?v=IPlBN3X8FDk) — Daniel Carboni, 0:13:39
+- s/f — [María Marta: El crimen del country | Podcast - Ep 02 | Lo que dice el cuerpo | HBO Max](https://www.youtube.com/watch?v=JpwVRsrcP9k) — HBO Max Latinoamérica, 0:26:37
+- s/f — [THE GARCÍA BELSUNCE CASE: the hitman, the accused, and the incredible crime](https://www.youtube.com/watch?v=KTi1t_8nKZw) — La 100, 0:14:31
+- s/f — [¡MARIA MARTA GARCIA BELSUNCE: 20 AÑOS DE UN CRIMEN SIN RESOLVER! | Vorterix Santa Rosa](https://www.youtube.com/watch?v=Kmqtnc4yyKg) — Vorterix Santa Rosa, 0:14:17
+- s/f — [Caso García Belsunce: Pachelo a perpetua - Patricio Ferrari: "No sé si volverá a ver la calle"](https://www.youtube.com/watch?v=L10HybEclvM) — Radio La Red AM 910, 0:07:34
+- s/f — [MAURO SZETA AND THE PLOT BEHIND THE GARCÍA BELSUNCE CASE | BAR CONFESSIONS | BLENDER](https://www.youtube.com/watch?v=OAUeGVymUek) — BLENDER, 0:23:54
+- s/f — [HORACIO GARCIA BELSUNCE, HERMANO DE MARIA MARTA ENTREVISTA CON CHICHE GELBLUNG EN RADIO DEL PLATA](https://www.youtube.com/watch?v=T5GnC_11pD0) — Del Plata AM 1030, 0:19:26
+- s/f — [Entrevista a Beatriz Goldberg - Abby Moreno & Horacio García Belsunce / El Glóbulo](https://www.youtube.com/watch?v=Tq96IM33r2k) — Galáctica Radio & TV, 1:04:05
+- s/f — [Horacio García Belsunce sobre el fiscal: "Él cometió 4 grandes errores" | #lamañanadeelobservador](https://www.youtube.com/watch?v=U9ZjUBnbn6c) — El Observador 107.9, 0:13:41
+- s/f — [Horacio Garcia Belsunce Abogado y Periodista](https://www.youtube.com/watch?v=XVGIyVqRFA8) — Eco Medios, 0:11:41
+- s/f — [Caso María Marta Belsunce: "Fue un papelón" Ricardo Canaletti en #TodoPasa](https://www.youtube.com/watch?v=Yc_UMIMeasQ) — Urbana Play 104.3 FM, 0:28:36
+- s/f — [Horacio García Belsunce habló del rumor de romance de Camila de GH con Carlos Carrascosa](https://www.youtube.com/watch?v=a1uuRig4BAg) — Radio Mitre, 0:05:12
+- s/f — [La familia Biasi en el caso García Belsunce: "Había sido una muerte violenta"](https://www.youtube.com/watch?v=aJzXMB3CoGM) — RADIO REALPOLITIK FM, 0:31:22
+- s/f — [CARRASCOSA - COM. TEL. CARLOS ALTUVE FISCAL CASACION](https://www.youtube.com/watch?v=bC0Dl9Ez4t0) — Banda3punto0, 0:07:57
+- s/f — [María Marta: El crimen del country | Podcast - Ep 01 | El country más famoso | HBO Max](https://www.youtube.com/watch?v=d-4p9jxuxfI) — HBO Max Latinoamérica, 0:28:32
+- s/f — [Maria Marta: El crimen del Country - La serie](https://www.youtube.com/watch?v=ntn7gmWb7CQ) — Radio10, 0:15:58
+- s/f — [Podcast | Carmel: ¿Quién mató a María Marta? | Nada que ver](https://www.youtube.com/watch?v=nxJiYyXttdg) — Netflix Latinoamérica, 0:40:45
+- s/f — [María Marta García Belsunce - Casos Policiales con Pablo Vio](https://www.youtube.com/watch?v=pHYSWLrpgTY) — Vorterix, 0:27:53
+- s/f — [Carlos Carrascosa, viudo de Maria Marta Garcia Belsunce, sobre la seria "Carmel"](https://www.youtube.com/watch?v=pP34_V8R1iU) — Radio10, 0:23:50
+- s/f — [MURDERED: María Marta García Belsunce Part 2](https://crimejunkiepodcast.com/murdered-maria-marta-garcia-belsunce-part-2) — Crime Junkie, —
+- s/f — [La HISTORIA del DÍA por PAULO KABLAN - Caso MARÍA MARTA GARCÍA BELSUNCE](https://www.youtube.com/watch?v=zh7EnRIAWfY) — Pop Radio 101.5, 0:25:06
+
+### otro
+
+- 2011-09-08 — [Misa para pedir justicia por María Marta García Belsunce 7/9/2011](https://www.youtube.com/watch?v=zwktKRVRAqI) — Caso Belsunce, 0:00:34
+- 2011-10-04 — [ESCENA DEL CRIMEN GARCIA BELSUNCE](https://www.youtube.com/watch?v=f32kYWp-Ugk) — fdcabogados21, 0:03:04
+- 2011-10-22 — [ADN - Caso Belsunce](https://www.youtube.com/watch?v=WDEru_fEJiQ) — Caso Belsunce, 0:07:35
+- 2011-12-25 — [Caso Belsunce: móvil? arma? homicida?](https://www.youtube.com/watch?v=DVNFszEqh2g) — DEFRENTEhgb, 0:24:47
+- 2011-12-25 — [Caso Belsunce (2): ADN negativo para todos los condenados](https://www.youtube.com/watch?v=yNW7WlQnsxU) — DEFRENTEhgb, 0:25:58
+- 2012-04-22 — [casa.wmv](https://www.youtube.com/watch?v=wzXSbxViTqo) — Caso Belsunce, 0:06:30
+- 2012-07-03 — [blog](https://www.youtube.com/watch?v=Mr9KQLAe2Po) — Caso Belsunce, 0:03:48
+- 2013-03-22 — [c320e6a7-8d85-4d7b-8578-ebbc6b8b6f27](https://www.youtube.com/watch?v=NAxMK0TMkRY) — AlmaClip Demo, 0:04:40
+- 2013-03-31 — [Dónde está la imagen de Michelini esperando 20 minutos?](https://www.youtube.com/watch?v=tHP6KSdrVTk) — Caso Belsunce, 0:03:16
+- 2013-08-01 — [Dr. Fernando Díaz Cantón - Caso María Marta García Belsunce - Isel TV](https://www.youtube.com/watch?v=LTpWQ0zhvg8) — iSel TV, 0:27:44
+- 2014-01-11 — [Caso Belsunce: Una causa armada](https://www.youtube.com/watch?v=OaWHgU4HJME) — Caso Belsunce, 0:18:11
+- 2015-05-21 — [El arma](https://www.youtube.com/watch?v=2y2baG1kdm4) — Caso Belsunce, 0:02:44
+- 2015-05-21 — [Mentiras periodísticas - ADN](https://www.youtube.com/watch?v=ADpZr4toDfQ) — Caso Belsunce, 0:02:46
+- 2015-05-21 — [Hipótesis del accidente](https://www.youtube.com/watch?v=Axyp9jZHBJ4) — Caso Belsunce, 0:03:54
+- 2015-05-21 — [El pegamento](https://www.youtube.com/watch?v=Bnmro_2199A) — Caso Belsunce, 0:05:30
+- 2015-05-21 — [Horarios house](https://www.youtube.com/watch?v=Yn0EJ8oS2Ko) — Caso Belsunce, 0:04:33
+- 2015-05-21 — [El móvil](https://www.youtube.com/watch?v=cTHceYam_Y0) — Caso Belsunce, 0:03:46
+- 2015-05-21 — [Limpieza](https://www.youtube.com/watch?v=hdP_JSC3dvU) — Caso Belsunce, 0:01:58
+- 2015-05-21 — [La llamada a OSDE](https://www.youtube.com/watch?v=owQeOgQMFf8) — Caso Belsunce, 0:06:51
+- 2015-05-22 — [Hipótesis del robo](https://www.youtube.com/watch?v=7HYv-2WrGHk) — Caso Belsunce, 0:01:20
+- 2015-05-22 — [Certificado de defunción](https://www.youtube.com/watch?v=tEI4mzdfVOI) — Caso Belsunce, 0:04:10
+- 2015-05-23 — [la hipotesis silenciada](https://www.youtube.com/watch?v=GB9mHhPPGN4) — Caso Belsunce, 0:17:29
+- 2015-05-23 — [la unica prueba](https://www.youtube.com/watch?v=mJ2jzkyf_c0) — Caso Belsunce, 0:19:58
+- 2015-05-23 — [Verdades sobre Molina Pico y la causa](https://www.youtube.com/watch?v=v7yuK2tq_c0) — Caso Belsunce, 0:16:50
+- 2015-05-28 — [27 octubre 2002.](https://www.youtube.com/watch?v=4n51MjCM3VI) — Caso Belsunce, 0:14:28
+- 2016-12-28 — [Así piensan los "periodistas" que mienten sobre la causa](https://www.youtube.com/watch?v=LttBGEUuwXc) — Caso Belsunce, 0:02:09
+- 2017-10-10 — [Por qué la indagatoria a Pachelo?](https://www.youtube.com/watch?v=L83SbUF2h54) — Caso Belsunce, 0:10:51
+- 2018-03-02 — [EDITORIAL BABY VIERNES 2 FEBRERO](https://www.youtube.com/watch?v=Pw55S0NVYRA) — Caso Belsunce, 0:14:52
+- 2018-04-11 — [El sospechoso de siempre y el cuento del tío](https://www.youtube.com/watch?v=h3KBBtOazCU) — Caso Belsunce, 0:07:30
+- 2020-05-11 — [Historias Innecesarias: Caso Maria Marta Garcia Belsunce](https://www.youtube.com/watch?v=-oGHg04dQkU) — Historias Innecesarias, 0:17:20
+- s/f — [Caso García Belsunce Absolución de Nicolas Pachelo. Edgardo Miller Temas judiciales & Policiales](https://www.youtube.com/watch?v=-0a1BajrknY) — Edgardo Miller, 0:28:45
+- s/f — [(bloqueado por derechos (Warner Bros.)) El cuarto poder...](https://www.youtube.com/watch?v=1zPuDLuFkNw) — , — (no)
+- s/f — [Las claves del giro en la causa del caso García Belsunce](https://www.youtube.com/watch?v=3amM1UdQpw0) — Caso Belsunce, 0:21:11
+- s/f — [Carlos Carrascosa: "Estoy convencido que Pachelo mató a María Marta"](https://www.youtube.com/watch?v=4YeLFR4TMmE) — EL INVITADO, 0:32:12
+- s/f — [(privado) Dónde está la trampa del audio de la llamada a OSDE?](https://www.youtube.com/watch?v=5bpCwf24NEE) — , — (restringido)
+- s/f — [Alejandro Hartmann: director de "Carmel: ¿quién mató a María Marta?": "Pachelo no quiso participar"](https://www.youtube.com/watch?v=64Luimf65XA) — PublicableTyD, 0:21:48
+- s/f — [(no disponible/eliminado) Fernando Díaz Cantón en el programa "El exprimidor"](https://www.youtube.com/watch?v=65wxHQYlWRU) — , — (no)
+- s/f — [(privado) Fernando Díaz Cantón con Mario Caira](https://www.youtube.com/watch?v=6PR95EfqUlM) — , — (restringido)
+- s/f — [John Hurtig, María Marta García Belsunce's half-brother,](https://www.youtube.com/watch?v=9ibzjCAiMzA) — Blum, 0:42:31
+- s/f — [Nuria Ceccoli: de Sáenz Peña a la pantalla de Netflix con “Carmel: ¿Quién mató a María Marta?”](https://www.youtube.com/watch?v=DjpxdQqV-84) — CIUDAD TV CONTENIDOS, 0:09:15
+- s/f — [La verdad sobre el crimen de María Marta García Belsunce   CÁMARA DEL CRIMEN](https://www.youtube.com/watch?v=JB13ci6wJ_o) — Ricardo Canaletti, 0:49:48
+- s/f — [Patricia Becker- Discovery Channel- El caso Belsunce- Irene Hurtig](https://www.youtube.com/watch?v=QmzIDFIm76c) — Patricia Becker, 0:43:40
+- s/f — [SERIES: CASO GARCÍA BELSUNCE * PROGRAMA 95 (27-06-21)](https://www.youtube.com/watch?v=TZo2ArFsNjw) — SUJETOS DE DERECHO, 0:11:07
+- s/f — [JOHN HURTIG | 28-03-2024](https://www.youtube.com/watch?v=YAE9NZDl8CA) — Penal Sin Varrera, 0:15:56
+- s/f — [Hugo Lescano analyzes Pachelo's gestures in the María Marta García Belsunce case](https://www.youtube.com/watch?v=iRv5VL1TKkk) — Ciudad Magazine, 0:07:45
+- s/f — [TERCERA POSICIÓN 20-12-2016 / ABSUELVEN A CARRASCOSA POR EL HOMICIDIO DE MARÍA MARTA GARCÍA BELSUNCE](https://www.youtube.com/watch?v=mZp4Va7Jj54) — Ruben Martin, 0:13:54
+- s/f — [Ricardo Canaletti explotó contra la condena a Pachelo en el caso García Belsunce: "Cinco tribun...](https://www.youtube.com/watch?v=v5xxm18v61A) — Aidenn Vlog, 0:04:12
+- s/f — [(no disponible/eliminado) Lista de reproducción: El fiscal Molina Pico](https://www.youtube.com/watch?v=videoseries) — , — (no)
+- s/f — [CARMEL / ¿QUIÉN MATO A MARIA MARTA? * PROGRAMA 65 (29-11-20)](https://www.youtube.com/watch?v=xaCTkGRuNgw) — SUJETOS DE DERECHO, 0:11:09

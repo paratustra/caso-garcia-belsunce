@@ -1,0 +1,22 @@
+{
+ "cuerpo": "Cuerpo 04",
+ "url": "https://www.slideshare.net/casobelsunce/cuerpo-4",
+ "title": "Cuerpo 4",
+ "total": 284,
+ "loc": "cpo04-120625205026-phpapp02",
+ "stitle": "Cuerpo-4",
+ "sizes": [
+  {
+   "quality": 85,
+   "width": 320
+  },
+  {
+   "quality": 85,
+   "width": 638
+  },
+  {
+   "quality": 75,
+   "width": 2048
+  }
+ ]
+}

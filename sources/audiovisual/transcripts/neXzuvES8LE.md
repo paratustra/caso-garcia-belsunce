@@ -1,0 +1,17 @@
+# El descargo de Horacio García Belsunce
+
+Fuente: https://www.youtube.com/watch?v=neXzuvES8LE
+Canal: LA NACION
+Fecha de publicación: 20111114
+Duración: 0:04:07
+Transcripción automática: ElevenLabs Scribe v2 (diarización; los hablantes son speaker_N, sin identificar).
+
+**[0:00:00] speaker_0:** [música de suspenso]
+
+**[0:00:05] speaker_1:** Perderla para-- a María Marta para mí fue muy duro. Yo me acuerdo que aquel día le decía a mis amigos en La Recoleta: "Nunca supe lo que era que te doliera el alma", ni imaginarse lo que fue aquel 2 de diciembre del, del 2002, cuando del dolor de la pérdida de María Marta pasamos al horror. Recuerdo que un día viene José Lisinho Scelzi, que era nuestro abogado, y me dice: "Molina Pico te va a imputar". ¿Que me va a qué? ¿Vos ya estás loco? Le digo. Y a partir de que Molina Pico decide imputarme a mí y a todos los demás que están imputados, empecé a tratar de pensar por qué, de qué se trataba esto. Y ahí empecé a encontrarme con la personalidad de un tipo maquiavélico, irresponsable, realmente un sinvergüenza. A partir de ese momento, al dolor y al horror se me mezcló la indignación. Para la prensa nosotros pasamos a ser, de un día para el otro, de una familia honorable a un grupo mafioso. Nunca perdí ningún amigo por esto. Lo que sí ocurrió es que muchos amigos perdieron amigos de ellos por esto, porque no había comida donde no se pelearan y donde no dijeran: "Ustedes no tienen ni idea de qué están hablando. Yo a Horacio lo conozco, es mi amigo, así que acá no se habla más del tema". Y los auspiciantes empezaron a desaparecer. Y esto me colocó en una situación económica realmente muy difícil, que es en la misma situación económica en la que estoy hoy. Era tal la indignación, era tal la, la bronca que tenía contra ciertas y determinadas personas, fundamentalmente contra Molina Pico, que un día conozco una persona circunstancialmente, porque una amiga me dice: "Mirá, conozco un tipo fantástico que lo tenés que llevar al programa para hacerle una nota". Le digo: "¿Qué hace?" Me dice: "Coach ontológico". Me impactó de tal manera que yo hice un vuelco en mi vida ahí. Le dije: "Escuchame, yo quiero ser coach ontológico". Dije: "Lo voy a hacer. Me voy a recibir de coach ontológico". Soy taurino. Me decía el abuelo, porque claro, eran todos chicos, ¿no? De gente de tu edad. Y me recibí de coach ontológico. ¿Y qué es el coach ontológico? El coach ontológico es alguien que se especializa en escuchar. Somos, digo somos porque soy coach ontológico, entrenadores de la vida. Les enseñamos a usar esas herramientas para que puedan lograr ser mejores personas. No sabés lo que me ayudó en mi vida esto. Yo no sé cómo hubiera terminado si no hubiera pasado por esta etapa. Y en eso un día dije: "¿Qué puedo hacer que dependa de mí?" Ya había empezado a vender vinos. Entonces dije: "¿Y si uso el auto y me pongo a laburar de remisero? Desde ya, desde mí, digamos, no metido en ninguna empresa de remises, digamos, ¿no? Sino que con amigos. Y dije: "Metamosle, si no se me cae ningún galón, en absoluto". Este, y bueno, empecé a laburar con, con amigos, empecé a correr la bola, hice algunos avisitos en Facebook.
+
+**[0:03:46] speaker_0:** [música de suspenso]
+
+**[0:03:50] speaker_1:** Yo tengo un solo objetivo, que es encontrar a los asesinos de María Marta. Que no se queden tranquilos nunca.
+
+**[0:03:58] speaker_0:** [música de suspenso]

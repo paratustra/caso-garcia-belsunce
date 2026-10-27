@@ -1,0 +1,20 @@
+# Fallos que revoca el tribunal superior
+
+Fecha: 2014-04-20T14:10:00.000-03:00
+Fuente: https://casobelsunce.blogspot.com/2014/04/fallos-que-revoca-el-tribunal-superior.html
+
+[img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9-AMYACdmEAOaWFoR5bKwSnywRComPH7FjJ_W3_-NbeWXnD5B6uzZbmS4WBcn8tnMIuuzi9NNIlAmehUfyeLYQnCHHuzBNsmxz-tSrzTO1745sGJtpEjomFmEfhLmihpxrpPMhNP9MlT/s1600/153898_fotowebnotas.jpg]
+ (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9-AMYACdmEAOaWFoR5bKwSnywRComPH7FjJ_W3_-NbeWXnD5B6uzZbmS4WBcn8tnMIuuzi9NNIlAmehUfyeLYQnCHHuzBNsmxz-tSrzTO1745sGJtpEjomFmEfhLmihpxrpPMhNP9MlT/s1600/153898_fotowebnotas.jpg)
+Tras cientos de testimonios y análisis de pruebas realizados en forma oral y pública durante meses, el tribunal de San Isidro declaró inocentes a los familiares de María Marta García Belsunce acusados de su muerte. Pero algún tiempo después, Casación de la provincia de Buenos Aires revocó el fallo y envió a prisión a varios de los acusados con el argumento de que fueron partícipes necesarios o coautores del homicidio de la mujer. Todavía hoy permanece en la cárcel el esposo de María Marta, quien jura inocencia desde el primer día. ¿Qué vieron dos o tres jueces en el expediente que no vieron decenas de personas durante semanas de juicio? El pobre fiscal Molina Pico volvió a quedar desacreditado una vez más.
+
+Desde el año 2002 se acumularon pruebas y testimonios por la desaparición de Marita Verón en Tucumán. El caso fue a juicio el año pasado, y durante meses desfilaron prostitutas, proxenetas, fiscales, abogados defensores. Nada de lo que se preveía pudo ser probado de manera fehaciente, ni el secuestro, ni la prostitución de la chica, ni su asesinato. Los jueces declararon inocentes a los acusados, pero el Tribunal Superior de Justicia de la provincia revocó el fallo y declaró culpables con hasta 22 años de prisión a los señalados por la madre de la víctima, Susana Trimarco. Nuevamente un hecho similar, ¿qué ven tres jueces en el expediente que no ven los participantes del juicio?
+
+Más allá de quiénes son culpables o inocentes, que no es el objeto de este artículo, cabe preguntarse cuál de los procesos es el correcto. Sólo caben dos posibilidades: los jueces de primera instancia se equivocaron, o los tribunales superiores envían a inocentes a la cárcel sin pruebas. No hay otra alternativa. ¿A cuál debe creerle la sociedad?
+
+Esto plantea un problema novedoso, que se resume en expresar que el resultado de un juicio oral y público de años de sustanciación y meses de ejecución no implica condena firme. Luego una corte puede cambiar el fallo sin un nuevo proceso. Surgen, entonces, interrogantes incómodos. ¿Los jueces de primera instancia están comprados, son ineptos o se intimidan por los familiares y la prensa? Si fuera así, resulta fácil resolver el caso en la soledad de un tribunal superior. La otra posibilidad es que los dos o tres integrantes de la instancia superior lauden en base a la opinión pública o la voluntad del gobierno, en particular del kirchnerista que tiende a entrometerse en la Justicia constantemente. Y además, ¿esto aumenta o disminuye las garantías judiciales?
+
+García Belsunce y Verón no son casos como los de acortamiento de penas, que era más o menos frecuente que se produjeran. Aquí se da por tierra con lo actuado y se determina cárcel de años para los antes declarados inocentes. ¿Y si el error está en la segunda instancia, en la superior? ¿Apelarán a la Corte Suprema de Justicia de la Nación? Eso significa años y Zaffaroni…
+
+Obvio que la sociedad argentina se encuentra preocupada por problemas mucho más generales y abarcativos, como la violencia y la inflación, los aumentos tarifarios, las campañas presidenciales o el dólar futuro. Pero tarde o temprano deberá enfocarse en analizar esta nueva modalidad de la Justicia, porque puede que inocentes vayan presos de por vida, o puede que tribunales no aptos estén juzgando a criminales. Ambas opciones son alarmantes.
+
+Fuente (http://m.perfil.com/noticia/57602/Columnistas/Fallos+que+revoca+un+tribunal+superior)

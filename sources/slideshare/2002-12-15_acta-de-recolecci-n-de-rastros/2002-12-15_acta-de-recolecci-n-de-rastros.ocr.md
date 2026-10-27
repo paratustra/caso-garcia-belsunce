@@ -1,0 +1,27 @@
+# OCR de 2002-12-15_acta-de-recolecci-n-de-rastros.pdf
+
+Motor: Mistral OCR (mistral-ocr-latest). Cada sección corresponde a una página del PDF.
+
+
+---
+
+## Página 1
+
+V/
+
+15/12/02
+
+En la localidad de Pilar, partido del mismo nombre, provincia de Buenos Aires, a los quince días del mes diciembre del año dos mil dos ( 15-12-02 ), y siendo las dieciocho horas ( 18.00 hs. ), el suscripto Subcomisario Angel Reinaldo Becerra, secundado en la oportunidad por el Oficial Subinspector Diego Godoy y Oficial Subinspector Cristian Javier Magnoli, todos numerarios efectivos de la Subdelegación Departamental de Investigaciones Pilar; nos encontramos constituidos junto al Doctor Diego Molina Pico, titular de la Unidad Funcional de Instrucción Número -/ Dos ( Nro. 02 ) del Distrito Pilar, y personal de la División Policía / Científica San Isidro, en el Country conocido bajo el nombre " Carmel " de este medio a fin de llevar a cabo un relevamiento sobre la finca donde perdiera la vida la señora María María García Belsunce de Carrascosa. En tal sentido y contando con la anuencia de la familia, representada / en este acto por el señor Horacio García Belsunce, quien a su vez se encuentra asistido por su letrado Doctor Nardi, nos dirigimos hacia la -/ finca en cuestión, donde una vez traspuesto el límite de ingreso cada / uno de los especialistas desarrollaron su labor, la cual se detalla a/ continuación: ( se deja en claro que la presencia del Doctor Marcelo -/ Nardi obedece a la representación del señor Carlos Carrascosa y no de -/ García Belsunce como se dijera anteriormente ); I.- PLANIMETRIA, a cargo del Oficial Principal Roque Antonio Alamo, quien realizó un relevamiento completo de la finca ( planta baja y alta ); II.- RASTROS, a cargo del Sargento Primero Hector Sosa, quien trabajó sobre la antesala -/ del dormitorio y dormitorio mismo, lugar donde se procedió a la incautación de una funda de almohadón que se encontraba sobre la cama matrimonial, así también levantó cinco muestras de presunto tejido hemático de distintos sectores del lugar inspeccionados, se procedió a la incautación de un trozo de alfombra con presunto tejidos hemáticos. Esta última muestra es entregada a la prevención a fin de ser remitida al laboratorio, en tanto la funda como las cinco muestras son preservadas por -/ este personal para su posterior análisis; III.- LUMINOL, a cargo del -/ Oficial Principal Carlos Peralta, quien aplicó este reactivo sobre la / pared que se encuentra frente al dormitorio, obteniéndose resultado positivo. Del igual forma se aplicó sobre la pared de la escalera, donde/ se obtuvo un falso positivo; sobre el acceso a la escalera donde se obtuvo resulta negativo; sobre un sillón ubicado en la antesala al dormitorio donde se obtuvo resultado positivo; sobre una mesa donde se encontraba el teléfono donde se obtuvo resultado positivo.- A esta altura /
+
+
+---
+
+## Página 2
+
+-///.- se deja constancia que debido a una indisposición física el Doctor Horacio García Belsunce se retira del domicilio, sin perjuicio de lo cual/ se continúa la diligencia.--- IV.- BALISTICO, a cargo del Cabo Primero Pablo Alejandro Larragaña, quien a modo de prueba efectuó seis disparos en / tres series utilizando un revolver marca Cold calibre treinta y dos largo/ número uno-cinco-uno-dos-ocho-nueve modelo Police Positive. La primera de/ las series la efectuó sobre el espacio ocupado por la antesala al dormitorio - con ventana cerrada -; la segunda serie la efectuó en el baño - con/ ventana cerrada -; y la última serie la efectuó en el baño - con ventana / abierta, dejándose constancia a esta altura que el especialista aclara que llama ventana al postigón y vidrio.--- V.- FOTOGRAFO, a cargo del Oficial/ Principal Claudio Esteban y Sargento Primero Chiogna Pablo Alejandro, quien trabajó sobre el escenario donde se desenvolvieran los restantes peritos.- VI.- DIVISION CANES, a cargo del Cabo Primero Alejandro Nicolao y Cabo Primero Pedro Lagoria, quienes utilizando can adiestrado en rastro recorrieron todo el perímetro externo de la finca, tanto dentro del club de campo, como fuera de este, arrojando dicha labor resultado negativo.--- A esta altura se presenta nuevamente en el lugar el señor Horacio García Belsunce / quien presencia la diligencia.--- Acto continuo y conforme lo expuesto se/ deja constancia que se procede a la incautación del sillón de dos cuerpos, con dos almohadones y dos cubre apoya-brago de tela, que serán preservados por la prevención para su posterior remisión al laboratorio químico; en tanto los peritos se expedirán por separados en cada una de las tareas desarrollada, elevando el informe respectivo al señor fiscal interviniente.--- Seguido a ello el personal de la División Policía Científica San Isidro y/ personal de la División Canes se retiran del lugar a fin de continuar con -/ otras tareas inherentes a sus funciones.--- Por lo que no siendo para más/ y siendo las ventitres horas se da por terminado el acto y labrada la presente es leída, ratifica y firmada por sus intervinientes, para constancia.-
+
+Horacio García Belsunce
+
+Horacio García Belsunce
+
+Horacio García Belsunce

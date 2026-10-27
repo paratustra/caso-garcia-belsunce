@@ -1,0 +1,34 @@
+# Juez platense analiza el enigmático homicidio de María Marta Belsunce
+
+Fecha: 2017-09-11T13:42:00.001-03:00
+Fuente: https://casobelsunce.blogspot.com/2017/09/juez-platense-analiza-el-enigmatico.html
+
+[img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXbYztqo2hoMDrg4mbpJgJoTQHcfC8Mnhi9PsvZD6ZaMZTqWMPYmjOezWYJKhDe5yMXQOTm9i7cVuNLofStEiBOLLFVLwljaOGFe_ZYoLI2Qbbyuzhdi_uW5_YjInRbc80Z9BJ-etHnm0l/s200/violini.JPG]
+ (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXbYztqo2hoMDrg4mbpJgJoTQHcfC8Mnhi9PsvZD6ZaMZTqWMPYmjOezWYJKhDe5yMXQOTm9i7cVuNLofStEiBOLLFVLwljaOGFe_ZYoLI2Qbbyuzhdi_uW5_YjInRbc80Z9BJ-etHnm0l/s1600/violini.JPG)
+Víctor Violini explicó en qué se basó para cuestionar la investigación y liberar a Carlos Carrascosa. Además, detalló los puntos débiles de la condena y argumentó por qué las pesquisas son deficientes
+
+En 27 de octubre 2002, la socióloga María Marta García Belsunce fue encontrada asesinada de cinco disparos en su casa del barrio cerrado Carmel en Pilar. En 2007, el Tribunal Oral en lo Criminal de San Isidro condenó a su marido, el agente de bolsa Carlos Carrascosa, como encubridor del crimen, pero dos años más tarde la Sala I del Tribunal de Casación bonaerense le cambió la calificación legal y condenó al viudo a prisión perpetua. El caso llegó a la Corte de Nación y regresó a Casación, donde en 2016 los jueces Martín Ordoqui, Daniel Carral yVíctor Violini absolvieron a Carrascosa, ordenando su libertad y que se continúe con la investigación para dar con el verdadero asesino de la presidente de Missing Children.
+
+“Me tocó el primer voto. Fue una tarea muy ardua porque es muy grande el expediente, lo estuvimos trabajando con tres relatoras, y empezamos a encontrar desavenencias en la investigación, cosas que no coincidían, elementos que el fiscal (Diego Molina Pico) decía que tenía y en realidad no era así, manifestaciones del representante del Ministerio Público como que había ocurrido una cuestión de una determinada manera, y después la cambiaba y la ponía de otra forma. En atención a que me empezaron a aparecer todos estos inconvenientes en la investigación fue que nos reunimos los tres jueces y empezamos a ver si esto que yo había encontrado y analizado se correspondía con lo que estaba en la causa y realmente si ellos lo veían de la misma forma”, recordó Violini en diálogo con Hoy.
+
+Sobre si durante la instrucción se encontró algún dato que permitiera culpar al viudo, el magistrado aclaró que “la condena se basó en la prueba testimonial que quedó desvirtuada, en suposiciones, en elucubraciones que hizo el fiscal y que no logró probar. Ante ello, y luego de haber consultado con mis colegas, coincidimos absolutamente en que no había nada para imputarle a Carrascosa: ni el homicidio, ni el encubrimiento. Por lo tanto, no tuvimos ninguna duda de que teníamos que absolverlo en los delitos por los cuales era condenado”.
+
+“De la investigación, lo único que hizo el fiscal fue apuntarle directamente a Carrascosa; si hubo otras hipótesis en los primeros momentos, después la descartó. En ese aspecto, no critico (a Molina Pico) porque entiendo que si él siguió investigando al viudo fue porque estaba convencido de que había sido él; evidentemente no era así. Junto con mis colegas estamos convencidos de que Carrascosa no fue el autor material ni intelectual del homicidio”, enfatizó Violini.
+
+Lo que no se logró probar
+
+El magistrado explicó que “a lo largo de toda la causa, el fiscal fue cambiando horarios y conductas de Carrascosa y las invirtió luego en su alegato. Por ejemplo, dijo que el imputado fue al Club House y luego a matar a su esposa, cuando previamente había sostenido que primero la había asesinado y luego se fue al House. El horario en que, según el fiscal, se cometió el homicidio se encuentra desautorizado por la hora dada por los médicos que realizaron la autopsia, conforme lo declararan en un juicio posterior, ya que nunca fueron citados para interrogarlos al respecto”.
+
+“La tesis del fiscal se sostiene en declaraciones que no refieren lo mismo que el mismo dice, en datos que se silencian para no perjudicar la tesis acusatoria y en móviles que no pudieron ser acreditados”, agregó el juez. Asimismo, señaló que toda la prueba que se intentó producir para vincular al imputado con el cartel de Juárez dio resultado negativo.
+
+“No está probado que la voz que se escucha en una de las llamadas pidiendo auxilio sea de Irene Hurting (media hermana de la víctima) ni que hubiera un arma en la casa, tampoco que se haya acondicionado el cadáver o que el viudo haya ordenado limpiar el lugar. Los médicos negaron expresamente que se hayan pegado las heridas de María Marta con pegamento, no está acreditado que se intentó cremar al cadáver porque las personas que tendrían que haber recibido el pedido lo negaron expresamente”, detalló el letrado.
+
+En este sentido, el magistrado mencionó que “no está acreditado que Carrascosa intentara detener a la Policía ni que impidiera a la gente acercarse al cadáver ni que el imputado tuviera alguna injerencia con el certificado falso”. En cambio, “sí está probado que ninguna de las manchas de sangre visualizadas se correspondía con las del acusado, al igual que Guillermo Bártoli (cuñado de la víctima) se ofreció a gestionar todo lo referido al velatorio y al entierro”. Respecto de todos esos puntos mencionados, el magistrado aclaró que en la investigación “hay cosas que no cierran, y los pocos elementos que Molina Pico tiene son muy endebles y a la sola simple lectura se caen”.
+
+Las fallas en las​ Investigaciones
+
+Violini ingresó al Poder Judicial como instructor, después fue fiscal durante casi ocho años y luego, juez de Casación. En referencia a la formación de los profesionales, el magistrado recordó: “Para ser instructor judicial tuve que hacer un curso de dos años, en el que veíamos Derecho procesal en profundidad, Lógica y toda una serie de materias de preparación. Se tomaban exámenes periódicos y eliminatorios, si rendías mal quedabas fuera del curso. En segundo año, la Suprema Corte promocionó una beca importante, en dinero y por mes, para los cinco mejores promedios. Entre ellos estuvieron la Dra. Palacios Arias (jueza), Laura Lasaga (camarista) y quien les habla”.
+
+“Luego, con la llegada de (María del Carmen) Falbo, los instructores judiciales hacían un curso de seis meses, luego de tres y, después, de un mes. El instructor que sale en esas condiciones no sabe nada. La persona que va a asumir como fiscal o juez tiene que tener un desenvolvimiento rápido, no confiar y seguir investigando”, concluyó el magistrado. Luego de la absolución de Carrascosa, el fiscal Carlos Altuve apeló y el caso fue a la Suprema Corte bonaerense.
+
+Fuente (http://diariohoy.net/politica/juez-platense-analiza-el-enigmatico-homicidio-de-maria-marta-belsunce-104868)

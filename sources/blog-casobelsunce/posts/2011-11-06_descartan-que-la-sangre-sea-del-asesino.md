@@ -1,0 +1,22 @@
+# Descartan que la sangre sea del asesino
+
+Fecha: 2011-11-06T16:11:00.008-03:00
+Fuente: https://casobelsunce.blogspot.com/2011/11/descartan-que-la-sangre-sea-del-asesino.html
+
+[img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkA8w6-_Slu9A_N8rMn7aBpXcQgW6c-KPVw3-EfWcdxnzhzYlHMxCNq5qTiGea-5x952u3z02kXozYDFsgPednnVmSEk5NPdqnmjBxylzddMJss7cRGcnThp2JZ8Vn9ovYPK4VkWZNv5_-/s200/Sin+t%25C3%25ADtulo-1.jpg]
+ (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkA8w6-_Slu9A_N8rMn7aBpXcQgW6c-KPVw3-EfWcdxnzhzYlHMxCNq5qTiGea-5x952u3z02kXozYDFsgPednnVmSEk5NPdqnmjBxylzddMJss7cRGcnThp2JZ8Vn9ovYPK4VkWZNv5_-/s1600/Sin+t%25C3%25ADtulo-1.jpg)
+Los jueces que condenaron a tres familiares de María Marta García Belsunce, al primer médico que llegó a la escena del crimen y a un vecino del country Carmel descartaron la hipótesis de la familia de que los restos de sangre hallados en la casa de la víctima correspondan a los asesinos.
+Además, respaldaron el desempeño del primer fiscal de la causa, Diego Molina Pico, para quien la familia de María Marta pidió un juicio político.
+"Las laboriosas defensas sostuvieron que existió por parte del fiscal de la causa, Molina Pico, un actuar negligente de su parte y que, a partir de allí, todo lo que sobrevino después no fue más que un intento del mismo encaminado a salvaguardar su propia responsabilidad profesional", afirmó el juez Alberto Ortolani, voto al que adhirieron sus dos colegas.
+"Todo lo que ocurrió, en gran medida, encuentra su explicación en las conductas encubridoras de los aquí acriminados que no sólo ocultaron la verdad, sino que fueron más allá. Se encargaron con tesón y constancia de enmascararla, creando ante la vista de todos, incluso la del propio fiscal, una realidad paralela y por lo tanto virtual en la que María Marta no sería más que víctima de su propia torpeza", expresó el juez Ortolani.
+Con respecto a los restos de sangre hallados en la casa del country Carmel, los investigadores levantaron muestras de tejido hemático con dos perfiles masculinos y otro femenino en una alfombra que, cuando fueron cotejados, no correspondían a ninguno de los condenados.
+Ese dato siempre fue remarcado por la familia ya que, a su entender, esos rastros pertenecen a las personas con las que María Marta se peleó antes de ser asesinada
+Pero en el fallo que se conoció anteayer, el juez Ortolani dijo que "sostener que el autor del hecho es quien dejara la muestra de sangre es sencillamente perder el equilibrio que debe gobernar toda interpretación que se hace de un hecho objetivo de la realidad".
+El magistrado consideró que esas muestras fueron tomadas "en el lugar del hecho y no en la escena del crimen", es decir, en distintas lugares de la casa y no en el baño, donde María Marta fue asesinada.
+
+Fuente (http://www.lanacion.com.ar/1420927-descartan-que-la-sangre-sea-del-asesino)
+
+El juez Ortolani se equivocó. En realidad sí hay sangre en el baño (ver video (http://casobelsunce.blogspot.com.ar/2011/10/escena-del-crimen-adn.html)), específicamente en una de las vigas del techo y en el marco de la puerta (ver nota explicativa de rastros encontrados).  (http://casobelsunce.blogspot.com.ar/2003/01/donde-estaban-los-rastros-de-sangre.html)
+
+El juez Ortolani ignora que"Lugar del hecho" y "escena del crimen" son sinónimos. Al respecto Ramón O. González. (Lic. en criminalística. Profesor Titular de la Cátedra de Documentología II. Universidad Nacional de La Rioja - Argentina) en su trabajo "Documentología  relacionada con el lugar del hecho, dice:
+... "la diferencia de “el lugar del“hecho” y “escena del Crimen”, indicando que, como ya se expresó, en el lugar del hecho se debe establecer la naturaleza del suceso. En el caso de que esta investigación de como resultado que las circunstancias y características del mismo hacen suponer la existencia de un delito, pasa a denominarse técnicamente“escena del crimen”. Sin embargo, hasta que se constate ó se descarte la comisión de un ilícito, todo “lugar del hecho” debe ser considerado y tratado como una “escena del crimen potencial”, debiendo el responsable de su procesamiento generar los resguardos necesarios para “garantizar la intangibilidad de los elementos, rastros o indicios que puedan existir y para evitar cualquier pérdida, alteración o contaminación”. (ver documento completo (http://casobelsunce.blogspot.com.ar/2011/11/lugar-del-hecho-es-lo-mismo-que-escena.html))

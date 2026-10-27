@@ -1,0 +1,129 @@
+# OCR de 2002-12-19_acta-de-recuperaci-n-del-proyectil-en-el-pozo-s-ptico.pdf
+
+Motor: Mistral OCR (mistral-ocr-latest). Cada sección corresponde a una página del PDF.
+
+
+---
+
+## Página 1
+
+341
+
+14/12/62
+
+- En la ciudad de Pilar, partido del mismo nombre, Provincial de Buenos Aires, a los diecinueve días del mes de diciembre del año dos mil dos (19/12/2002), siendo las quince horas con veinte (15:20 hs.), el suscripto Subcomisario Angel Rinaldo Becerra, secundado en la oportunidad por el Oficial Principal Alejandro Javier Elorz, y el Cabo Héctor Entreolivano todos numerarios de la Subdelegación Departamental de Investigaciones Pilar, sito en calle Tucumán o Ituzaingó, pino primero de la ciudad de Pilar; es quien el marco de los autos caratulados "HOMICIDIO - Víctima María María García Belsunca de Carrascosa", detrás por ante la Unidad Funcional de Instrucción Número Dos (Nro. 02) Distrito Pilar - Doctor Diego Molina Pico - Departamento Judicial de San Isidro; y alos fines de cumplimentar con la medida dispuesta por el Señor Agente Fiscal, se dispone la conformación de unidad de trabajo compuesta por: Personal de la Delegación Policía Científica Departamental San Isidro, en la Especialidad de Balística por parte del Cabo Primero Larrañaga Pablo, como así del Gabine Fotografía Sargento Ayudante José Luis Dipólito; Personal del Cuerpo de Bomberos Voluntarios de Pilar, encabezada por el Suboficial Ayudante de Primera Espino Gimenez Juan Ramón - Oficina de Asesoramiento Técnico, con personal y dotación a su mando, en Unidad Móvil Número Trece; y el Señor Altamirano Horacio Roberto, argentino, casado, de veintinueve años, empleado, domiciliado en calle Tomás Márquez mil cuatrocientos noventay seis de Pilar, titular de Documento Nacional de Identidad Número dos-tres-uno-cuatro-cuatro-nueve-ocho-cuatro- (DNI 23.144.984), requerido a la firma Volquetes Pilar, como apoyatura y provisión de equipo móvil de absorción y remoción de suelos. — Todos los prenombrados hallándonos constituidos en el Club de Campo Carmel del partido de Pilar, nos aposionamos en el domicilio de calle Interna identificada como Santa Lucía, puntualmente en la Manana número siete, Lote dos; punto en el cual se halla y nos recepciona el ciudadano Juan Carlos Hurtigr, ser de nacionalidad estadounidense, de treinta y siete años de edad, de estado civil casado, de profesión empresario, domiciliado en calle Jufre número un mil cuarenta uno - (Nro. 1.041) de Capital Federal, titular de Documento Nacional de Identidad Número nueve-tres-seis-cinco-seis-cero-nueve seis, refiriendo el mismo ser hermano de la víctima de autos; quien presta su consentimiento y conformidad para el acto a desarrollarse. — En tal sentido se convoca en calidad de testigo al ciudadano Ramón Alfredo Acosta, ser de nacionalidad argentina, de estado civil soltero, de veintitrés años de edad, de profesión empleado de seguridad, domiciliado en calle Saavedra Lamas número mil seiscientos veinticuatro (1.624) de la ciudad de Pilar, titular de Documento Nacional de Identidad Número dos-siete-seis-tres-uno-tres-siete-cinco (DNI Nro. 27.631.375), como tras el aposionamiento de Fernando Aragú, ser de nacionalidad argentina, de estado civil casado, licenciado en Administración de Empresa, domiciliado en calle Peña número dos mil cuatrocientos cincuenta y dos, piso sexto, departamento B de Capital Federal, titular de Documento Nacional de Identidad Número uno-siete-ocho-cinco-seis-uno-cinco-nueve- (DNI Nro. 17.856.159). — Ante los prenombrados se recrea las motivaciones de nuestro aposionamiento en los autos referenciados ut supra, y en cumplimiento a las directivas impartidas por el Representante Público Ministerial, tendientes a desarrollar la diligencia en el inmueble destinada a la ubicación de un fragmento metálico, compatible con plomo deformado, y que fuera arrojado en el sanitario del baño en suite (dormitorio principal - en que fuera habitada víctima el día veintisiete de octubre del corriente año). — Traspuesto el límite de ingreso, realizando un examen de visu de determina que por conexiones internas las aguas servidas, como los efluentes oloa-calestienen convergencia en una cámara de registro para luego mediante un
+
+-.///.-
+
+
+---
+
+## Página 2
+
+
+
+-///-ducto plástico vertir en la cámara cóptica y pozo absorbente.--- En
+razón de la diligencia dispuesta se procede en primera instancia a la remoción de la
+de la tapa correspondiente a la cámara de registro, procediéndose a la remoción de los sedimentos y semisólidos habidos en el habitáculo y los semiconductos los que tamizados y limpiados que fueron, no determinaron en existencia elemento férreo y/o con aleación alguna como lapretendida.--- En segunda instancia se procede a realizar una prueba de caída, para lo cual se procede al desarme de un cartucho calibre nueve milímetros, el que es envuelto en papel de uso sanitario ( papel higiénico ), arrojado en el sanitario de planta alta ( cuarto de baño correspondiente al dormitorio en suite-principal ), y/accionado que fuera el mecanismo de arrastre acuoso ( presión botón depósito de agua), se determina que la ojiba arrojada se mantiene en posición, en tanto solo se produce el arrastre del papel sanitario.- Dicha operación es repetida en tres oportunidades, arrojando el mismo resultado.- Ante tal situación se solicita al Señor Juan Carlos Hurtigr, autorización para proceder al desarme e inspección del inodoro alos fines de determinar si en su interior pudo haberse quedado alojado el fragmento de plomo pretendido; accediendo el Sr. Juan Carlos Hurtigr, realizándose el desarme, y posterior rotura del sifón correspondiente al inodoro sanitario, no siendo habido resto metálico, férreo o plomiso alguno.--- Como tercer acto y para verificar que la fragmentación buscada pudiera no se hallara obstruida en algún tramo de la red interna, se procede en primera instancia a la colocación de un malla de captación de particulado, para a posteriori mediante el empleo de la bomba hidrante del cuerpo de Bomberos, y empleando una presión de caudal de agua de doce kilogramos de fuerza, se procede al enjuagado de la cañería utilizando como boca de descarga la correspondiente al sanitario removido; medida que no arroja resultado satisfactorio, en cuando al hallazgo de particulado, fragmento o pieza como la motivadora de la diligencia.--- En cuarta instancia, se procede al despeje del área de influencia y del ducto subterráneo que une la cámara de registro con la cámara cóptica, pozo absorbente del inmueble - área que se halla en la planta baja, por detrás de la edificación del sector de cocina, la cual se halla a cielo abierto.--- En la etapa quinta, se procede al vaciado de un segundo pozo captor de líquidos, no determinándose en el movimiento la fragmentación o elemento en cuestión.--- Como sexto acto, se realiza desde el dormitorio principal en suite, de la planta alta, más precisamente de la bobada descarga de efluentes del inodoro, el arrojo de una ojiba de proyectil calibre treinta y dos, siendo que las características de la misma presenta un baño electrolíclico cobreado; fragmento que lanzado como accionado el arrastre de agua es logrado captar en la cámara de convergencia.--- En séptima instancia, empleando la bomba de succión de la unidad móvil atmosférica, previa colocación de una trama o malla de retención en la boca de la manguera, se procede desde la cámara de convergencia a la absorción en tal punto, tendientes a captar elementos, partículas y/o fragmentos que pudieran hallarse obstruidos en los ductos o red interna, no arrojando la diligencia resultados satisfactorios.--- En Octavo paso, empleando una maquinaria de uso vial - pala-retrosecavadora, se procede a la limpieza del sector de la cámara cóptica y pozo absorbente, para inmediatamente ponerse en relieve la tapa circular en hormigón armado, la cual se retira poniendo en evidencia la conformación del pozo con semisólidos-barros sobrenadantes, -( en superficie) y por debajo de tal capa un importante volúmen acuoso.--- En la novena etapa, se procede al retiro del sobrenadante ( semisólidos ), y al filtrado de los mismos tendientes a verificar la existencia de fragmento, alminículo, o elemento férreo, o con contenido mineral de plomo de
+
+
+---
+
+## Página 3
+
+-///.-características similares al elemento pretendido en la presente-// búsqueda, lo cual arroja como resultado negativo a la pretensión.--- Acto Décimo empleando la bomba de succión del tanque atmosférico operada por el conductor y propietario de nombre Valladares Alfredo Alberto, ser de nacionalidad argentina, de estado civil casado, de cuarentay un año de edad / de profesión comerciante, domiciliado en Avenida Márquez número mil cuatro cientos noventay seis de la ciudad de Pilar, titular de Documento Nacional // de Identidad Número uno-cuatro-uno-seis-siete-dos-ocho-seis- ( DNI N° 14. // / 167.286 ), se procede mediante la manguerade succión con trampa de captación de particular en su extremo de boca, a la absorción del contenido / líquido existente en la cámara cóptica-pozo aburrente, operación que no -rroja resultado de interés.--- En Décimo primer instancia, tras operarse / el vaciado total del líquido, se determina en existencia en el fondo de la -cámara-pozo desagotado, la existencia de una importante cantidad de semisólidos - ( también denominados barros ).--- En atención de lo cual se dispone : a) - la colocación de un manto blanco lindante a la boca del pozo; b) - la colocación de una escalera en el interior del pozo, para proceder a la // extracción de los barros por balde, c) - Acto seguido proceder al vertido / de los semisólidos, sobre el manto blanco, para que el efectivo del Gabinete balístico, mediante el empleo del detector de metales realice el barrido / de la despositado.--- Desimosegunda etapa, - a los fines de extraer los / barros, baja al pozo el señor Valladares Alfredo Alberto, quien manualmente empleando baldes, extrae de los fondos los barros, extendiendo lo sacado a / Horacio Roberto Altamirano, para a posteriori en presencia del ciudadano / Juan Carlos Hurtigr vertir los contenidos sobre el manto blanco, residuales / por parte del bombero Riquelme Julio - Documento Nacional de identidad / uno-seis-siete-cinco-cero-seis-seis-cuatro. Siendo que dicho material / es sometido al detector de metales por parte del Cabo Primero Larrañaga / Pablo - de Policía Científica -, para lo cual emplea un detector marca Fisher - M-Scope - 1212-X.--- Décimo tercero, tal acción es repetida en cinco oportunidades, siendo que en la última acción ( quinta ), el material extraído / que es sometido al detector, permite la emisión de una señal indicadora // de existencia de fragmento metálico.--- Décimo cuarto, el fragmento con residual, en presencia de todos los prenombrados, se procede a su enjuagado / operación que permite poner en evidencia, que el material hallado es un - / fragmento de plomo cilíndrico deformado; ante lo cual el especialista del- / Gabinete Balístico - Cabo Primero Larrañaga Pablo, en base a su primer examen / devían ilustra que se trata de : " un proyectil de plomo desnudo, compatible con el calibre punto treinta y de alargo ( cal. 32 largo ), según / morfología tamaño y diámetro del culote , el mismo presenta una deformación / en el flanco y ojiba producto de choque contra el elemento de relativa duresa / a su composición.--- Décimo quinto, ante el hallazgo producido el Subcomisario Angel Reinaño Becerra, vía telefónica se comunica al abonado celular / móvil del titular de la Unidad Funcional de Instrucción Número Dos Distrital Doctor Diego Molina Pico, a quien se interioriza de la actuado.--- Décimo sexto, siendo las veintidós horas con cuarenta minutos ( 22:40 hs. ), // se hace presente en el lugar, el Representante Público Ministerial de Intervención - Doctor Diego Molina Pico, a quien se ilustra de los pasos seguidos, quien realiza un examen / devían sobre las 주제 en que se desarrollara / la labor, como así visualizar el plomo desnudo habido en el actual - objeto de la diligencia.--- Décimo séptimo, en presencia de los prenombrados, presentes e intervinientes, se procede para con el proyectil habido, a / su ensuñado, el cual es firmado por los presentes y actuantes, siendo el / mismo incautado, y, afectado a partir del actual, a la investigación.---
+
+-///.-
+
+
+---
+
+## Página 4
+
+-///.- Se deja constancia de latoma de ilustraciones gráficas por parte / del personal de fotografía - gabinete - de Policía Científica, como que el sobre conteniendo el plomo deformado compatible con proyectil calibre treinta y dos largo hallado, descripto precedentemente e incautado por laprevención es detentado por losa actuantes para su ulterior remisión conforme -/
+
+directivas a impartir por la Representación Ministerial Pública.---Por lo que no siendo paramásel acto, previa e integralectura que de por sí dan a la presente, es ratificada en todo su contenido por ser el fiel reflejo/ de lo actuado y acontecido y en prueba de ello es que firmarán al pie para constancia; debiendo destacarse que el ciudadano Juan Carlos Hurtigr, - expresa que el plomo deformado hallado en la fechay en lascircunstancias / mencionadas y referenciadas precedentemente, es el mismo que describiera - como "pitutito ", en sus manifestaciones vertidas en acta testimonial, en/ el marco de la presente investigación judicial.---Ante lo cual firman al/ pi de lo cual se deja constancia y da fé.---
+
+Juan Carlos Hurtigr  
+Hernando de Vótima
+
+Ramón Alfredo Acosta  
+Testigo
+
+Fernando Aragón  
+Testigo
+
+Altañerano Horacio  
+Apoyatura Remisión suelos
+
+Valleares Héctor Alfredo  
+Venezuela Propietario Atmosférico
+
+Riquelme Julio  
+Bombero
+
+Angel Reimondo Becerra  
+Subordinario
+
+Alejandro Javier Eloro  
+Oficial Principal
+
+Héctor Entrellavano  
+Cabo
+
+Pablo Larrañaga  
+Cabo Primero-Gabinete Balístico
+
+José Luis Dipólito  
+Sargento Ayudante - Fotógrafo
+
+- A ésta alturaestando lasveintitrés horas con cuarenta y dos minutos ( 23:42 hs. ), se procede a la reapertura del acto, a los fines de proceder a realizar las siguientes aclaratorias : Uno ( )1 ) que por razones operativas previo a lafinalización -/ del acto, por razones particulares operativas, se retira el Suboficial Ayudante -/ de Primera Espino Gimenez Juan Ramón.- Dos ( 02 ).- Se desea aclara en relación a / la puntualización décimotercera como décimosegunda y sus concordantes que : en relación al preciso momento que es habido el plomo deformado, y oportunamentedescripto que : el balde último correspondiente al los barros en que se hallara el proyectil es sacado por el Bombero Julio Alberto Riquelme - del Cuerpo de Bomberos Voluntarios de Pilar. El Bombero Riquelme Julio , desparrama el contenido barroco del balde, lo desparrama arriba de la sábana blanca, que se hallaba conlindante a la boca del pozo.- El Sargento Ayudante José Luis Dipólito, que en esos momentos opera la el detector de metales, marca Fisher M-Scope-1212-x, trabajado a un potencia para detección a tres metros de profundidad- ( conforme lo detalla ), el lector de -/ cuerpo líquido - display; ante la emisión de señal sonora constante de bajos decibeles. Ante lo cual el Sargento Ayudante Jose Luis Dipólito, realiza un nuevo barrido sobre el material desplegado, operación ésta que nuevamente permite ofrecer al /
+
+-///.-
+
+
+---
+
+## Página 5
+
+-///.- detector de metales, la emisión de una nueva señal sonora.- Con la nueva emisión sectoriza el lugar.- Para mejor ilustración en relación al término sectorización del lugar, se emplea como método el barrido por cuadros aproximadamente treinta o cuarenta centímetros, siempre trabajando de adentro hacia afuera, tanto en forma circular, operación que le permite llegar al punto de emisión sonora constante, indicadora que en este último sector se halla un metal.- Que el Sargento Ayudante José Luis Dipólito, realiza repetición de la operación, subiendo y bajando el detector, para asegurar la efectividad de la emisión y su constancia.- En la reiteración de Señal, y hallándose presente el Señor Juan Carlos Hurtigr, se coloca un guante descartable en ambos extremos de miembros superiores (manos) y ofrece colaboración para la defragmentación de los barros, en particular de la cuadrícula correspondiente a la zona en que se capta la señal.- Revisando el sector, primero el Señor Hurtigr levanta un filtro de cigarrillo, como segunda maniobra levanta lo que aparenta un fragmento de plon con adherencias de barros, el que deposita en manos del Sargento Ayudante José Luis Dipólito (aclarándose que el mentado suboficial las poseía cubiertas con guantes descartables.- En presencia de todos los presentes, el Sargento Ayudante Dipólito, juntamente con el Señor Hurtigr y el Cabo Primero Larrañaga, contando con la presencia de todos los presentes, nos dirigimos a la pileta de lavado existente al lado de la parrilla exterior. En tal punto el Sargento Ayudante Dipólito, José Luis procede al lavado del material, colocándose el plomo desnudo deformado en el interior de un guante descartable, para a posteriori y en presencia de todos los intervinientes, actuantes y presentes, proceder se a depositar sobre un papel rectangular blanco, precisamente sobre la mesa en que se labra la presente, punto en el cual se realiza distintas tomas fotográficas, como que el Especialista del Gabinete Balístico, realiza el primer examen de visu del material.- Por lo que no siendo para más el acto, previa e íntegra lectura que de por sí dan a la presente es ratificada en todo su contenido por ser el fiel reflejo de lo actuado y acontecido y en prueba de ello firmarán al pie para constancia juntamente con los actuantes lo que así se certifica.-
+
+Juan Carlos Hurtigr
+Hernando de Víctima
+
+Ramón Alfredo Acosta
+
+Testigo
+
+Fernando Aragón
+
+Testigo
+
+Altamirano Horacio
+
+Apoyatura Remoción suelos
+
+Valladares Héctor Alfredo
+
+Conductor-propistario Atmosférico
+
+Angel Reinaldo Becerra
+Subcomisario
+
+Alejandro Javier Plosa
+Oficial Principal
+
+Héctor Entreolivano
+
+Cabo
+
+Pablo Larrañaga
+
+Cano primero Gabinete Balístico
+
+José Luis Dipólito
+
+Sargento Ayudante Fotógrafo
+
+Riquel de Julio
+Bombero

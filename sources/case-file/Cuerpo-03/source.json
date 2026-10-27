@@ -1,0 +1,22 @@
+{
+ "cuerpo": "Cuerpo 03",
+ "url": "https://www.slideshare.net/casobelsunce/cuerpo-3",
+ "title": "Cuerpo 3",
+ "total": 345,
+ "loc": "cpo03-120625203404-phpapp02",
+ "stitle": "Cuerpo-3",
+ "sizes": [
+  {
+   "quality": 85,
+   "width": 320
+  },
+  {
+   "quality": 85,
+   "width": 638
+  },
+  {
+   "quality": 75,
+   "width": 2048
+  }
+ ]
+}

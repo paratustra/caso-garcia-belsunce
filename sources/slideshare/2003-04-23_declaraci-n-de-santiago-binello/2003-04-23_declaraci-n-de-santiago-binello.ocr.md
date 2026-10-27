@@ -1,0 +1,111 @@
+# OCR de 2003-04-23_declaraci-n-de-santiago-binello.pdf
+
+Motor: Mistral OCR (mistral-ocr-latest). Cada sección corresponde a una página del PDF.
+
+
+---
+
+## Página 1
+
+![img-0.jpeg](img-0.jpeg)
+
+PROVINCIA DE BUENOS AIRES
+PODER JUDICIAL
+
+Dr. GABRIEL KRAWEC
+Instructor Judicial
+Secretaría de Policía Judicial
+Procuración Gral. S.C.J.B.A.
+
+Dr. RODOLFO CARLOS GOYENA
+Instructor Judicial
+Secretaría Policía Judicial
+Procuración Gral. S.C.J.B.A.
+
+1631
+
+DIEGO MOLINA RICO
+FISCAL
+
+# DECLARACION TESTIMONIAL
+
+A la Ciudad de Pilar, a los 23 días del mes de abril del año dos mil tres, comparece ante el suscripto e Instructores Judiciales Rodolfo Carlos Goyena y Gabriel Krawec, quién hace las veces de Secretario de Actuaciones, hallándose presente el Dr. José Licinio Scelzi, inscripto al tomo XIII, folio 430 del CASI y el Dr. CARIDE FITTE Carlos Enrique Tomo X Folio 370 C.A.S.I.; una persona previamente citada, a quien se le hace saber que se le recibirá declaración testimonial, como así de las penas con que se castiga al delito de falso testimonio (art. 275 del Código Penal) y el art. 235 del C.P.P., y que depone bajo juramento o promesa de decir verdad de todo cuanto supiere o le fuere preguntado, haciéndolo de acuerdo con las creencias o convicciones cívicas del compareciente y en este acto, bajo la fórmula "lo juro". Preguntado que es, dijo ser y llamarse SANTIAGO BINELLO, Pasaporte Argentino 26.387.211 que exhibe y retiene para sí, nacido el día 05 de diciembre de 1977, de 25 años de edad, economista, nacido en Capital Federal, domiciliado en Carmel Country Club, Pilar, Pcia. De Buenos Aires. Preguntado para que diga si es cónyuge, ascendiente, o pariente colateral hasta el tercer grado, o tutor, curador o pupilo de la/las persona/s imputada/s o, en su caso, pariente en grado igual o más próximo de la víctima CONTESTO: Que no, aclarando que es hijo del Sr. Sergio Binello. En este acto, se le hace lectura al testigo del art. 234 del Código Procesal Penal. Acto seguido DECLARA: Que "conozco al gordo de Carmel desde hace mucho tiempo, desde que ingresaron al club y empezaron con una amistad con papá y mamá y a partir de ese momento conocí al gordo y a la negra. Hemos pasado vacaciones con ellos. Más allá que ellos fueran amigos de papá y mamá, nosotros teníamos una relación. Cuando digo nosotros, me refiero a mis hermanos y a mí". Preguntado para que diga si conoce al Sr. Guillermo Bártoli, responde: "A Guillermo Bártoli lo conozco de Carmel por ser amigo de papá y mamá. Lo conozco muy posteriormente a cuando conocí a Carrascosa. Yo fui compañero de trabajo de él por espacio de un año y medio en ING". Preguntado para que diga si recuerda el almuerzo
+
+USO OFICIAL - MINISTERIO PUBLICO
+
+A-22
+
+
+---
+
+## Página 2
+
+ocurrido el día 27 de octubre del 2002, responde: yo ese día me levanté tarde y fuimos a comer. Estaban los Carrascosa, estaba papá, mamá, mi hermana, yo y mi novia. Comimos en el quincho de mi casa lo de siempre, milanesas y alguna que otra tarta y algunas ensaladas y después terminamos de comer y antes de que yo me fuera de la mesa llegó Guillermo Bártoli. Justo en ese momento, Guillermo y papá estaban planeando un viaje de pesca por lo cual mucho de lo que se habló en ese momento fue relativo a la pesca. Guillermo se sentó en diagonal adonde estaba yo, y yo después me levanté y me fui porque tenía que estudiar. Que esto fue alrededor de las 15.00 horas más o menos cuando yo me levanté y me fui”. Preguntado para que diga si recuerda a qué hora llegó Bártoli, responde: “no mucho tiempo antes de que yo me levantara y me fuera. No sé si fueron media hora o veinte minutos, no lo sé. Yo al verlo venir lo esperé porque quería comentarle mi intención de dejar el Banco, pero como no se originó el espacio para que lo charlara, me levanté y me fui a estudiar.” Preguntado para que diga si cuando llegó Bártoli habían finalizado la comida, responde: “yo había terminado de comer. Se arma una sobre mesa con café y estábamos en la sobre mesa cuando él llegó. No me acuerdo si a él se le trajo un plato de comida, la verdad es que no me acuerdo”. Preguntado para que diga quiénes estaban en la sobremesa, responde: los mismos que estábamos almorzando y Guillermo Bártoli”. Preguntado para que diga si el testigo se quedó hasta la finalización de la sobre mesa, responde: no, me levanté antes” Preguntado para que diga si sabe a qué hora culminó la sobre mesa, responde: que no. Preguntado para que diga si desde el lugar de donde estudia el testigo puede ver donde estaban almorzando, el testigo responde: lo que puedo ver desde donde estaba estudiando es el baño y una parte de la cocina del quincho. También veo a tres o cuatro metros una pérgola con un estacionamiento de piedritas. Si yo me paro y doy un paso al costado, puedo visualizar la parte del comedor del quincho”. Preguntado para que diga si miró hacia la ventana durante el tiempo en que estaba estudiando, responde: “sí, siempre miro a la ventana para descansar la vista y vi cuando al tiempo, mas o menos media hora
+
+
+---
+
+## Página 3
+
+
+
+PROVINCIA DE BUENOS AIRES
+PODER JUDICIAL
+
+Dr. GABRIEL KRAMAC
+Instructor Judicial
+Secretaría de Policía Judicial
+Procuración Gral. S.C.J.B.A.
+
+Dr. RODOLFO CARLOS GOTENA
+Instructor Judicial
+Secretaría Policía Judicial
+Procuración Gral. S.C.J.B.A.
+
+1632
+
+DIEGO MOLINA TICO
+FISCAL
+
+o cuarenta y cinco minutos, vi que salió papá con Bártoli. Después, al tiempo, más o menos una hora y media después, vi cuando llegaron mis padres, ahí me levanté, me fui a fumar un cigarrillo y seguí estudiando". Preguntado para que diga si cuando se levantó el testigo de la sobre mesa, si estaba presente el matrimonio Carrascosa, responde que sí. Preguntado para que diga si el testigo pudo ver el momento en que el matrimonio Carrascosa se fue de la casa, responde: que no lo recuerda. Preguntado si sabe el testigo en qué llegó el matrimonio Carrascosa, responde: "los Carrascosa venían a comer casi todos los domingos. Lo que a veces pasaba es que uno de ellos llegaba antes y luego venía el otro. Pero no recuerdo ese día cómo llegaron. Preguntado para que diga a qué hora comenzaron a almorzar, el testigo responde: "alrededor de las dos de la tarde, calculo". En este acto el Dr. Scelzi pregunta: Preguntado para que diga si el hermano mayor del testigo de nombre Gonzalo estaba presente en el almuerzo, responde: él no estaba, él no almorzó ese día con nosotros. Se había ido a un campo". Preguntado para que diga si la novia del testigo durmió esa noche en la vivienda del deponente, responde: "sí, ese día se quedó a dormir. Mi novia se llama María Emilia Schildknecht. Ella sí almorzó con nosotros." Preguntado para que diga si en ese almuerzo hubo algo que el testigo pueda recordar de lo que conversaron con los Carrascosa, el testigo responde: "la negra ese día me preguntó cómo me estaba yendo con el máster" sic. Preguntado para que diga si vio algo extraño en los Carrascosa, responde: "no, estaban tranquilos". Preguntado para que diga, en qué espacio del quincho hicieron la sobre mesa, responde: "hasta que yo me levanté, la hicieron en el comedor, después no lo sé". Invitado el testigo a que dibuje un plano sobre la composición del quincho en cuestión, el mismo accede a efectuarlo, el cual se adjunta al presente para mejor ilustración. Preguntado para que diga si puede recordar el lugar en que estaba hablando Guillermo con el padre del testigo sobre el tema de la pesca, responde: "sí mal no recuerdo, en la mesa del comedor". Preguntado para que diga si Bártoli también los domingos iba a comer a la casa del testigo al igual que los Carrascosa,
+
+USO OFICIAL - MINISTERIO PUBLICO
+
+A-23
+
+
+---
+
+## Página 4
+
+responde: “algunas veces iba, pero lo de los Carrascosa era mucho más habitual”. Preguntado para que diga si el testigo sabe porqué Irene ese día no concurrió a almorzar, responde: “en ese momento no lo sabía”. Preguntado para que diga quién ese Teresa Castaña, responde: “es la señora que trabaja en casa los domingos en el quincho y hace nuestros cuartos, el de mi hermano y el mío. Ella cocina los domingos en el quincho. Ella sirve la comida. Lo único que hace es la comida en el quincho, la sirve y hace el cuarto de mi hermano y el mío. Eso durante los fines de semana. Durante la semana hace la limpieza del quincho y la limpieza de nuestros cuartos.” sic. Preguntado para que diga si la Señora Castaña, mientras la familia está almorzando, hace los cuartos del deponente y su hermano, responde: “sí, generalmente cuando yo termino de almorzar, mi cuarto ya está ordenado” sic. Preguntado para que diga si el café también lo sirve la mentada Castaña, responde: “sí, trae la bandeja, la apoya en la mesa y mamá sirve el café” sic. Preguntado para que diga si esta señora trabaja desde hace muchos años en la casa del testigo, responde: “sí, no se cuántos, per sí que son muchos” sic. Preguntado para que diga si le consta al testigo si esta Señora conoce al Sr. Guillermo Bártoli, responde: “sí, lo conoce”. Preguntado para que diga si ese día domingo 27 de octubre estuvo trabajando en la casa del deponente, responde: “sí, estuvo trabajando. Me acuerdo porque todos los domingos viene a casa a trabajar” sic. Preguntado para que diga si la familia del testigo posee un casero de apellido Campos, responde que sí. Preguntado para que diga si ese señor vive allí solo o con su mujer, responde: “vive con su mujer” sic. Preguntado para que diga si la señora del Sr. Campos cumple labores domésticas en casa del testigo, responde que sí. Preguntado para que diga si los Campos trabajan los domingos en casa del testigo, responde que sí, que tiene franco los días miércoles. Preguntado para que diga si recuerda el testigo si ese día domingo existía un problema con la bomba de agua, responde que sí. Preguntado para que diga si el mencionado Campos se encarga de la reparación de la bomba y demás reparaciones de la casa, responde: sí. Preguntado para que diga si la
+
+
+---
+
+## Página 5
+
+16.33
+
+# PROVINCIA DE BUENOS AIRES
+
+# PODER JUDICIAL
+
+zona en donde se encuentra la bomba de agua es posible divisar el interior del quincho, responde: me da la impresión de que no porque en esa parte hay pared, no está vidriado. Yo nunca me fijé si desde la bomba se puede apreciar el interior del quincho. Preguntado para que diga qué hizo la novia del deponente en el momento en que el mismo se levantó de la mesa, responde: "no sé que hizo en el instante inmediato después a que me levanté. Sé que más tarde se fue a dormir la siesta" sic. Preguntado para que diga si recuerda a Guillermo comiendo en casa del testigo ese día, responde que no. Preguntado para que diga si María Marta y la madre del testigo poseían algún programa en común, responde: "jugaban al tenis" sic. Preguntado para que diga si sabe a qué hora regresó el hermano del testigo ese día, responde: "regresó en horas de la noche" sic. Preguntado para que diga si recuerda alguna que otra particularidad de ese almuerzo, responde que no. Que no siendo para más, se da por finalizado el presente acto, previa e íntegra lectura, firmando al pie todos los intervinientes por ante mí de lo que doy fé.
+
+USO OFICIAL - MINISTERIO PUBLICO
+
+DIEGO MOLINA PICU
+FISCAL
+
+RODOLFO CARLOS GOYENA
+Instructor Judicial
+Secretaría Policía Judicial
+Procuración Gral. S.C.J.B.A.
+
+DR. GABRIEL KRAWEC
+Instructor Judicial
+Secretaría de Policía Judicial
+Procuración Gral. S.C.J.B.A.
+
+A-23

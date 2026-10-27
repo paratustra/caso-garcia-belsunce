@@ -1,0 +1,3735 @@
+# OCR de Cuerpo-32a.pdf
+
+Motor: Mistral OCR (mistral-ocr-latest). Cada sección corresponde a una página del PDF.
+
+
+---
+
+## Página 1
+
+Cuerpo 32
+
+7201
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+usado en medicina para cerrar heridas no muy profundas. Entre sus características, mencionó que no desparece con el agua, sirve para ser colocado en pequeña cantidad en zonas puntuales -ya que si se pone mucho no coagula-, y permite que la herida deje de sangrar. Aclaró también, que en las heridas de bala el procedimiento para cerrarlas es exactamente igual: se afrontan los dos extremos y se cierra -obviamente lo único que se cierra es la piel-.
+
+Fue precisamente esta sospecha la que provocó que la Fiscalía recurriera a pericias que determinaran si, efectivamente, podía detectarse en los tacos de piel de la zona afectada, extraídos en la autopsia (VIDE fs. 219), vestigios de un componente de la fórmula del pegamento.
+
+En el primer estudio (fs. 928/934) realizado el día 23 de enero de 2003 en el Laboratorio Químico de la Gendarmería Nacional, se informó que en las muestras de piel analizadas por espectrofotometría infrarroja FTIR, no se detectó la presencia de ningún polímero del tipo cianoacrilato base del pegamento comercial "la gotita" y otros similares- acrílicos o epoxi.
+
+El segundo estudio (fs. 1886/1889) fue efectuado el día 8 de mayo de 2003, en CINDECA de la Universidad Nacional de La Plata -CONICET- empleándose la metodología "Infrarrojo por Refractancia Difusa" (DRIFTS), y no por microscopio como en la pericia anterior, lo que permitió observar en el espectro de la piel identificada bajo la letra "D", una banda en 2243 cm. a la menos uno -característica que puede ser asignada a
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 2
+
+justicia-, por los otros testimonios que muestran a la imputada ajena a los actos obstructivos de la investigación" (fs. 6692/6693).
+
+El tercer y último argumento esbozado, se refiere a un vicio nulificante por el modo de obtención de una prueba -exclusión probatoria por ilegalidad del medio empleado para su descubrimiento e incorporación-. La Defensa sostuvo que el hallazgo de uno de los proyectiles -célebremente conocido como "pituto"- fue posible merced a lo relatado por familiares del acusado en declaraciones testimoniales. Se rescató gracias a la participación de una de las personas que ahora está imputada -Juan Carlos Hurtig-. Luego, este proyectil fue el único que permitió determinar el calibre y características del arma que lo disparó -aclarando que los restantes extraídos del interior del cráneo de la víctima estaban deformados-. Destaca así, que el dato del "pituto" fue obtenido de forma ilegal.
+
+Aquí, pese a haberse citado algunas de las consideraciones vertidas por la disidencia en el caso "García D'Auro" (C.S.J.N., García, D'Auro, Ramiro Eduardo y otros s/ robo de automotor en poblado y en banda, causa 6855, rta. en fecha 10/08/95), la situación no es asimilable en tanto el acusado de autos no es quien -habiendo comparecido como testigo- fue sometido a un interrogatorio destinado a determinar su responsabilidad en el hecho -surgiendo de allí las pruebas incriminatorias- Asimismo, de los datos de la causa tampoco surge que las declaraciones testimoniales del nombrado Hurtig y Horacio García Belsunce (h) -quien
+
+
+---
+
+## Página 3
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+El Dr. José Licinio Scelzi, abogado defensor del imputado en ese entonces, confirmó en la audiencia que efectivamente formuló la denuncia mencionada en su resolución por el Juez de Garantías, a la fiscalía de turno –creía a cargo del Dr. Vaiani-. Empero, evidentemente no se hubo arribado a ningún pronunciamiento que determinara algún accionar delictivo al respecto, porque de lo contrario hubiera sido anoticiado el Tribunal que integro. Por lo tanto, tal pericia resulta un medio convictivo válido.
+
+Sobre esta pieza, escuchamos en la audiencia a Luis Alberto Ferrari -Licenciado en Química y en Ciencias Farmacéuticas y doctor en Ciencias Exactas-, quien se desempeña como Jefe del laboratorio de toxicología y química de la Asesoría Pericial de la S.C.J.B.A.
+
+El testigo explicó que luego de realizarse la pericia en Gendarmería Nacional, procedió a cerrar el continente de las muestras utilizadas y no volvió a lacrarlo porque se depositaba en la caja fuerte de la Asesoría Pericial.
+
+Detalló las diferencias entre ambas pericias -aclarando que en ambos casos se hizo cotejo testigo-. La primera -de refractancia total atenuada (ATR)- resulta mucho más superficial y azarosa, mientras que la segunda -con el método llamado DRIFT- tiene mayor penetración y sensibilidad; es más abarcativa, permitiendo acceder a zonas donde no se podía acceder con el otro procedimiento. Previamente, según enfatizó, le
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 4
+
+hizo saber al Fiscal que con este método las muestras iban a quedar dañadas por el calor al que se exponían.
+
+En otro pasaje, ilustró detalladamente los procedimientos realizados, para concluir -aclara que no habló de certeza- que se detectó la presencia de ciano-acrilato. Puntualizó que no hay forma de determinar la presencia de acrilato en la piel, porque se superpone con sus propias proteínas.
+
+Teniendo en cuenta el contexto en que se produjo la muerte, lo apropiado para el declarante fue hablar de una fuerza evidencial de que hay un alto grado de compatibilidad de ciano-acrilato -en ese contexto de pegamento-. Dijo al respecto, que algunos shampoo "piojicidas" tienen ciano, pero tienen también fenilo y, en la muestra "D" -donde apareció ciano- no apareció el grupo Fenilo.
+
+También fueron traídos los dos químicos que intervinieron en el estudio realizado en la Universidad Nacional de La Plata.
+
+Jorge Sambeth explicó que lo que había que buscar era un grupo funcional o indicios que determinaran si había presencia de pegamento. Ese grupo funcional es el grupo ciano, es la huella digital que tiene el pegamento; mientras que el cianoacrilato tiene cierta coincidencia con la piel, que está compuesta por proteínas y lípidos. A preguntas de las partes, aclaró que era la primera vez que usaban este método sobre piel.
+
+En una sola de las muestras analizadas, hallaron en la zona del 2243 del espectro, ciano, el cual según la bibliografía y por esa ubicación,
+
+
+---
+
+## Página 5
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+El Dr. José Licinio Scelzi, abogado defensor del imputado en ese entonces, confirmó en la audiencia que efectivamente formuló la denuncia mencionada en su resolución por el Juez de Garantías, a la fiscalía de turno -creía a cargo del Dr. Vaiani-. Empero, evidentemente no se hubo arribado a ningún pronunciamiento que determinara algún accionar delictivo al respecto, porque de lo contrario hubiera sido anoticiado el Tribunal que integro. Por lo tanto, tal pericia resulta un medio convictivo válido.
+
+Sobre esta pieza, escuchamos en la audiencia a Luis Alberto Ferrari -Licenciado en Química y en Ciencias Farmacéuticas y doctor en Ciencias Exactas-, quien se desempeña como Jefe del laboratorio de toxicología y química de la Asesoría Pericial de la S.C.J.B.A.
+
+El testigo explicó que luego de realizarse la pericia en Gendarmería Nacional, procedió a cerrar el continente de las muestras utilizadas y no volvió a lacrarlo porque se depositaba en la caja fuerte de la Asesoría Pericial.
+
+Detalló las diferencias entre ambas pericias -aclarando que en ambos casos se hizo cotejo testigo-. La primera -de refractancia total atenuada (ATR)- resulta mucho más superficial y azarosa, mientras que la segunda -con el método llamado DRIFT- tiene mayor penetración y sensibilidad; es más abarcativa, permitiendo acceder a zonas donde no se podía acceder con el otro procedimiento. Previamente, según enfatizó, le
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 6
+
+hizo saber al Fiscal que con este método las muestras iban a quedar dañadas por el calor al que se exponían.
+
+En otro pasaje, ilustró detalladamente los procedimientos realizados, para concluir -aclara que no habló de certeza- que se detectó la presencia de ciano-acrilato. Puntualizó que no hay forma de determinar la presencia de acrilato en la piel, porque se superpone con sus propias proteínas.
+
+Teniendo en cuenta el contexto en que se produjo la muerte, lo apropiado para el declarante fue hablar de una fuerza evidencial de que hay un alto grado de compatibilidad de ciano-acrilato -en ese contexto de pegamento-. Dijo al respecto, que algunos shampoo "piojicidas" tienen ciano, pero tienen también fenilo y, en la muestra "D" -donde apareció ciano- no apareció el grupo Fenilo.
+
+También fueron traídos los dos químicos que intervinieron en el estudio realizado en la Universidad Nacional de La Plata.
+
+Jorge Sambeth explicó que lo que había que buscar era un grupo funcional o indicios que determinaran si había presencia de pegamento. Ese grupo funcional es el grupo ciano, es la huella digital que tiene el pegamento; mientras que el cianoacrilato tiene cierta coincidencia con la piel, que está compuesta por proteínas y lípidos. A preguntas de las partes, aclaró que era la primera vez que usaban este método sobre piel.
+
+En una sola de las muestras analizadas, hallaron en la zona del 2243 del espectro, ciano, el cual según la bibliografía y por esa ubicación,
+
+
+---
+
+## Página 7
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE PROCES
+
+SECRETARIO
+
+TRIBUNAL EN LA MARINAL 4° 5
+
+SAN ISLAO
+
+significa que vibra con el acrilato. Es como que este último "empuja" al primero y lo sitúa en ese lugar del espectro. A modo de ejemplo, indicó que si el ciano hubiera correspondido a un fulminato, hubiera existido un corrimiento de la banda para abajo.
+
+No obstante, según su opinión, con mayores análisis se hubiera podido aumentar el grado de certeza del hallazgo -por eso en las conclusiones de la pericia de fs. 1886/1889 se empleó el término "podría"-.
+
+Luis Alberto Gambaro coincidió sustancialmente con el anterior.
+
+El perito de parte, Osvaldo Enrique Troccoli, desautorizó los resultados de este segundo estudio, ya que sostuvo que la espectroscopia infrarroja es un método orientativo, y si no se cuenta con un patrón de la sustancia que se está buscando, no se puede determinar nada porque la herramienta empleada da la existencia de bandas, y las conclusiones son especulativas.
+
+En primer lugar, expresó que no se puede distinguir lo que es ruido de lo que es realmente una señal, para lo que se necesita la escala de observancia que no figura en el informe pericial.
+
+A lo largo de su exposición, aclaró asimismo, que sus afirmaciones se basaban en lo leído en el dictamen escrito, ya que no presenció el desarrollo del procedimiento.
+
+Agregó que en esa banda donde aparentemente apareció el ciano, pueden aparecer otros grupos funcionales, si se consulta la tabla respectiva.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 8
+
+También Osvaldo Hugo Raffo -actuando como perito de la Defensa- nos hizo saber en la audiencia que vio la video filmación de la autopsia, ya que no estuvo presente durante el desarrollo de esa operación.
+
+Al respecto, el distinguido médico forense observó que, dadas las manipulaciones y contaminaciones que pueden haber tenido las muestras analizadas, podría haber aparecido "cualquier cosa".
+
+Explicó que en la referida filmación se pueden apreciar una serie de acciones -subirse a la mesa de trabajo con los zapatos puestos, actuar sobre la zona en cuestión con agua caliente, palpación reiterada, arrastre, contacto con líquidos, utilización de una tijera para abrir los agujeros, búsqueda dentro del sumidero donde se echó la masa encefálica licuada, sin cambiarse los guantes, entre otras que enumeró- que, si bien no las cataloga como negligencia ni mala praxis de los profesionales actuantes, sí pueden conformar un cuadro de contaminación de otras pruebas, no imputable a los médicos, ya que ellos sólo buscaban la causa y el mecanismo de la muerte.
+
+Pero más allá de las observaciones formuladas por los peritos de parte, lo cierto es que de la pericia obrante a fs. 1886/1889, no puede extraerse con el grado de certeza que esta etapa requiere, la conclusión de que se hubiera encontrado una huella indicativa de la presencia de pegamento en la piel extraída de la zona del cráneo de la víctima, donde se hallaban las lesiones letales.
+
+
+---
+
+## Página 9
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIANO E NICOLAS
+SECRETARIO
+TRIBUNAL DE LA REPUBLICA
+SAN DIEGO
+
+Cabe preguntarse entonces, si de todos modos y aun sin poder determinarse a ciencia cierta qué sustancia fue empleada, hay evidencias de que algunos de los orificios producidos por el pasaje de los proyectiles en la cabeza de la occisa, hubieran sido cerrados por una acción voluntaria.
+
+Enfocada así la cuestión, he de volver al testimonio del eminente profesor, Dr. Raffo, quien al respecto destacó que el ángulo de filmación (45° en lugar de 90° que hubiera sido el correcto) pudo haber incidido en la visualización de algunos orificios como más cerrados que otros, así como diferentes distancias de disparo, o que el calibre .32 mm. de los proyectiles se considera pequeño y difícil de peritar.
+
+Sostuvo además, que influye en el aspecto de los orificios, el tiempo de degradación y la acción del formol, que retrae y reduce el tamaño de los mismos -puntualizando que ya el cadáver en el cajón venía con mucha carga formólica-.
+
+Refirió que también el gas borra relieve y redondea los rebordes, lo que pudo hacer pensar que los orificios estaban cerrados.
+
+De todos modos y dado que el Dr. Raffo no tomó contacto con el cadáver, creo que es más esclarecedor remitirnos a lo que explicaron los médicos autopsiantes, cuyas declaraciones prestadas en la causa n° 2060 del Tribunal Oral en lo Criminal de la Nación N° 2 fueron incorporadas por lectura al debate.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 10
+
+Analizaré primero, y con relación al punto a dilucidar, el testimonio de Carlos Alejandro Flores –ya citado–, quien explicó que el Fiscal Molina Pico le había adelantado telefónicamente que el cuerpo podía presentar lesiones en la cabeza, provocadas por un atizador.
+
+Según señaló, revisaron la cabeza y al pasar la mano se desprendió el pelo –con anterioridad no habían advertido nada– lo que permitió ver seis agujeros en la región lateral izquierda –aclarando que los vieron tal como fueron dibujados en el informe de autopsia–; los que, en un primer momento, pensaron que habían sido producidos por un elemento contuso-punzante.
+
+Gracias al tipo de cajón y al formol, el cadáver estaba perfectamente conservado –parecía no tener más de 48 ó 72 hs.–.
+
+La conclusión de que la muerte se había producido por disparos de arma de fuego, se debió al hallazgo en la masa encefálica licuada, de cinco proyectiles de plomo desnudo –ya que, antes de ello, las lesiones no hacían sospechar tal mecanismo de producción–.
+
+A preguntas que se le formularon, afirmó que ni de los exámenes realizados por el dicente en la cabeza de la occisa, ni de los realizados posteriormente por los laboratorios respectivos –evidentemente se está refiriendo a la primera pericia, ya que la fecha de esta declaración es 11-04-03– se determinó la presencia de alguna forma de pegamento en las heridas que aquella presentaba, por lo que está seguro que los orificios no estaban pegados con ningún tipo de pegamento.
+
+
+---
+
+## Página 11
+
+7205
+
+MAXIMILIANO & NICOLAS
+SECRETARIO
+TRIBUNAL DE LA CRIMINAL N° 6
+SANTIAGO
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Mucho más extensa y detallada fue la declaración juramentada de Héctor Horacio Moreira -también citada oportunamente-, controlada por los Dres. Scelzi y Moret -co-Defensores del imputado Guillermo Bartoli-.
+
+El testigo -como ya señalara- luego de ser convocado por el Dr. Molina Pico, le solicitó autorización para concurrir al lugar del hecho y así poder actuar con mayores conocimientos -lo que efectivamente hizo-. Horacio García Belsunce fue quien le mostró el lugar donde se creía posible que la víctima se hubiera golpeado con las canillas del baño, por lo que el declarante tomó una serie de notas y medidas pertinentes.
+
+Más adelante, destacó que la policía científica filmó la operación e indicó que por el formol que contenía el cajón, hubo que desoldarlo en parte manualmente para evitar cualquier explosión -añadiendo que dicha sustancia permitió que el cadáver se conservara como si fuera una muerte de una data de 36 ó 72 horas-. Observó que el cuerpo estaba muy húmedo por el formol, con el putrílago dentro del cuerpo.
+
+Señaló también que en el informe de autopsia, se deja constancia que la caja metálica que contenía el féretro de donde se extrajo el cadáver contenía formol para su conservación, evitando de esta manera su putrefacción.
+
+Precisó que él fue el encargado de actuar sobre el cuerpo, mientras que el Dr. Flores participó y visualizó todas las acciones que realizaba.
+
+Al examinar la cabeza -todavía con el cabello-, a simple vista notaron la presencia de los hematomas, pero no las lesiones contuso-
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 12
+
+punzantes -que luego resultaron ser contuso-perforantes, es decir, que sólo se veían las lesiones contusas cerradas y no se veía ninguna lesión abierta-.
+
+Continuó su relato, mencionando que luego se pasó la mano por el cabello -que estaba impregnado en formol-, desprendiéndose solo y fácilmente; y allí observaron una primera zona de contusión en la región témporo-frontal izquierda -lo que es muy apreciable visualmente, tanto en las fotos como en el video-. Hasta ahí, les pareció cuatro lesiones de tipo contuso-punzante, por lo que no hablaban de penetrante ni perforante. Eran lesiones -si bien con apariencia redondeada- cuyos bordes estaban encimados, sin apertura, y luego siguiendo el recorrido, vieron una quinta lesión con las mismas características, con algo más de apertura.
+
+Preguntado concretamente si notó la presencia de algún pegamento o químico que pudiera haber provocado el cerramiento de las lesiones, respondió que no, que de haber notado algún elemento distinto al tacto o a la visión, lo hubiese dejado asentado en el protocolo y lo hubiera remitido al Laboratorio Químico Judicial para su investigación.
+
+Más adelante, explicó que utilizaron una pinza o una tijera para separar los bordes de los orificios, determinando que eran introvertidos, sin signos macroscópicos de tatuajes, quemaduras o ahumamiento, por lo que no detectó en los mismos características que indicaran que hubieran sido causados por proyectil -determinándolo luego, al hallar los plomos, como ya se refiriera-.
+
+
+---
+
+## Página 13
+
+7206
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN CON NICOLAS
+SECRETARIO
+TRIBUNAL EN COMERCIANAL N° 6
+SAN ISABEL
+
+Con relación al punto a dilucidar, este testigo fue preguntado para que dijera si luego de haberse introducido un dedo en alguna de las referidas heridas, éstas podrían haberse cerrado tal como él las observó, respondiendo que sí, que ello podía ser producto de la putrefacción y el formol.
+
+Esta afirmación -que considero de capital importancia- he de cotejarla con lo dicho por el Dr. De Tomás quien, al efectuársele la misma pregunta, contestó que el cadáver no estaba en formol. Afirmó que había una válvula que tiene formol, que en el movimiento pudo haber caído pero en pequeña cantidad, ya que esa válvula es muy chica -tiene poco volumen-. Por ello, concluyó que esa cantidad de formol no pudo haber hecho que se achicaran los agujeros, sino que los endureció.
+
+Lo afirmado por este último testigo se contradice abiertamente con lo informado por los médicos que sí participaron en la operación de autopsia y, más aún, actuaron directamente sobre el cuerpo.
+
+El Dr. De Tomás no niega entonces, el efecto que podría provocar el formol sobre tales lesiones, sino que directamente descartó que el cuerpo tuviera exceso de formol. Pero si lo tenía, como parece ser ¿Entonces es verdad lo que afirma el Dr. Raffo y coincide el Dr. Moreira, que pudo haber incidido en el cerramiento de algunos orificios?
+
+Si no tengo certeza -como lo exige esta etapa del proceso- de que se detectó en la piel de una de las lesiones producidas por los proyectiles un componente indubitable que integre la fórmula de un pegamento, y
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 14
+
+tampoco tengo certeza que los orificios que vimos cerrados fueron manipulados para obtener tal resultado -ya que ello pudo deberse a procesos propios de la evolución de la putrefacción cadavérica y la acción del formol-, no estoy en condiciones de adherir a la posición de la Fiscalía. Nuevamente, reitero, hubiera sido esclarecedor escuchar en la audiencia - con la inmediatez que ello implica- a los doctores Flores y Moreira, a fin de despejar las dudas señaladas.
+
+Así pues, por mandato legal -in dubio pro reo-, debo interpretar la exigua información con la que cuento, en el sentido más favorable al imputado (art. 1 del C.P.P.). La Fiscalía -sobre quien pesa la carga de la prueba conforme lo prescribe el artículo 367 del ordenamiento procesal- no ha logrado acreditar que los orificios de entrada de proyectiles más próximos al rostro de la víctima, hubieran sido pegados deliberadamente para no ser advertidos por quienes asistieron al velatorio.
+
+He dejado para el final el análisis del testimonio del funcionario policial Norberto Aníbal Degastaldi -quien como ya mencionaran otros testigos, en el mes de octubre de 2002 era Comisario Inspector y Director de la D.D.I. de San Isidro- y del informe del Fiscal General de la Cámara Nacional de Casación Penal, Dr. Juan Martín Romero Victorica (punto nº 261 agregado por lectura, obrante a fs. 263/265). Ello se debe a que ambas exposiciones constituyen la amalgama que cierra la conclusión a la que he arribado, tanto respecto de los hechos imputados como de la actuación inicial del Sr. Fiscal Dr. Diego Molina Pico.
+
+
+---
+
+## Página 15
+
+7207
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MINORALMENTE NICOLAS
+SE - MEDIO
+TRIBUNAL EN LA ORIGINAL N° 1
+SAN DIEGO
+
+El testigo Degastaldi expresó que cerca del mediodía del día 28 de octubre de aquel año, recibió un llamado telefónico de Casafus, quien explicó que había fallecido la hermana de un periodista conocido o amigo de él en un country de Pilar, y necesitaba que se comunicara o con el hermano de la víctima o con el Dr. Romero Victorica y que se pusiera a su disposición. Ni bien cortó, llamó a Horacio García Belsunce hijo pero no fue atendido. Por tal motivo, llamó a Romero Victorica, quien le dijo que la mujer se había accidentado en la bañera, y había cosas que no le cerraban. Degastaldi le respondió que enseguida iría para allá.
+
+Luego de pedirle a su secretario que se comunicara para ver si en alguna dependencia había habido alguna denuncia, le pidió que localizarara al Fiscal de turno y le hiciera saber la situación.
+
+Un rato más tarde, pasó a buscar al Fiscal Molina Pico, lo llevó hasta el lugar y lo presentó con Romero Victorica -alejándose ellos unos metros para hablar, mientras él se quedó esperando-. De ahí, se fueron al lavadero de la finca, donde les dijeron lo que había pasado -en este punto, aclaró que él no escuchó toda la conversación porque lo desconcentró un perro que entró y le ensució la ropa, al saltarle-.
+
+Luego, acompañó al Fiscal a un dormitorio en la planta alta, en el que estaba la víctima acostada en una cama, y alrededor de ella muchos adolescentes sentados en el piso, inclusive tapando la puerta del baño, y un hermano -que después identificó como Horacio García Belsunce -llorando sobre el cadáver-.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 16
+
+En ese momento, el Fiscal observó el cadáver a la distancia, porque estaban a los pies de la cama y permanecieron en la casa media hora, cuarenta minutos o una hora como máximo.
+
+Al bajar, recordó que el Agente Fiscal le dijo que le iba a hacer un oficio para que convocara a peritos y comisionara personal para ubicar el certificado de defunción y saber dónde iban a estar los restos –refiriéndole el testigo que la Sub – D.D.I. iba a estar a su disposición. Recordó que luego, como refuerzo, le asignó al caso dos hombres de la D.D.I., para que tomaran asiento en la fiscalía con una computadora, e hicieran desgrabaciones y otras tareas que demandara el Sr. Fiscal.
+
+Al preguntársele que fue lo que le transmitieron acerca del hecho, señaló que estando en el lavadero, les dijeron que la víctima era una persona muy torpe y se había golpeado varias veces con una ventana mal diseñada en el baño –suponiendo que esta vez había sucedido lo mismo, pero con resultado fatal-. En esa reunión, estaban Romero Victorica, Horacio García Belsunce (h), Guillermo Bártoli, el Fiscal Molina Pico, y él. inmediatamente después, fue que subieron a ver el cadáver –sorprendiendole al declarante la velocidad con que subió Horacio García Belsunce (h) y se puso a llorar atravesado sobre la cama, encima del cadáver de su hermana.
+
+Después de haber estado en la casa –un par de días más tarde-, Degastaldi recibió un llamado de Horacio García Belsunce (h), muy molesto por la manera en que se estaba llevando adelante la
+
+
+---
+
+## Página 17
+
+7208
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAR DE NICOLAS
+DE LA REUNIO
+TRIBUNAL DE LA ORIGINAL N°
+SAN DIEGO
+
+investigación. No alcanzó a recordar las palabras exactas, pero sí remarcó
+que este individuo estaba molesto porque decía que había sido un
+accidente, que era todo muy molesto para la familia, y que si se buscaba
+el certificado de defunción, éste no era el verdadero o algo así –llamándole
+la atención al testigo que se auto imputara algo así por teléfono–.
+
+El testigo negó haber ingresado a inspeccionar el supuesto lugar del
+hecho, y al preguntársele si no sintió siquiera curiosidad de hacerlo,
+respondió que no pasaba por una cuestión de curiosidad, sino porque
+Bártoli les había dicho que el baño ya estaba limpio.
+
+A nuevos interrogantes de las partes, aclaró que en la reunión del
+lavadero, nadie hizo mención al hallazgo del "pituto".
+
+A su turno, Romero Victorica –en su atípica injurada de fs. 263/265,
+punto n° 261– informó que había tomado conocimiento de la muerte de
+María Marta el día lunes 28 de octubre de 2002, a las 9:00 hs., a raíz del
+llamado de Horacio García Belsunce (h), quien le dijo entre llantos, que su
+hermana había sufrido un accidente en el baño de su casa y estaba
+muerta.
+
+Tras la noticia, se dirigió junto a su mujer al lugar del hecho. Llegó
+aproximadamente a las 10:00 ó 10:30 hs. y Horacio ya se encontraba allí.
+Tras los saludos que se estilan, su amigo le pidió que buscaran un lugar
+aparte porque había muchos familiares y amigos. Se fueron al baño de la
+planta baja –que, según aclaró, era el único lugar reservado para hablar–,
+y para su sorpresa, Horacio le dijo casi textualmente "Hay cosas que no
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 18
+
+cierran... Mirá Juan, María Marta presenta una fractura de cráneo con pérdida de masa encefálica y en el baño había sangre por todos lados...". Continuó diciendo que el creía que se había dado un terrible golpe en el baño, porque era bastante torpe de movimientos, y era muy probable que se hubiera golpeado con una ventana con la que solía pegarse, y que ello le hubiera ocasionado una herida de la emanaba abundante sangre; herida que habría intentado lavar en la bañadera, lugar donde se habría producido el accidente. También le comentó -sin precisar quienes- que se había lavado la sangre del baño y que habían encontrado una especie de plomo que se asemejaba a los sostenedores de estantes de bibliotecas o en todo caso a una perilla de las que se usan para abrir cajones, manchado de sangre que estaba en el suelo. Romero Victorica lo interrumpió y le preguntó: ¿Qué pasó con ese plomito o perilla? Horacio le dijo que lo habían tirado.
+
+Romero Victorica, sorprendido, le preguntó a Horacio si había hablado con la policía o si había intervenido, a lo que le contestó que había ido un patrullero al country, pero se había ido sin tomar intervención. Seguidamente, Horacio le pidió que llamara a Casafus y que ambos tomaran las decisiones que correspondieran. El Fiscal entonces -según señaló- se comunicó con el funcionario policial y le transmitió sus dudas sobre la ocurrencia de los hechos, le dijo que era menester que la policía tomara intervención y se diera aviso al Fiscal de turno -Dr. Molina Pico-.
+
+
+---
+
+## Página 19
+
+7209
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-0.jpeg](img-0.jpeg)
+
+Continúa su relato, diciendo que, posteriormente, le transmitió a novedad a la familia –aclarando que la noticia ocasionó cierto disgusto porque en general no querían saber nada con la intervención de la policía y el fiscal, ya que estaban aferrados a la idea del accidente-. Más aún, recordó que incluso el hermano menor “John” cedió a la presión familiar y se aferró a que había que dejar todo como estaba y que había sido un accidente –señalando respecto a la intervención de la policía que nada arreglaba, que si le decían que había entrado un “villero” a robar y le había dado un “fierrazo” a María Marta, de nada serviría saberlo porque no le devolvería la vida-.
+
+En general –según informó el declarante- la familia se mostró muy disgustada o mal dispuesta con él, fundamentalmente por haber dado intervención a la policía y a la fiscalía -a tal punto que su amigo lo llamó “Botón”, contestándole el deponente que era su deber-.
+
+Alrededor de las 14:00 ó 14:30 hs. llegó al lugar el Sr. Fiscal Dr. Molina Pico acompañado de un Comisario, y en una dependencia anexa al lavadero mantuvieron una reunión en la cual se anoticiaron someramente de los hechos –destacando que la familia insistía en la idea del accidente-.
+
+De todo lo expuesto, como ya dijera, resulta que aun cuando la actuación del Agente Fiscal no fue la adecuada, se lo convocó tarde al lugar del hecho –cuando los rastros, pruebas y elementos del delito habían sido suprimidos en su inmensa mayoría- y se lo engañó al ocultarle un sinnúmero de datos y “dudas” respecto a lo ocurrido. Le fue transmitida la
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 20
+
+idea del accidente hogareño junto con la convicción de parte de familiares y amigos, de que su actuación no era necesaria.
+
+En tal sentido, nada agrega lo relatado por Jorge Adrián Tedeschi – quien pese a no haber sido mencionado por el Fiscal de Casación, refirió que en octubre de 2002 había sido llamado por éste, para que fuera a revisar el cuerpo y el lugar de los hechos; cosa que finalmente no hizo-.
+
+En virtud de las consideraciones expresadas y a fin de dar por concluida la presente cuestión, considero a partir de las pruebas producidas, acreditados los hechos que a continuación señalaré.
+
+El día 27 de octubre de 2002, en el horario comprendido entre las 18:20 y las 19:00 hs. aproximadamente, María Marta García Belsunce fue agredida mientras se hallaba en el interior de su domicilio sito en el Country Club Carmel, ubicado en la calle Monseñor D' Andrea s/n, de la localidad de Pilar, provincia de Buenos Aires. En efecto, una o más personas le efectuaron seis disparos de arma de fuego, los cuales impactaron en se cabeza ocasionándole heridas de tal entidad que culminaron con su vida.
+
+Inmediatamente después del fallecimiento de la Sra. María Marta García Belsunce, una o más personas desarrollaron una serie de acciones tendientes a ocultar, alterar o hacer desaparecer los rastros, pruebas o instrumentos de aquel delito. Así, valiéndose de haber instalado la idea de que el fallecimiento se había producido como consecuencia de un accidente doméstico y como parte de un plan tendiente a ocultar el
+
+
+---
+
+## Página 21
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE MICOLAS
+SERVICIO DE
+TRIBUNAL EN EL ORIGINAL N°
+SAN DIEGO
+
+homicidio, se modificó el escenario del crimen limpiándolo y ordenándolo,
+y se dieron directivas para ello; se ocultó una de las balas utilizadas en el
+hecho, arrojándola al inodoro; se tiraron ropas y otros elementos
+ensangrentados; se acomodó el cadáver intentando disimular las heridas
+que presentaba, peinándolo y procurando detener la abundante pérdida de
+sangre; se evitó que en un primer momento se hiciera presente en el lugar
+la policía; y que ciertos allegados se acercaran al cuerpo de la víctima y al
+escenario del crimen y, más adelante, que los representantes de la
+empresa funeraria manipularan con libertad el cadáver; se obtuvo un
+certificado de defunción alterado en cuanto a la referencia al origen del
+deceso y de este modo se intentó evitar que se hiciera la correspondiente
+autopsia, para ocultar que se trató de una muerte traumática.
+
+Con el alcance expresado, a la cuestión planteada voto por la
+AFIRMATIVA, por ser ello mi razonada y sincera convicción (arts. 210,
+367, 371 inc. 1°, 373 y cctes. del C.P.P.).
+
+# A la misma cuestión, el doctor Rizzi dijo:
+
+Antes de introducirme en la respuesta a este primer interrogante,
+considero importante señalar que en el marco de sendas estrategias que
+no se alcanzan a comprender o justificar, tanto el fiscal como la defensa
+ofrecieron una copiosa prueba a incorporar por lectura, que obligó a que e
+tribunal destinara largas y tediosas jornadas a su oralización. Pareció que
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 22
+
+se creía que lo que es largo, es por eso convincente e irrefutable, pero al final del juicio, observamos que de los propios alegatos de unos y otros, sus argumentos se apoyaron sólo en una mínima parte de la trabajosa prueba colectada y examinada.
+
+Ese ha sido, por lo demás, el signo de esta causa. El abordaje de distintas líneas de investigación, de acusación y de defensa, que aún habiendo sido abandonadas o conocidamente inútiles, fueron expuestas durante el debate, sin beneficio ni interés alguno, sino que, por el contrario, dieron pábulo al desconcierto de una opinión pública que -atenta a un caso de difundida significación- difícilmente comprenda semejante dispendio de tiempo y esfuerzo de magistrados, abogados y del aparato judicial.
+
+A ello se suma una representación del Ministerio Público, cuyos integrantes parecían no compartir la línea de la acusación en forma unánime, lo que se manifestó inéditamente, en la audiencia del día 21 de marzo, cuando el fiscal Molina Pico desautorizó el interrogatorio que propiciaba uno de sus colegas. Y al final del alegato, el nombrado tampoco se ahorró una impertinente admonición al tribunal, más propia de un discurso político que de una pieza jurídica.
+
+A este marco, se agregó puertas afuera, pero con excesiva repercusión mediática, un coro de abogados, algunos de ellos vinculados a esta causa, otros asistentes, otros comentaristas, que incurrieron, a juicio del suscripto, y junto con cierto aparato periodístico, en una
+
+
+---
+
+## Página 23
+
+7211
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIANO DE NICOLAS
+SECRETARIO
+TRIBUNAL DE PRESIDENCIA
+DE LA UNIÓN
+
+apresurada e imprudente crítica del caso y de sus incidencias, afirmando como verdades irrefutables lo que no estaba probado, confundiendo el público, antes que informándolo, e induciéndolo a seguir las alternativas del juicio más con morbosa curiosidad que con la auténtica angustia social que toda muerte inocente debe inspirar.
+
+Y así, arribamos a esta etapa final del veredicto, en un juicio que ya al tratar la nulidad califiqué de extraordinario, impregnado de características muy particulares que en mi criterio no han podido ser convenientemente develadas y a las que ya me habré de referir, y en el que la notable resonancia pública dificultó el acceso a la verdad antes que favorecerlo.
+
+No debe entenderse esto como la pretensión de que no se haga público un caso. Como dice J.Bentham¹, citado por Luigi Ferrajoli² "la publicidad es el alma de la justicia", porque es la más eficaz salvaguardia de los testimonios, porque favorece la probidad de los jueces, al actuar como freno de un poder del que es tan fácil abusar, y porque al mismo tiempo refuerza su independencia acrecentando su responsabilidad social y neutralizando los vínculos jerárquicos. Pero el maestro italiano, que tan claramente expone las virtudes de la publicidad, alerta enseguida que esta
+
+¹ "Tratado de las pruebas judiciales", t.l, lib.11, cap., p.140.
+
+² Luigi Ferrajoli, "Derecho y Razón, Teoría del Garantismo Penal" Edit. Trotta, Madrid, 1997 p.686.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 24
+
+no tiene nada que ver con la resonancia y espectacularidad del proceso$^{3}$, afirmando que “...el rumor en torno al proceso, enormemente acrecentado por la ambigua relación instaurada en estos años entre mass media y actividad investigadora, es en efecto, inversamente proporcional a la efectiva cognoscibilidad de los actos procesales; cogniscibilidad que la fuga de noticias permite de forma distorsionada durante la instrucción y que la mole creciente de las actuaciones judiciales impide de hecho durante el enjuiciamiento. En este sentido, la media publicidad del proceso mixto (ya que la instrucción es secreta) acaba siendo una publicidad sólo de las acusaciones –la incriminación, la privación de libertad o las pruebas de cargo- y no también de las defensas, transformándose así su función de garantía frente al arbitrio, en instrumento de añadido de penalización social preventiva ... este cambio señala el prevalecimiento de la función intimidatoria y estigmatizadora del proceso sobre la de la pena...”.
+
+Sólo puedo agregar a este brillante análisis del problema, que las aproximaciones, bien o malintencionadas, de quienes por razones obvias no pueden conocer correctamente como las partes o los tribunales, las vicisitudes de un proceso, terminan generando muchas veces falsas expectativas en la sociedad, que al verse necesariamente defraudadas en la sentencia, fomentan injustamente el perjudicial descrédito de la institución judicial, sin beneficio para nadie.
+
+$^{3}$ L. Ferrajoli, op.cit. p.618.
+
+
+---
+
+## Página 25
+
+7212
+
+PROVINCIA DE BUENOS AIRES
+PODER JUDICIAL
+
+MADRID - 1º NICOLE
+TRIBUNAL - 1º SEMANAL - 1º S
+SANTIAGO
+
+Sentado lo anterior, y entrando en materia, entiendo que la respuesta afirmativa o negativa que debo dar, en función de la manda del art. 371 inc. 1º del C.P.P., se refiere a los hechos que al final del voto precedente se dieron por verificados.
+
+Como ha sido costumbre de este Tribunal, enumeraré como Hecho nº1 al referido a la muerte de María Marta García Belsunce y Hecho nº 2 a las acciones correspondientes a la presunta alteración, supresión u ocultamiento de las pruebas, rastros o instrumentos del delito. Paso entonces a su tratamiento.
+
+**Hecho Nº 1:**
+
+Básicamente coincido con la formulación efectuada en el voto anterior, que describiré del siguiente modo:
+
+El día 27 de octubre de 2002, entre las 18.15 y las 19.00 horas, aproximadamente, en una finca ubicada en el barrio cerrado "Carmel", de la localidad de Pilar, que habitaban el imputado y su mujer María Marta García Belsunce, se produjo la muerte de esta, como consecuencia directa e inmediata de seis disparos calibre 32 largo, que una o más personas, le efectuaron con un revólver desconocido y no hallado. Las balas disparadas impactaron en la zona en la región fronto esfeno temporo parietal izquierda del cráneo, cinco de las cuales fracturaron el tejido óseo e ingresaron en la cavidad craneana, lesionando severamente la masa encefálica de la víctima, llevándola a un paro cardiorespiratorio
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 26
+
+irreversible. El restante proyectil impactó sin ingresar, sobre la parte superior del cráneo produciendo una lesión superficial. Este hecho sucedió en alguno de los tres ambientes de la planta alta de la vivienda, a saber, entre una antesala, el dormitorio y el baño.
+
+La extensa prueba sobre la que se fundamenta la materialidad de lo que constituye el hecho principal objeto de esta causa, ha sido convenientemente analizada en el voto anterior, por lo que considero innecesario reiterarla.
+
+Me permitiré, sin embargo, únicamente destacar un punto que también mereció la atención de quien me precede en el voto. Me refiero a que habiendo oído alrededor de ciento treinta testigos, se privó al tribunal de escuchar nada menos que a los dos médicos y los ayudantes que practicaron la autopsia del cadáver de María Marta García Belsunce. Cierto es que a los fines de la constatación de la muerte, y de su modalidad, bastó con el informe correspondiente (incorporado por lectura -en adelante IL- bajo el número 157, fs. Fs.212/223) pero es indiscutible que los médicos habrían podido responder sobre otras cuestiones fundamentales que integraron el debate de esta causa. Dichos testigos se encontraban en las listas previas autorizadas por el tribunal, y fueron inexplicablemente desistidos, tanto por la Fiscalía como por la defensa. Unos y otros trajeron en cambio a la sala de audiencias a médicos que testimoniaron sobre el examen del cadáver al que sólo accedieron a través
+
+
+---
+
+## Página 27
+
+7213
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE HIGGLAS
+GOBIERNO
+TRIBUNAL DE DOCUMENTAL N° 5
+SANTIAGO
+
+de una deficiente filmación (también observada por el Tribunal durante el debate, el día 15 de marzo pasado).
+
+Sin perjuicio de lo anterior, y remitiéndome a la respuesta que habrá de dar a la segunda cuestión, donde señalaré algunas discordancias en la valoración de la prueba que hace mi colega en su voto, no tengo más por agregar respecto de este primer hecho, adhiriendo a las razones vertidas que sustentan la comprobación de su materialidad.
+
+# Hecho N° 2:
+
+Despejando algunos aspectos del presunto accionar encubridor imputado por el señor Fiscal, quien me precede en el voto concluyó en que luego de la muerte de la víctima, una o más personas desarrollaron una serie de acciones tendientes a ocultar, alterar o hacer desaparecer los rastros, pruebas o instrumentos de aquel delito. Así, formando parte de un plan tendiente a ocultar el homicidio, se señalaron las siguientes acciones, que para facilitar el análisis, paso a enumerar:
+
+1) Instalación de la idea de accidente doméstico
+2) Modificación del escenario del crimen, limpiándolo y ordenándolo, dándose directivas para ello
+3) Arrojo de la bala hallada bajo el cuerpo de la víctima.
+4) Desecho de ropas y otros elementos ensangrentados.
+5) Acomodamiento del cadáver disimulando las heridas que presentaba, peinándolo y procurando detener la abundante pérdida de sangre.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 28
+
+6) Impedimento de que se hiciera presente la policía en el lugar.
+7) Impedimento de acercamiento al cuerpo de la víctima y al escenario del crimen a ciertos allegados.
+8) Impedimento a empleados de la empresa funeraria para que manipularan el cadáver.
+9) Obtención de certificado de defunción alterado en cuanto al origen del deceso, ocultando que se trató de muerte traumática, para evitar que se hiciera la correspondiente autopsia.
+
+Sin perjuicio de la calificación jurídica que corresponda a estos hechos, entiendo que varios de ellos no sustentan un reproche típico, no obstante lo cual, me introduciré igualmente en su consideración.
+
+1) En cuanto a la instalación de la idea de un accidente doméstico.
+
+Comienzo por advertir, y lo analizaré más detalladamente en el tratamiento de la segunda cuestión, que instalar una idea errada sobre un suceso, no es en sí mismo nada reprochable. Lo que puede ser reprochable en lo que aquí interesa, es que ello ocurra con la finalidad de atentar contra la administración de justicia, pero siempre y cuando esa idea lleve al autor o a otros a cumplir con alguno de los actos que la ley señala como prohibidos.
+
+
+---
+
+## Página 29
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-1.jpeg](img-1.jpeg)
+
+Por ello, creo que hubiera sido más fácil analizar este tópico como demostrativo del dolo, luego de comprobada en forma objetiva alguna de las acciones del art. 277, 1. b), del Código Penal, o sea, luego de demostrada la acción de ocultar, hacer desaparecer o alterar pruebas, rastros o instrumentos del delito.
+
+Según el criterio plasmado en el voto anterior, que en alguna medida habré de compartir, estas acciones efectivamente se han configurado, pero iniciar el análisis de lo sucedido desde la instalación de una idea puede aparejar la confusión de que ello es en sí mismo una acción que habrá de ser calificada como delito, y no es así.
+
+Porque está claro que si hablamos del llamado favorecimiento real como forma del encubrimiento, instalar una idea distinta a la realidad de lo sucedido, no forma parte de materialidad alguna, según lo que pretende la disposición del art. 371 inc.1°, C.P.P., que refiere claramente como primera cuestión a tratar en una sentencia, "la existencia del hecho en su exteriorización", en tanto que en el inc. 2° se señala como obligada segunda cuestión, a "la participación de los procesados en el mismo", donde obviamente debe tratarse todo lo referido a la autoría y a la responsabilidad del imputado, y donde habrán de considerarse primordialmente sus "ideas", propias o inducidas a otros, de lo sucedido.
+
+Si se tratara de un homicidio por odio racial o religioso, este odio, aunque también inmaterial, sí integraría un tema a tratar en la primera cuestión, pero en razón de que es una exigencia del tipo penal. En
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 30
+
+cambio, ninguna de las hipótesis de ataque a la administración de justicia que nos interesan en esta causa, prevé la instalación de idea alguna, sino que por el contrario, se trata de un delito de comisión, que define una acción material⁴, o sea, en el que es necesario cumplir alguna acción modificatoria del mundo exterior que impida, estorbe u obstaculice la función judicial que finalmente debe reprimir ese delito. Obsérvese que por el contrario, lo que se refiere a instalar una idea para evitar la persecución penal, puede incluso corresponderse con algo mucho más grave, formando parte de la propia instigación, participación o cooperación en el delito principal, dejándose entonces de ser encubridor. Volveremos sobre este asunto más adelante.
+
+Pero las características del suceso que nos ocupa, especialmente el escaso conocimiento que se tiene de las modalidades del hecho principal, han obligado a descartar que la instalación de la idea del accidente formó parte del homicidio o de su preparación.
+
+En lo que no interesa, la figura del encubrimiento según la derogada ley 23.077 se correspondía con la reformada por la 17.567, en la que se incluía la acción de procurar o ayudar a procurar la desaparición de los rastros.
+
+Pero en la ley vigente no está prevista la procuración, que debe entenderse como hacer diligencias para conseguir algo, intentona,
+
+⁴ Alberto S. Millán, "El Delito de Encubrimiento", Abeledo Perrot, Buenos Aires, 1970,
+
+
+---
+
+## Página 31
+
+7215
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAURICIO DE NICOLAS
+DE BARRO
+TRIBUNAL DE SECRETARÍA DE
+ESTADO
+
+diligenciamiento efectivo (exitoso o no). Dice Alberto S. Millán⁵ analizando la figura anterior a la actual, que "...procurar y ayudar a procurar son expresiones que no tienen otro sentido que éste: el tipo penal no pretende limitar su funcionamiento a la desaparición de la cosa o los rastros⁶, pues es indiferente que se logre el objetivo perseguido; es suficiente con haber hecho algo enderezado a esa finalidad, conociendo que se lo hace para ello...", y citando a Soler (Tomo V, p. 49) continúa afirmando que procurar es tanto hacer desaparecer como tratar de que desaparezcan. Se abarca una forma de tentativa que se considera delito consumado.
+
+Así, si esa fuera la figura vigente, podríamos tal vez entender que instalar una idea errada sobre lo sucedido, para que en función de ello la autoridad actúe de determinada manera, o no actúe, es procurar alguna de las acciones propias del favorecimiento real. Pero del propio razonamiento del jurista aludido, es a mi juicio bastante evidente que habiendo sido modificado el tipo legal, resulta inevitable interpretar que ahora sí el legislador limitó el funcionamiento del tipo –para usar las mismas palabras que el autor citado- a la desaparición de la cosa o los rastros, reduciéndolo a las acciones propiamente dichas de ocultar, alterar o hacer desaparecer, únicas hipótesis de encubrimiento en el llamado favorecimiento real.
+
+p.142
+
+⁵ Alberto S. Millán, op. Cit. p.141.
+
+⁶ El resaltado me pertenece.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 32
+
+Por eso entiendo que discutir sobre si se instaló o no la idea del accidente doméstico no debió ser materia de esta cuestión, sino de la siguiente, y vinculada directamente al tratamiento de la responsabilidad de Carrascosa en orden a las acciones por las que únicamente se lo puede imputar.
+
+Sin embargo, para no entorpecer el orden instalado por la magistrada que vota en primer término, agregaré al respecto de esta circunstancia lo siguiente.
+
+Entiendo que no hay duda, que en la tarde del 27 de octubre de 2002, se instaló la idea de que María Marta García Belsunce había fallecido por un accidente doméstico. El asunto, como dije al principio es tratar de determinar si se hizo con intención de perjudicar en algo a la todavía no iniciada investigación del delito y si se hizo en conocimiento de que la muerte se había originado en un delito. Y no se diga que no se inició porque alguien estaba obligado a ese inicio e incumplió su obligación, porque tal tesitura equivaldría a poner en cabeza de ese alguien un deber de denunciar, que no puede ser, obviamente, el imputado, al menos desde el punto de vista legal.
+
+Fueron los médicos Gauvry Gordon, Biasi, e incluso Nölting, quienes en todo caso pudieron o debieron hacer la denuncia policial, e iniciar así un procedimiento que de estar en marcha, hubiera permitido engarzar como actitudes encubridoras al resto de las acciones que ya analizaré.
+
+
+---
+
+## Página 33
+
+7216
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MINISTERIO DE MEDIO LAS
+DEBATE
+TRIBUNAL DE LA CRIMANA N° 6
+DE COLONIO
+
+Pero ninguno de ellos lo hizo, porque en realidad, también ellos
+estaban convencidos de que se trataba de un accidente doméstico, y no
+porque se lo haya dicho Carrascosa o la masajista Michelini, sino a partir
+de sus propias observaciones de lo ocurrido. El doctor Gauvry Gordon
+luego de dar por finalizadas las tareas de reanimación, evidentemente
+dudaba, pero no sabemos ni podemos presumir que ya sospechaba un
+homicidio, a la luz de sus actitudes posteriores. Me refiero especialmente
+al hecho de haber brindado guantes de látex al doctor Manuel Nölting para
+que fuera a revisar el cuerpo. Esto es demostrativo, en primer lugar, de
+que no intentaba ocultar nada, y en segundo lugar, de que estaba dudoso
+frente a la clase de accidente acontecido y a su modo de producción, lo
+que no implica que trataba de disimular un homicidio.
+
+En cuanto al eminente médico doctor Nölting, no se comprende que
+la seguridad sobre la necesidad de intervención policial, demostrada
+durante su declaración en el debate, haya cedido tan solo frente al
+presunto desplante que le causaron al no dejarlo ver al cadáver. Puede
+comprenderse el fastidio de alguien que se brinda para ayudar y no es
+aceptado, pero el doctor Nölting, que hizo reiterada gala de los imperativos
+éticos que rigen su desempeño profesional, debió tal vez actuar de otra
+manera frente a un cuadro de la gravedad que él mismo le atribuyó, frente
+al cual el desplante sufrido no parece suficiente como para hacerlo desistir
+de efectuar la denuncia. Nölting insistió en que un golpe con pérdida de
+masa encefálica era definitivamente violento, comparable a un choque a
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 34
+
+180 km. por hora, y de esto tenía la certeza por los dichos del otro médico. Afirmó también que dijo a su hermana "ni en pedo fue un accidente" Entonces, es difícil de creer que sólo por su ofuscamiento, o porque no vio el cadáver, haya desistido de hacer la denuncia, cuya omisión crítica, y para la que sólo le hubiera bastado levantar el teléfono. Me inclino a pensar, que en realidad, no estaba seguro de nada, y como todos, pensaba en un accidente. Un accidente extraño, inusual, raro, pero nada más.
+
+Párrafo aparte debo dedicar al doctor Biasi.
+
+Desde mi punto de vista, su declaración está preñada de inexactitudes, y desde ya, y si se acompaña mi voto, entiendo que deberá examinarse la decisión de remitirse a la Mesa de Entradas de la Fiscalía General, las grabaciones de las audiencias en que declaró y en que fue careado con su chofer Cachi, a fin de que se investigue el delito de falso testimonio cometido en causa criminal.
+
+Aún cuando admitamos que habló con Gauvry Gordon y Carrascosa sobre la conveniencia de hacer la denuncia, contrariamente a lo que opina quien emitió el primer voto, no le concedo ningún crédito a sus dichos. Su afirmación de que le dijo a su asistente, el camilero Cachi, que diera aviso a la policía, la propia magistrada que toma su testimonio como una de las bases de su convicción, no lo da por suficientemente acreditado. Entonces, lo que es el punto fundamental de su versión de lo ocurrido, resultó no creíble. En efecto, controvertida la versión que dio durante el
+
+
+---
+
+## Página 35
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+debate, tanto por su asistente como por el chofer de la otra ambulancia,
+(Beltrán, de lo que se dejó constancia en actas) todo el resto de sus dichos
+se queda sin su principal sustento.
+
+Si se atiende a que ninguna razón tenía Cachi para no llamar a la
+autoridad, en caso de que verdaderamente se lo hayan ordenado, se
+advierte claramente que es Biasi quien miente. Además, tiene motivo para
+ello, pues a la luz de la suerte corrida por el doctor Gauvry Gordon y la
+masajista, hubiera terminado también él procesado por la fiscalía. Apunto
+por último, que según la masajista Michelini, fue justamente Biasi uno de
+los que le dio directivas para la limpieza. Es interesante que cuando refiere
+esta circunstancia, Michelini dice, "...no es mi intención perjudicar a nadie
+pero es el ahora conocido como Biasi, fue el primero que nos manifestó la
+necesidad de limpiar..." y poco antes había afirmado que nadie la detuvo
+en el momento que se puso a limpiar por pedido de los médicos.⁷
+
+Esta realidad de que el propio Biasi tomó parte activa de la decisión
+de limpiar la sangre, fue también implícitamente admitida por el testigo
+Beltrán cuando durante su testimonio refirió que "el otro doctor" (en clara
+referencia a Biasi) le dijo a Michelini "...que se ponga otro calzado" para
+limpiar. Si Biasi estaba pensando en denuncias y en hechos terribles, no
+tiene sentido que haya hecho esta recomendación en vez de impedir la
+limpieza, o al menos manifestar su disconformidad. Así, se impone
+
+⁷ Declaración a tenor del art. 308 C.P.P., p. 1088 y sig., IPP 19279, IL 175
+
+7217
+
+
+---
+
+## Página 36
+
+concluir que la indiferencia que el propio Biasi admite frente a la limpieza emprendida por la masajista, de la que dice que se cambió los zapatos – que describió de muy elegantes- es muy demostrativo de que no pensaba en ningún delito, pues de otro modo, habría alguna prueba o referencia de que se opuso o sugirió que no se limpiara, circunstancia que ninguno de los protagonistas de ese momento refiere. No se comprende esta actitud pasiva frente a la limpieza, si se la compara con sus afirmaciones que brindó en cuanto a que nunca solventó la idea de un accidente doméstico.
+
+Las palabras del médico Gauvry Gordon respecto de toda esta cuestión no dejan de ser interesantes: “...ahora yo me pongo a pensar con el retroscopio, todos pensaron, todos hicieron, todos vieron, además quién hizo la denuncia, además el otro médico si vio los agujeros por qué no hizo la denuncia, se quedó parado, en ningún momento vi que se acercara a la paciente...indudablemente él pensó algo y no hizo nada y no está ni imputado...lo que menos se me pasó por la cabeza es que la podían haber baleado en ese lugar...”
+
+De tal modo, se ven desde mi punto de vista relativizadas las pretendidas decisiones, convicciones, o necesidad indelegable de comunicar el suceso a la autoridad policial, que manifestaron estos testigos, quienes en realidad, no sospecharon sino en el sentido anteriormente expuesto: un accidente en lo que lo dudoso era su mecánica, pero no la entidad de accidente. Así, si quienes en ese momento eran los más capacitados, por sus profesiones y experiencias,
+
+
+---
+
+## Página 37
+
+7218
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE MICOLAS
+TRIBUNAL DEL ORIGINAL N°3
+
+en diferenciar un homicidio de un accidente, actuaron de manera tan poco decidida, y que pretenden tardíamente explicar, debo concluir que si bien se comprueba la instalación de una idea errada sobre la realidad de lo ocurrido, no está de ningún modo acreditado que se haya producido con conocimiento de su falsedad.
+
+A ello se agregan las manifestaciones vertidas por los médicos que practicaron la autopsia y que obran en la causa 2060 del Tribunal Oral en lo Criminal N°2 de Capital, incorporada por lectura, donde ambos afirman que se percataron de la existencia de lesiones producto de arma de fuego, cuando aserraron la calota de la víctima y examinaron el cerebro hallando las balas, todo lo cual traduce que lo que para algunos era evidente, para otros que son forenses especializados era todo lo contrario.
+
+Por lo demás, las referencias de los operadores telefónicos, sus expresiones interrogatorias de si había que llamar, o si se llamó o no a la policía, o sobre si habían golpeado a la víctima, no pasaron en ningún momento de la duda. Y esa duda, que acosó a tanta gente interviniente — tres médicos, dos choferes, operadores telefónicos, incluso algún vigilador (Maciel) al que también se le comentó algo- no se convirtió en el simple llamado telefónico que hubiera sido necesario para avisar a la policía. Nada más fácil para los que estaban en la base de las prestadoras médicas recibiendo y haciendo llamados. Reitero, una vez más: todos ellos eran los más capacitados para diferenciar un accidente de un homicidio. Sin embargo, se limitaron a esperar que otro lo revise, que otro
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 38
+
+7218
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MADRID, 1000 N. NICOLAS
+TRIBUNAL DE C. R. R. R. N° 2
+TRIBUNAL DE C. R. R. R. N° 2
+
+en diferenciar un homicidio de un accidente, actuaron de manera tan poco decidida, y que pretenden tardíamente explicar, debo concluir que si bien se comprueba la instalación de una idea errada sobre la realidad de lo ocurrido, no está de ningún modo acreditado que se haya producido con conocimiento de su falsedad.
+
+A ello se agregan las manifestaciones vertidas por los médicos que practicaron la autopsia y que obran en la causa 2060 del Tribunal Oral en lo Criminal N°2 de Capital, incorporada por lectura, donde ambos afirman que se percataron de la existencia de lesiones producto de arma de fuego, cuando aserraron la calota de la víctima y examinaron el cerebro hallando las balas, todo lo cual traduce que lo que para algunos era evidente, para otros que son forenses especializados era todo lo contrario.
+
+Por lo demás, las referencias de los operadores telefónicos, sus expresiones interrogatorias de si había que llamar, o si se llamó o no a la policía, o sobre si habían golpeado a la víctima, no pasaron en ningún momento de la duda. Y esa duda, que acosó a tanta gente interviniente — tres médicos, dos choferes, operadores telefónicos, incluso algún vigilador (Maciel) al que también se le comentó algo- no se convirtió en el simple llamado telefónico que hubiera sido necesario para avisar a la policía. Nada más fácil para los que estaban en la base de las prestadoras médicas recibiendo y haciendo llamados. Reitero, una vez más: todos ellos eran los más capacitados para diferenciar un accidente de un homicidio. Sin embargo, se limitaron a esperar que otro lo revise, que otro
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 39
+
+firme el certificado de defunción y vea lo que hay que hacer, que otro decida si hay que llamar o no a la policía. Eso es lo que surge no solo de sus dichos, sino también de las llamadas telefónicas examinadas.
+
+Es por todo esto que estimo que efectivamente se instaló la idea de un accidente, pero no está acreditado que nadie supiera verdaderamente que esa idea era errada, a juzgar por la forma en que todos actuaron. Es decir, se instaló la idea, lo que significa que se asentó, pero no que se la inspiró o se la concibió maliciosamente, términos quizás más apropiados, según la interpretación de la acusación.
+
+Advierto finalmente, que volveré sobre el tópico en la respuesta a la segunda cuestión, cuando examinemos la responsabilidad del imputado.
+
+2) En cuanto a la modificación del escenario del crimen, limpiándolo y ordenándolo, dándose directivas para ello.
+
+Efectivamente se limpiaron manchas de sangre, se limpió el baño, se desagotó la bañera que contenía aguasangre, y se desecharon toallas y alguna ropa ensangrentada. Se limpiaron también alfombras, las paredes del dormitorio y el colchón donde estuvo la víctima durante su velorio. Pero debo hacer la salvedad que el origen o la razón de que se llevaran a cabo todas estas tareas, deberán también ser motivo de análisis en la cuestión siguiente, cuando examinemos la responsabilidad del imputado al respecto.
+
+
+---
+
+## Página 40
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN E NICOLAS
+SECRETARIO
+TRIBUNAL Y PATRIMONIAL N° 3
+DAN 1.000
+
+Porque está claro que estas tareas de limpieza tuvieron como ejecutoras a la masajista Michelini, a las empleadas domésticas "Erna Benítez y Mirta Molina, al jardinero Fabricio Courreges y como impulsores a los médicos Gauvry Gordon y Biasi.
+
+Gauvry Gordon dijo en su declaración a tenor del art. 308 C.P.P.⁸ que "... pensando en el dolor de la familia es que hago limpiar el baño, ... pensando si podía haber chicos ..." y agregó ... "...hasta el otro médico que estaba allí le dijo a la señora que limpiaba, que se pusiera zapatillas, porque no sé si estaba en sandalias o en ojotas, a esta señora le suministré los guantes ...". Más adelante a la pregunta de si el otro médico le indicó que la víctima tenía más de un agujero en la cabeza respondió "...en ningún momento, y es lo que me llama la atención, por qué no paró lo que yo estaba haciendo ... mi sugerencia de limpiar el baño..."
+
+A la pregunta de "para que diga si le indicó a la masajista que limpiaba el baño por iniciativa propia o si alguien se lo sugirió o se lo dio a entender, dijo: yo sugerí que limpiara el baño porque ante una bañadera llena de agua y sangre y una muerte tan estúpida en mi parte humana no quería agregar dolor a toda la familia, y no sabía si había chicos...".
+
+Michelini explicó en su declaración indagatoria⁹, que "en ese momento baja una persona de los médicos, el alto grande robusto ... que llegó en segunda oportunidad, que necesitaba ayuda y si podían colaborar
+
+⁸ Fs. 782 y siguientes, IL n° 167.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 41
+
+para limpiar, a lo que Bártoli le dijo algo así como vamos, Betty, vamos, como en forma de pedido, no imperativo... en la habitación el médico que había llegado primero le pide si podían quitar el tapón de la bañera y limpiar, para que la familia no se impresionara ... le trajeron un lampazo, que se lo trajo cree recordar Bártoli, que lo utilizó para limpiar la bañera ... que recuerda que es el primer médico quien le da la dicente en ese momento los guantes de látex para limpiar el lugar ... escurrió la alfombrita del baño y la colocó en cesto de la basura ... y bajó y le preguntó al señor Carrascosa si tenía una bolsa de basura y le dio una bolsa de residuos donde colocó todas esas cosas y se las dio al guardia ..." Y continuó expresando que "... nadie la detuvo en el momento que se puso a limpiar por pedido de los médicos..." agregando "... no es mi intención perjudicar a nadie pero es el ahora conocido como Biasi, fue el primero que nos manifestó la necesidad de limpiar..." y preguntada si había mucama en lo de Carrascosa respondió que no.
+
+Beltrán dijo que Gauvry Gordon limpió la cabeza de la víctima buscando el traumatismo y que preguntó si alguien podía limpiar el baño para que no se impresionara la familia, lo que fue hecho por la masajista, a la que el doctor Biasi le dijo que se cambiara el calzado. Y preguntado si este la frenó en su actividad, respondió que no lo recordaba.
+
+---Fs. 1088 y siguientes, IPP 19279, IL 175
+
+
+---
+
+## Página 42
+
+7220
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+Ema Benitez, por su parte, brindó una completa referencia de las tareas de limpieza, a las que se abocó desde que llegó al velorio el día 28 de octubre. Manifestó que cuando subió levantó toallas, zapatillas, y creía que junto con Mirta Molina sacaron las cosas sucias que estaban en el baño. Dijo que "... yo de adentro de un mueble saqué una camisa blanca con sangre ... no mucha ... sí sangre ... espesa ... como un roce de pelo ... del mueble del baño ... tuve que abrir la puerta para sacarlo ... lo que trataba yo era de ordenar la casa ... lo que estaba fuera de su lugar ..." Cuando se le preguntó qué hizo con estas cosas, explicó que cuando se preparaban para partir hacia la Recoleta, le preguntaron si iba a ir y que ella repuso que se iba a quedar, por que "... quedó arriba muy desordenado..." agregando que "...sentía olor a sangre ... en todo el cuarto ... quise quitar ese olor ... dije si iba a descansar (se refería a Carrascosa) yo me iba a quedar a ayudar a Mirta a limpiar..." Poco más adelante, la testigo continuó afirmando "... le comenté a Canela ... que yo iba a tirar las cosas ... iba a tirar todo ... traté de decirle que no iba a lavar las cosas con sangre ... me pareció que era un mal recuerdo para la familia ... por ejemplo las sábanas donde la velaron ... quise evitar un dolor para ellos ... me pareció que estaban mal ... quise evitar un dolor para la familia ..." Y reiteró que dijo a Canela (Aberastain de Panelo) que se iba a quedar a limpiar y que iba a tirar todo, y finaliza "... a mi no me lo pidió nadie..."
+
+Es cierto que seguidamente admitió que Bártoli le dijo que tirara un pantalón de Carrascosa y que ella lo puso con las sábanas y las
+
+A-1
+
+
+---
+
+## Página 43
+
+almohadas y lo desechó. Limpió luego el baño y el dormitorio, incluso las paredes de este. En cuanto a la bañera dijo también haberla limpiado, sacándole una marca grasosa, color oscuro, y refirió que también salió sangre de debajo del escalón previo a la bañera.
+
+De sus dichos, no se ve sino que actuó por cuenta propia, como lo haría cualquier empleada que conoce a sus patrones y las costumbres de la casa donde se desempeña. En cuanto al pantalón que arrojó por indicación de Bártoli, no puede decirse que revista mayor importancia, primero por que Bártoli se lo dijo en el contexto en que ella misma advertía que iba a tirar todo lo que estaba sucio de sangre, y segundo, porque las manchas que tenía la prenda, encuentran explicación en que Carrascosa movió el cuerpo de su mujer o estuvo junto a ella. De todas maneras, es bastante incongruente, que con tales declaraciones no haya sido imputada al igual que Michelini.
+
+Mirta Molina dijo que también limpió la planta baja y que tiraron las almohadas, en tanto que Ema Benítez limpió las manchas de la alfombra. De sus dichos, también se desprende que actuó por cuenta propia, sin indicaciones precisas, y con total libertad en la casa, una vez que se retiraron todos al entierro.
+
+Fabricio Courreges, jardinero de la familia, confirmó los dichos que se vienen exponiendo, en cuanto ayudó a levantar el colchón hasta la terraza donde fue limpiado por Ema Benítez. Dijo también no haber escuchado que alguien ordenara limpiar.
+
+
+---
+
+## Página 44
+
+7221
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+De Guillermo Bártoli podría decirse que alcanzó un balón o un lampazo e instó a la masajista a que accediera a lo que se pedía, además de las indicaciones sobre el pantalón del imputado que dio a Benítez. En cuanto a Mirta Molina, según esta, le dijo que ventilara, ordenara y limpiara, cuando todos se fueron al entierro.
+
+Respecto de Irene Hurtig, hay constancias de que cambió toallas y bajó o tiró algunas. Carrascosa, por su parte, se limitó a alcanzar una bolsa de residuos para que Michelini introdujera allí los desechos. Y esta es toda la materialidad de estos actos, sobre los que remito en cuanto a sus fundamentos, a lo expuesto en el voto anterior, sin compartir las valoraciones de las conductas que las dejaré para la siguiente cuestión, en que se analizará la responsabilidad del imputado en el tema.
+
+# 3) Arrojo de la bala hallada bajo el cuerpo de la víctima.
+
+Estamos hablando del trozo de metal hallado, y denominado "pituto", que resultó ser una bala.
+
+También a este respecto, me apoyaré en las referencias que hace la votante en primer término, para dar por comprobado el hallazgo de un elemento metálico bajo el cadáver de María Marta García Belsunce, que llamó la atención de sus hermanos Horacio y John Hurtig, y de Constantino Hurtig –marido de su madre-. Luego de un corto conciliábulo en el que también participaron el cuñado de la víctima, Horacio Zarracán y el propio Carrascosa, se resolvió arrojarlo por el inodoro del baño de la planta alta de la vivienda. Posteriormente, el 18 de diciembre de 2002
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 45
+
+luego de la autopsia de la víctima, y más de un mes después que fuera referenciado y descripto por Horacio García Belsunce y Juan Hurtig, el plomo fue hallado en la cámara séptica de la casa, determinándose que era una bala calibre 32 largo.
+
+Sobre su correspondencia o no con los otros cinco plomos hallados dentro del cráneo de la víctima, no hay unanimidad de criterios, ya que a resultas de los peritajes ordenados durante el debate, se puso en duda que por el raro estado de deterioro de los cinco plomos—que presentan deformaciones extraordinarias—pueda afirmarse con seguridad que todos fueron disparados por la misma arma.
+
+Sin embargo, tal vez el punto debió merecer por parte de la defensa otro tratamiento. Máxime si se tiene en cuenta que la filmación de la autopsia se ve interrumpida precisamente en el momento del hallazgo de los plomos en la cavidad craneana de la víctima. No es mi deseo introducir en este caso una nueva rareza, pero tampoco puedo dejar de señalarla cuando la he advertido.
+
+No obstante, no me abocaré a su examen pues las partes no han aportado elementos o razonamientos para ello, y en definitiva constituiría, una tarea investigativa más propia de la instrucción que del debate.
+
+Pero en definitiva, y en lo que aquí interesa, si lo hallado es una bala calibre 32, se trata de un instrumento del delito, que fue arrojado y al menos por un tiempo, hecho desaparecer.
+
+Filmación
+
+
+---
+
+## Página 46
+
+7222
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Por eso es que con la salvedad de que no comparto las valoraciones de orden subjetivo que hace la magistrada que vota antes que el suscripto -las que creo que deben formar parte de la cuestión siguiente en donde habré de examinarlas- en cuanto a la objetividad de los hechos cumplidos no tengo más que agregar, y me remito a su voto.
+
+# **4) Desecho de ropas y otros elementos ensangrentados**
+
+Remito a este respecto, a las referencias expuestas respecto del punto 2).
+
+# **5) Acomodamiento del cadáver disimulando las heridas que presentaba, peinándolo y procurando detener la abundante pérdida de sangre.**
+
+Coincido en que el cadáver fue efectivamente acomodado en su cama para el velorio, de lo que da cuenta numerosos testimonios que ya han sido examinados convenientemente en el voto anterior.
+
+Coincido también en que se procuró detener la abundante pérdida de sangre, y de ello también hay varios testimonios, pues no se hizo disimuladamente sino a la vista de todos los que allí estaban, y durante las largas horas que duró el velorio.
+
+Desde ya que ninguna de estas conductas me parecen reprochables, pues son clara consecuencia de lo que ya he expuesto con anterioridad. Si quienes estaban más capacitados para diferenciar un homicidio de un accidente no adoptaron otra medida que indicar a los familiares que no toquen el cuerpo hasta que lo disponga gente de la
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 47
+
+funeraria u otro médico, es absolutamente lógico que luego de la comunicación de Bártoli desde la empresa de pompas fúnebres, informando que ya se podía levantar el cadáver y comenzar el velorio, justamente se llevara a cabo un mínimo acomodamiento para el que era necesario limpiar la sangre, brindando al cuerpo el aspecto más digno posible.
+
+No puedo estar de acuerdo, entonces, en cuanto a que contrarrestar el sangrado y peinar el cadáver tuvo por objeto disimular las heridas. Pero advierto nuevamente que es un tema que deberá ser tratado al evaluar la conducta del imputado Carrascosa en ese aspecto.
+
+Así, solventaré también aquí las referencias de la votante en primer término, pero sólo respecto de la descripción objetiva de las conductas llevadas a cabo, a las que agrego que deben sumarse la de cambiar a María Marta de ropa, tal como surge también de numerosos testimonios oídos durante la audiencia.
+
+Señalo por último, que al igual que respecto del presunto maquillaje, -que la magistrada que me precede no dio por acreditado- no todos los testigos fueron unánimes en cuanto a que la víctima ostentaba un peinado especial. La testigo Vázquez Mansilla, por ejemplo, al ser interrogada durante la audiencia de debate, refirió que la víctima tenía "el pelito para atrás medio duro..."; y el testigo Roberto Effling describió "... cierto pelo del lado izquierdo como sucio..."; Benítez, por su parte, si bien refirió que estaba peinada, dijo que tenía el cabello mojado y tirante para atrás, lo
+
+
+---
+
+## Página 48
+
+7223
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAVILIERINO E NICOLAS
+TRIBUNAL DE ESTADO
+SAN DIEGO
+
+que pese a mi desconocimiento de las técnicas de peluquería, supongo diametralmente opuesto al llamado "brushing" que aseguró haber visto la testigo Bermúdez. Otra testigo, Leticia Esther García, dijo que la vio "como peinadita ... normal ... sencilla...pelito lacio... nada especial..."
+
+En definitiva, podemos admitir que estaba peinada, pero difícilmente que era un peinado especial, y menos que tuviera alguna finalidad que no fuera presentar de la mejor manera posible a la muerta, como se hace habitualmente. Destaco por último, que resulta muy llamativo que la Fiscalía no haya traído de testigo a María Luisa Lanús de García Belsunce, quien según los testimonios de la hermana y media hermana de la víctima, fue quien cambió las camisas del cadáver. ¿Será que su omisión, pese a los ciento treinta testigos escuchados, se debió a que en su declaración testimonial afirma algo que contradice la tesis acusatoria?
+
+En conclusión, con las salvedades que aquí también he apuntado, participo de la acreditación objetiva de los hechos descriptos por quien me precede en el voto, dejando también para la segunda cuestión el análisis de si sobre esta base fáctica, es posible o no hacer alguna imputación a Carlos Alberto Carrascosa
+
+6) Impedimento de que se hiciera presente en un primer momento en el lugar, la policía.
+
+Comenzaré por señalar, al igual que con el punto 1), que habiendo desaparecido de la figura actualmente vigente del encubrimiento, la acción de "procurar" el ocultamiento, la alteración, o la desaparición de rastros,
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 49
+
+pruebas o instrumentos del delito, no llamar a la policía es una conducta claramente omisiva, que no encaja en ninguna de las acciones comisivas que prevé el art. 277, 1. Inc. B. del Código Penal. En realidad, creo que ni siquiera podríamos encuadrar esta omisión en "procurar" una alteración u ocupamiento de pruebas, pues procurar es también comisivo.
+
+Pero para el caso, aún cuando es evidente el vacío legal respecto de la obligación para los particulares de llamar a la policía, -prevista típicamente sólo con la omisión de denuncia obligatoria, del inciso d) del mismo artículo, que en nuestro caso no es aplicable- haré las siguientes consideraciones.
+
+Entiendo que aún cuando no sea legalmente obligatorio denunciar, puede establecerse la obligación moral de denunciar el homicidio de un cónyuge. Entonces, verificada esta falta moral, se la podrá entroncar en el contexto general de una maniobra encubridora, o sea, en función de acreditar el dolo del imputado. Otra vez, estimo que ello debe ser materia de la segunda cuestión del veredicto, oportunidad en que volveré sobre el asunto.
+
+Pero en este primer interrogante, intentaré despejar los aspectos objetivos del hecho, de los subjetivos.
+
+A mi juicio no se encuentra de ninguna manera acreditado que efectivamente la policía haya intentado acceder al barrio privado Carmel y menos a la casa de Carrascosa, la noche del 27 de octubre de 2002. No es menor el dato, admitido por quien me precede en el voto, de que se
+
+
+---
+
+## Página 50
+
+7284
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE MEDIO AÑO
+SANTIAGO
+TRIBUNAL EN EL CONGRESO
+SAN DIEGO
+
+ignora quién pudo haberlo llamado, pues ello puede también significar que
+nadie lo haya hecho.
+
+Por otra parte, el confuso y sospechado testimonio del doctor Biasi,
+desmentido por su chofer, junto a las imprecisiones de los vigiladores que
+referían el acercamiento de un patrullero, mientras otros declararon que
+nunca llegó, no puede constituir a mi juicio, ni en forma remota, la certeza
+necesaria como para sobre esa base tejer un reproche.
+
+Téngase en cuenta que aún cuando el ignoto patrullero hubiera
+intentado acercarse a Carmel, todavía hay que probar que iba a lo de
+Carrascosa, pues eso no podemos suponerlo tan fácilmente atento a que
+en el Carmel vive bastante gente. En segundo lugar, a juzgar por los
+dichos de Alberto White, tenemos que habiendo sido advertido de la
+cercanía policial, se comunicó con el domicilio de Carrascosa, oportunidad
+en que atiende Binello y le pide que evite a toda costa el arribo. Pero
+según sus dichos él no hizo nada al respecto, por lo que si el patrullero
+efectivamente se aproximaba, nadie hubiera impedido su ingreso al barrio.
+Es obvio que la llamada de Horacio García Belsunce hijo, al comisario
+Casafús -otro testigo cuya veracidad es sumamente dudosa- no pudo
+tener un efecto tan veloz como para que alguna autoridad policial localice
+al patrullero y lo haga volverse, máxime cuando se produjo a las 22:04
+según el VAIC, folio 06, Carpeta L-12, y aparentemente la comunicación a
+White es bastante anterior.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 51
+
+En todo caso, pues, se intentó algo que no ocurrió, y que probablemente no iba a ocurrir. Si fuese delito, sería una tentativa de delito imposible.
+
+Pero lo interesante del asunto, es que aunque fuera con un fin espurio, Horacio García Belsunce puso en conocimiento de la policía que su hermana había muerto por un accidente. Y lo hizo la misma tarde de su muerte. Si la autoridad policial no dispuso –aunque sí lo pretende, tardíamente, el comisario Casafús- intervenir como correspondía, atento las normas legales, entre las que se destaca el art. 251 del C.P.P. que impone la necesidad de la autopsia en caso de muerte violenta –o sea un accidente- me pregunto a quién hay que reprochar.
+
+Según Horacio García Belsunce, en su declaración a tenor del art. 308 C.P.P.,¹⁰ él se comunicó con Casafús en las siguientes circunstancias: "...voy a la cocina...Sergio Binello con un teléfono celular, no sé con quien hablaba ...Sergio me dice Horacio está viniendo la policía, mi respuesta fue dejá yo me ocupo. Lo primero que se me ocurrió fue llamar al Crio.Miguel Angel Casafús ... porque tengo el teléfono en la memoria, llorando, en realidad cuando empiezo a contarle me pongo a llorar, en mi aturdimiento por el dolor, le cuento que mi hermana había tenido un accidente, en la bañadera, creo que le digo, y que me decían que estaba viniendo la policía y si en función al dolor que estábamos viviendo y a que
+
+¹⁰ Fs. 827/836, IL n° 172
+
+
+---
+
+## Página 52
+
+7225
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+REPUBLICA DEL ESTADO DE
+SENADO DE LA REPUBLICA
+TRIBUNAL EN LO QUE TU
+COMISIONTO
+
+esto había sido un accidente de lo cual yo estaba absolutamente convencido podía tener alguna consideración, evitar que vivieramos un trastorno más. La respuesta de Casafús fue acompañarme el dolor... y decirme, Horacio, quedate tranquilo..."
+
+El policía Casafús, al referirse a esta comunicación, dijo en la audiencia de debate que el día 27 de octubre de 2002 se encontraba muy ocupado con el secuestro de un actor de televisión, y que si bien Horacio García Belsunce llamó "...yo no lo atendía ... habrá sido algún colaborador o familiar ... sí que me llamó para sacarle la policía de encima ... seis o siete de la tarde..." . Y continuó explicando que sí habló el lunes a la mañana, no recordando bien el horario, pero que recordaba "...el llamado de este señor, cuando me dice sacarme la policía de encima, fue el lunes a la mañana ..." agregando que fue el lunes cuando le contó que su hermana había muerto por un accidente doméstico, golpeándose en la bañera, y "... que le sacara la policía de encima ... me di cuenta que el llanto era actuado ... mentiroso, porque su voz cambió... porque hablaba como mi amigo, jamás fue y jamás será mi amigo ... fue un llanto mentiroso ... porque enseguida habló el Horacio de siempre ... sin llanto... sin congoja ... tengo la convicción de que fue una actuación teatral, una puesta en escena para intentar conmoverme ... le dije quedate tranquilo que me ocupo..."
+
+Agregó a continuación, que sabía que un caso de muerte en la bañera, "... de mínima ...es dudosa... merece actuación policial y que es
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE
+TICIA
+
+A-1
+
+
+---
+
+## Página 53
+
+indispensable una autopsia ..." y siguió diciendo que "...lo llamé a Degastaldi ... director de la DDI de San Isidro... era Comisario Inspector ... lo llamé directamente ... y le dije me está llamando este tarado de García Belsunce ... llamá al de Pilar, fíjate lo que ténes que hacer ... me dijo ... ya llamo al Fiscal y al delegado de Pilar, ...supongo que lo hizo ..."
+
+Relató por último este testigo, que luego recibió otro llamado, de una persona con voz imperativa que dijo ser el fiscal Juan Martín Romero Victorica, preguntándole qué había hecho con "...lo de Horacio ... le dije ya le transmití a Degastaldi quien ya puso en marcha a su gente ... creo que me dijo ... acá está haciendo falta un forense..."
+
+De todo esto se dejó constancia en actas.
+
+Respecto de la conversación del día lunes, Horacio García Belsunce dijo en su declaración que llamó al Comisario para pedirle que mandara un médico forense, a lo que este le contestó que se ocuparía. Y de ello da cuenta también el señor Fiscal ante la Excma. Cámara Nacional de Casación Penal, Don Juan Martín Romero Victorica, en su declaración brindada a fs. 261 ante el doctor Molina Pico, que fue incorporada por lectura al debate¹¹, habida cuenta que en función del privilegio que le confiere la Ley del Ministerio Público de la Nación, se negó a concurrir ante este tribunal. En dicha oportunidad, Romero Victorica afirmó que Horacio García Belsunce le dijo que "...había hablado también con el
+
+¹¹ IL 261
+
+
+---
+
+## Página 54
+
+7226
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+Comisario Mayor Casafús, a quien conocía diciéndole el Comisario que se ponía enteramente a su disposición. Horacio me pidió que me pusiera en contacto con el nombrado Casafús y que entre ambos tomáramos las decisiones que correspondían, pues bien, me comuniqué con este a su celular le transmití mis dudas sobre la ocurrencia de los hechos y le dije que era menester que la policía tomara intervención y que asimismo le diera aviso al fiscal de la jurisdicción que correspondiera. Minutos después me llamó a mi celular ... el Comisario Inspector Degastaldi, quien me anotició que había hablado con el fiscal ... doctor Molina Pico y que aproximadamente en una hora ambos se iban a constituir en el lugar. Le transmití esta novedad a la familia cosa que provocó cierto disgusto porque en general no querían saber nada de la intervención de la policía y del fiscal, porque seguían aferrados a la idea de que había sido un accidente... todos en general se mostraron bastante molestos con mi proceder porque se estaba a una o dos horas del entierro. Tengo para mí que estaban como obnubilados y aferrados a la hipótesis del accidente, es como que no querían entender razones..."
+
+Y más adelante, el nombrado continuó explicando que "...en ningún momento mantuve contacto, salvo en el saludo inicial, con el marido de María Marta, Carlos Carrascosa, a quien la familia trataba de preservar por su aparente estado de shock en razón de lo ocurrido. No recuerdo quien de ellos me dijo ¿pero estás sospechando del gordo? y dije de ningún
+
+A+1
+
+
+---
+
+## Página 55
+
+modo, no tengo motivos para ello, pero todo esto es muy raro. En general la familia se mostró disgustada o mal dispuesta conmigo..."
+
+Por su parte, el policía Degastaldi confirmó estas comunicaciones cuando durante la audiencia expuso que recibió un llamado de Casafus avisándole que había fallecido la hermana de un periodista conocido por él, a raíz de un accidente "...me llamó para decirme eso y que me comunicara o con el hermano de la víctima... o con el Dr. Romero Victorica y que me pusiera disposición ... corté ...y llamé con mí mismo celular a García Belsunce ...como no me respondía ... llamé al doctor Romero Victorica... me atendió ... lo conocía ... me cuenta que estaba muy afligido ...por el accidente que había sufrido en la bañera ... le pregunté que necesitaba ...pensé que estaría retrasada la autopsia... y me dice que no ... y me dice realmente hay cosas que no me cierran ... le dije que iba para allá ..."
+
+Y agregó más adelante "... dije que me comunicaran con el fiscal de turno ... era Molina Pico ... le comuniqué la situación ... me preguntó a quién iba a mandar ... le dije que iba a ir yo ... que había hablado con un fiscal que era Romero Victorica ... lo pasé a buscar al doctor ... nos constituimos en el country... fuimos recibidos por Romero Victorica, ... se fueron unos metros de mí hablando ... nos hicieron ingresar a la casa ...a una especie de lavadero ... empezaron a contarle al doctor lo que supuestamente había ocurrido ... continuaron hablando ... yo me distraje porque un perro me ensució ... no escuché ..."
+
+
+---
+
+## Página 56
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+También Degastaldi explicó que cuando llamó al doctor Romero Victorica, este le dijo "hay cosas que no me cierran" y preguntado si sabía si Romero Victorica comunicó a Molina Pico las dudas que decía tener repuso "...yo quizas lo di por comentado... más allá de que no me lo haya comentado a mí lo importante que se lo comentara al fiscal ... se apartaron ... cuando los presenté... y después cuando hablaron de la situación..."
+
+Se me perdonarán estas largas transcripciones, pero entiendo que son necesarias y demostrativas de los siguientes puntos:
+
+a) es indiscutible que el día 27, Horacio García Belsunce se comunicó con el teléfono del Comisario Casafús. Si habló o no con él y qué le dijo exactamente, está controvertido. Sin embargo, a la luz de las manifestaciones del comisario, es evidente que cuando lo llamó al día siguiente ya tenía conocimiento de lo sucedido.
+
+b) Es igualmente indiscutible que esa misma noche Casafús pudo haber iniciado las actuaciones policiales correspondientes, y no lo hizo.
+
+c) Volvieron a comunicarse el día lunes, donde según García Belsunce le pidió la intervención de un médico forense, y según Casafús solicitó que le sacara la policía de encima, a lo que él respondió comunicándose con el Comisario Degastaldi, quien sí dio curso a la actuación correspondiente.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+7227
+
+
+---
+
+## Página 57
+
+d) El doctor Romero Victorica admite que Horacio García Belsunce le dijo que ya se había comunicado con la policía, y que le pidió que él también lo hiciera, lo que así efectuó. Por su parte, Casafús también admite que lo llamó el Fiscal de Casación preguntándole qué hizo con el tema García Belsunce, lo que confirma la versión de Horacio de que había pedido un médico forense. De otro modo, es inexplicable que le pidiera a Romero Victorica que se comunicara nuevamente, y que este manifestara al policía Degastaldi tener dudas en cuanto a lo sucedido.
+
+e) Degastaldi confirmó los dichos de Romero Victorica en cuando a que este le comunicó sus dudas sobre lo que habría ocurrido.
+f) Ninguna intervención por lo menos directa, tuvo en el tema, el imputado Carrascosa, pues así se desprende de los dichos de los protagonistas de este capítulo.
+
+Así, podemos decir del Comisario Casafús que sus dichos están teñidos de evidentemente hostilidad hacia Horacio García Belsunce, tal vez en afán de procurar una explicación para una actuación propia que no es del todo clara. El fiscal Romero Victorica, tampoco es favorecedor de su posición cuando se refiere al malestar de la familia frente a la presencia policial. El Comisario Degastaldi, por su parte, en su primera intervención hizo lo que debía: llamar al fiscal y concurrir al lugar, a pesar de que le dieron el enigmático mensaje de que "se ponga a disposición".
+
+
+---
+
+## Página 58
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Lo decisivo es que todos están reconociendo, de un modo u otro, que el hermano de la víctima se comunicó con la policía. Y eso es precisamente lo que hacía falta para que el mecanismo judicial se pusiera en marcha. No importa con qué intención lo haya hecho, pues lo paradójico es que es la única noticia que se tiene de que alguien efectivamente llamó a la autoridad. Y si la policía no intervino el mismo domingo, -de lo que tendría que dar explicación el Comisario Casafús- sí lo hizo al día siguiente, nada menos que junto con el Fiscal de la causa.
+
+Obsérvese entonces, que conjugando los dichos de Horacio García Belsunce, Romero Victorica y Degastaldi, es difícil afirmar que la comunicación fue tardía, y que nadie haya hecho saber a la Fiscalía las dudas que rondaban el accidente. Casafús, como tantos otros en esta causa, actúa en defensa propia, pero no puede dejar de admitir que le avisaron de la existencia de un accidente el mismo día domingo 27 de octubre, en tanto que Degastaldi, cuando explica que pensó que estaría retrasada la autopsia, da a entender que al menos manejaba la misma información que todos: un accidente extraño, cuya mecánica no acababan de explicarse.
+
+Me resulta francamente impensable, además, que Degastaldi no le haya comunicado a Molina Pico las dudas que le transmitió, según vimos, el fiscal de la Cámara de Casación. Así, si con esos elementos el señor Fiscal no pidió aquella mañana la autopsia, y recién la solicitó el día 14 de noviembre, dos días después que Horacio García Belsunce y Juan Carlos
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 59
+
+Hurtig le refirieran la aparición, descripción y desecho de la bala o pituto, y tres días después de la declaración del doctor Biasi, se relativiza totalmente el valor de prueba de cargo que se asigna a la circunstancia de que no se lo hayan advertido cuando se presentó personalmente, con el cadáver todavía en su lecho.
+
+Entonces, no puedo como dije, dar por configurada una maniobra de impedimento de intervención policial. Pero de todas maneras resta analizar en la cuestión siguiente, la presunta responsabilidad de Carrascosa al respecto.
+
+7) Impedimento de acercamiento al cuerpo de la víctima, y al escenario del crimen, a ciertos allegados.
+
+Tampoco acompañaré el criterio de la magistrada que vota en primer término, en cuanto a que se impidió la aproximación al cuerpo de la víctima a ciertas personas. En otras palabras, lo que no comparto es que eso se haya hecho en el marco de una actividad encubridora.
+
+Respecto del doctor Nölting, en primer lugar, debo decir que su presencia era en carácter de médico, y devino en realidad absolutamente inútil, desde el punto de vista de los parientes más allegados a la víctima, una vez que se había confirmado su muerte. En cuanto a su relación de amistad con Carrascosa y su mujer, no está de ningún modo comprobada, pues él se entera de lo ocurrido por un tercero y no por nadie de la familia. De tal modo, en momentos en que todavía estaba la víctima caída en el suelo, y efectivamente estaban limpiando el lugar, no parece nada extraño
+
+
+---
+
+## Página 60
+
+7229
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+que no dejen pasar a quien arriba temprano y no se le tiene ninguna confianza, ni amistosa ni familiar. Lo mismo puede decirse de Carranza Vélez, que como el anterior, también se entera temprano y por un tercero y no por nadie del entorno íntimo de la víctima. Obsérvese que todos ellos llegan entre los primeros. Y en cuanto a Enriqueta Vázquez Mansilla, sus dichos tienen sentido distinto que el que se le otorga en el primer voto, pues si bien afirmó que le preguntó a Carrascosa si podía ver el cadáver y este le contestó que tenía que llegar gente de la empresa funeraria, agregó enseguida la testigo que "... si hubiese querido subir hubiera podido subir ...". Por último, debe tenerse en cuenta también, que el velorio duró más de catorce horas, durante las que probablemente asistieron, según algún cálculo, más de doscientas personas, -muchos de los 130 testigos oídos estuvieron allí- sin que se hayan recogido otros testimonios de que se hubiera impedido a alguien acceder donde se encontraba la occisa, todo lo cual revela que no era intención ocultarla a los ojos de nadie.
+
+Sentado ello, voy a introducir en este tema algo que referiré más acabadamente en la próxima cuestión. El encubrimiento solo es posible para quien no es autor o partícipe del delito principal. Entonces, todas estas actitudes presuntamente encubridoras de la familia y especialmente del imputado deben ser consideradas partiendo de la base de que es inocente del homicidio de su mujer, y no de que es autor o partícipe del mismo. Así, si pensamos en que es el homicida, puede parecer
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 61
+
+sospechoso que no deje acercarse a algunas personas, aún cuando estas no son muy allegadas; pero si nos sustraemos a la idea de su autoría o participación en el delito principal, que es justamente lo que como jueces debemos hacer, se entenderá que es enteramente normal y que responde a una cuestión de simple pudor, que se quiera evitar que gente con la que no se tiene mucha confianza, vea el cuerpo de un ser querido fallecido cuando aún no ha sido convenientemente acondicionado, y presenta todavía la indignidad de una muerte violenta, ensangrentado, con las huellas de la actividad médica de reanimación, hallándose en el piso y hasta con la ropa desacomodada o levantada, como surge de algunos de los testimonios recibidos. Si se tiene en cuenta que los médicos como ya se vio, dijeron que el cuerpo no fuera movido hasta que llegaran los de la funeraria, resulta totalmente razonable que sólo los más allegados hayan visto a María Marta en ese estado.
+
+Por eso es que en mi criterio este tipo de hechos o situaciones, que son de por sí tan ambivalentes, no revisten la trascendencia que se le asigna en la acusación. No obstante, como podría formar parte de la fundamentación sobre el dolo del imputado respecto de las acciones que sí pueden encuadrar en los tipos legales, pospondré su tratamiento para la cuestión siguiente.
+
+8) Impedimento a empleados de la empresa funeraria para que manipulen el cadáver.
+
+
+---
+
+## Página 62
+
+7230
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Del minucioso análisis que la señora Juez que me precede en el voto, hace de los dichos del empleado de casa Sierra, Roberto Di Feo, es claro que ningún interés revisten las referencias a que la familia no quería capilla ardiente, y a que pretendía que se bajara el cajón con el cadáver ya cerrado desde la planta alta. Quedó demostrado a través de varios testigos que velar en la cama era costumbre de la familia, y el funebrero Oscar Sierco, de Casa Sierra, confirmó que ello es común en la clase social a que pertenecía María Marta García Belsunce. Por lo demás, el llamado "encajonamiento", necesariamente iba a hacerse fuera de la vista de la gente, por lo que pudo resultar más razonable hacerlo directamente arriba, y no tener que desalojar la casa para ello, como pretendía el empleado de la funeraria.
+
+Entonces, si cuando llegó Di Feo, la víctima estaba ya instalada en la cama, acondicionada por los familiares, ningún interés había en que este la manipulara, lo que en mi criterio no debe inspirar ninguna sospecha.
+
+Al momento de introducirla en el féretro y cerrarla, nadie impidió a Di Feo tocar a la víctima, y este describió con lujo de detalles la sangre que encontró y la almohada pegada al pelo, por lo que es claro que no se le ocultó nada ni antes ni después.
+
+En cuanto a que lo observaron mientras trabajaba, ello puede obedecer a desconfianza, justificada o no, en razón de que la víctima tenía puesta una pulsera de oro regalo de su madre, tal como relató su
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 63
+
+hermana. Así, que alguien se quedara vigilando hasta que cerraran el féretro para evitar que la sustrajeran no parece decisivo ni sospechoso.
+
+Así, concluiré opinando que no encuentro ningún significado encubridor en la relación de la familia con los empleados de la funeraria. Menos aún el propio imputado, que no tuvo la menor participación al respecto de este tema.
+
+9) Obtención de certificado de defunción alterado en cuanto al origen del deceso, ocultando que se trató de muerte traumática para evitar que se hiciera la correspondiente autopsia.
+
+Respecto de este tópico diré que comparto el análisis de quien me precede en el voto, sólo en cuanto a la materialidad objetiva de la existencia del certificado y de la forma de su obtención. Y como en casos anteriores, dejo para la segunda cuestión la valoración subjetiva y la finalidad con que ello se llevó a cabo, para analizarlo desde el punto de vista que en este veredicto interesa, que es la responsabilidad penal de Carlos Alberto Carrascosa.
+
+En conclusión, con las salvedades referentes a las conductas que se enmarcan en la acusación de encubrimiento, adhiero al voto precedente, dando respuesta AFIRMATIVA respecto de la materialidad de los hechos traídos a juzgamiento, que no fueron observados (arts. 210, 367, 371 inc. 1°, 373 y cctes. del C.P.P.).
+
+A la misma cuestión, el doctor San Martín dijo:
+
+
+---
+
+## Página 64
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+7231
+
+Es oportuno señalar de entrada nomás, que la rendición del acontecer fenomenológico traído a consideración con pulcritud expositiva por quien llevara a cabo el primer voto, realmente satisface las exigencias que la normativa procesal vigente, determina para el logro del cometido propuesto.
+
+Los arts. 209 y 210 armoniosamente impusieron a los magistrados acerca de la forma en que deben apreciar las evidencias para ir forjando así su convicción.
+
+Estipuló el ordenamiento legal aludido "la libertad probatoria", lo que implica la aceptación lisa y llana de todo medio de prueba, de cualquier elemento de juicio que oriente hacia la conclusión, con la sola condición que su recolección e incorporación, no afecten garantías de índole constitucional.-
+
+Así lo sostuvo en un conocido fallo, el Tribunal de Casación Penal, Sala II, en la causa Nº 13.091 del 28-10-2.004 estableció al respecto: "Es sistema de las libres convicciones razonadas instaurado en nuestro derecho de formas para la valoración de la prueba (arts. 210 y 373 del C.P.P.) le permite al juez de mérito fundar el juicio de certeza..., no solo mediante prueba directa, sino también, y exclusivamente, por prueba indirecta indiciaria, con la total libertad de fijar los hechos conocidos y probados (indiciarios) y, a través de un juicio lógico inductivo, establecer
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 65
+
+los hechos desconocidos (indicativos) que luego conformarán la certeza..."
+(SIC).
+
+El precepto se conjuga con el art. 210 del mismo cuerpo legal,
+donde se consagra "la libre convicción sincera" para la valoración
+probatoria explicitando escrita y exhaustivamente la manera en que los
+operadores del juicio, sustentan la verdad de los hechos que dan por
+evidenciados, siempre a través de la sana critica racional.
+
+La tarea del juzgador en la valoración de la prueba debe estar
+dirigida a eliminar la arbitrariedad, la incertidumbre y el error en la tarea
+Judicial, procedimiento que se perfecciona sobre los principios de la lógica
+y de la experiencia.
+
+En definitiva, la prueba penal que posibilita la convicción que
+autoriza tener algún extremo por probado, es la que deriva del
+razonamiento ejercido por los jueces sobre los medios de conocimiento
+que el juicio posibilitó adquirir.
+
+Superado si se quiere esta introducción, que puede resultar de
+interés para dar respuesta a alguno de los planteos de quienes no opinan
+como el suscripto, dejo en claro una vez más, la completa armonía de
+evidencias que ensamblara la Dra. Etcheverry, para arribar a la recreación
+de los hechos.
+
+De tal suerte, a partir de las probanzas seleccionadas, se obtiene
+lógica y razonada convicción sobre la existencia de la materialidad
+infraccionaria constitutiva de los cuerpos del delito de los sucesos en trato,
+
+
+---
+
+## Página 66
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+sin que cosa distinta pueda válidamente predicarse al respecto.
+Compartiendo entonces, el criterio expuesto por mi distinguida colega
+Dra. Etcheverry, con el mismo alcance propiciado, voto por la
+AFIRMATIVA a la cuestión planteada (arts. 210, 367, 371 inc. 1°, 373 y
+cctes. del C.P.P.).
+
+# A la segunda cuestión, la doctora Etcheverry dijo:
+
+Más allá de haber citado en el apartado anterior los testimonios de
+las personas que, de un modo u otro se vieron involucradas en los hechos
+traídos a juzgamiento, debo aquí –aun a riesgo de incurrir en ciertas
+reiteraciones- explicarlos con más detalle a fin de intentar precisar, en
+primer lugar, algunas cuestiones horarias.
+
+La masajista llegó -según fotos de fs. 3510/3512- a las 18:57 hs., a
+las 18:58 hs. continuaba aguardando, y a las 18:59 hs. ya no aparece en
+las imágenes de la entrada. Dejo a salvo que todas las partes, en la
+audiencia, estuvieron de acuerdo en que el horario que aparece en el
+margen superior de las imágenes captadas por las cámaras de la Guardia,
+estaría adelantado más de siete minutos respecto al que aparece en la
+parte inferior, que resultaría ser el correcto.
+
+En la planilla de fs. 23 -reconocida por el vigilador Páez- éste anotó
+las 18:55 hs. como horario de arribo de Michelini –con destino la casa de
+Carrascosa-.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 67
+
+Todos los vigiladores aclararon que el procedimiento que se seguía consistía en detener a quien quisiera ingresar al country antes de franquearle la barrera, pedirle los datos para anotarlos en la planilla y llamar por teléfono a la unidad funcional a la que querían acceder para que diera autorización. Si nadie contestaba, se mandaba un vigilador con handy a la casa para averiguar qué pasaba.
+
+Esto también lo confirmó el imputado en su declaración durante el debate, del día 28 de febrero pasado. También aseguró que la masajista venía todos los domingos, desde hacía por lo menos dos años, normalmente a las 19:00 hs. Y reafirmó que el día del hecho debió haber llegado a su casa a las siete, porque era la hora que estaban llamando de la guardia para que entrara la masajista. En el ínterin, Michelini permaneció en un descampadito próximo al puesto de guardia.
+
+¿Cuánto tiempo esperó en ese lugar? Los vigiladores que se encontraban en ese momento en la guardia -Vera, Páez y Maciel- coincidieron en que esperó entre 20 y 30 minutos. ¿Es esto factible? Lo dudo.
+
+Eduardo Walter Vera aseguró que cuando recibió el llamado de la hermana de la Sra. de Carrascosa, la masajista estaba esperando. El motivo del mismo, fue pedir un médico para auxiliar a esta última, que había sufrido un accidente.
+
+Sabemos -por sus coincidentes declaraciones- que Vera le pasó el teléfono a Claudio Marcelo Maciel, y éste le ofreció llamar a "Emernort", lo
+
+
+---
+
+## Página 68
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+que hizo a las 19:12:13 hs. -según surge del V.A.I.C.-, lo que nos indica que la llamada de Irene Hurtig fue próxima a esa hora. Esto debemos deducirlo, porque, como consta a fs. 1077/1078, las comunicaciones con la modalidad de "internas" en Carmel se manejaban con una central que no estaba programada para guardar su registro.
+
+Considero que esta es la hora correcta, ya que Maciel, en el informe de fs. 16 -reconocido en la audiencia- anotó que recibió el llamado de la Sra. Binello, aclarando que al principio pensó que de ella se trataba, pero luego se percató de que había sido la Sra. Hurtig quien llamara a las 19:18 hs. -llamando en ese mismo momento a "Emernort" y reclamando luego de las 19:24 hs., cuando desde la casa de Carrascosa le insistieron sobre la llegada de la ambulancia-.
+
+También consta que el móvil 27, a cargo del Dr. Juan Gauvry Gordon llegó a las 19:28 hs., y fue acompañado raudamente a la unidad funcional de Carrascosa; a las 19:43 hs. llegó otra ambulancia, a cargo del Dr. Santiago Biasi, retirándose ambas a las 21:00 hs. aproximadamente.
+
+No sólo el V.A.I.C. desmiente los horarios que aparecen en el citado informe, sino que las imágenes captadas por las cámaras de seguridad, obrantes a fs. 3535 muestran que la primer ambulancia arribó a las 19:24:41 hs. (foto 1) y la segunda, a las 19:47:19 hs. (foto 2), retirándose la primera a las 20:42:47 hs. y la segunda a las 20:43:20 hs. (fotos 3 y 4 de fs. 3536, respectivamente).
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+7233
+MARQUERO A. NICOLAS
+SANTIAGO
+TRIBUNAL - V. R. RUMMEL N° 6
+SANTIAGO
+
+A-1
+
+
+---
+
+## Página 69
+
+Vera asegura que la masajista aún estaba esperando cuando recibió la referida llamada. Maciel, por su parte, coincide en el tiempo de espera, pero confrontada su declaración con la anterior de fs. 1753/1762, donde dijo, luego de relatar el episodio de la masajista -llegada, espera y entrada- que "...pasado un tiempo suena el teléfono y atiende Vera y me lo pasa...". Refiriéndose a la llamada en cuestión, concluyó el testigo reconociendo que no está seguro que la masajista hubiera estado esperando todavía, en ese momento.
+
+Páez también señala que Michelini esperó un buen rato -no menos de veinte minutos-.
+
+Basado en estos testimonios, el Fiscal sostiene que jamás pudo haber estado Michelini en la casa de Carrascosa, a la hora en que éste hizo la llamada a OSDE - 19:07:58 hs. según el V.A.I.C.-.
+
+La representante de la Particular Damnificada aseguró que los vigiladores mienten, porque está en juego la responsabilidad de la firma "Cazadores" para la cual trabajaban, ya que de probarse que la muerte se debió a una falla en la seguridad y no a una cuestión familiar, afrontarían una onerosa demanda civil por daños y perjuicios.
+
+Tal afirmación no pasa de ser una mera hipótesis, no avalada por sustento probatorio alguno. Pero lo cierto es que los lapsos temporales que surgen de declaraciones testimoniales deben ser apreciados con cautela. Creo que debemos ceñirnos a indicadores que no adolezcan de
+
+
+---
+
+## Página 70
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+subjetividades, considerando así los registros horarios de las llamadas telefónicas y cámaras de vigilancia.
+
+Por otra parte, me parece acertada la observación de la Dra. Rivera en cuanto a que, si la masajista estaba esperando cuando Irene Hurtig llamó a la guardia pidiendo un médico, lo lógico hubiera sido que el vigilador le comunicara su presencia, dadas las infructuosas llamadas que estuvieron haciendo a ese domicilio. Pero nada dijeron.
+
+Es más, Michelini en su injurada de fs. 1088/1090 de la I.P.P. nº 19.279 dijo que llegó a Carmel alrededor de las 18:55 hs., para hacerle masajes a María Marta Carrascosa –tarea que realizaba desde hacía unos dos años aproximadamente–, se anunció en la entrada y, como en la casa no contestaban los llamados, la hicieron esperar en el estacionamiento de la guardia mientras enviaban a alguien al domicilio, comunicándose por handy.
+
+Este procedimiento fue corroborado, en lo esencial, por los tres vigiladores que se encontraban en ese momento en la guardia -Vera, Maciel y Páez-.
+
+Siguió expresando Michelini, que un guardia le transmitió que el vigilador enviado le había avisado que no contestaba nadie en la casa, a la vez que le preguntó si la familia Carrascosa tenía una o dos camionetas –contestándole la declarante que dos, y enterándola de que sólo había una de ellas estacionada en ese domicilio–.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+MAXIMILIANO E NICOLAS
+MINISTERIO DE JUSTICIA
+TRIBUNAL Y JUSTICIA
+COMISIÓN DE JUSTICIA
+
+
+---
+
+## Página 71
+
+Continuó aguardando mientras el guardia regresó a la cabina de seguridad y volvió inmediatamente, comunicándole que había llegado el Sr. Carrascosa y autorizaba su ingreso. Se dirigió hacia la casa de María Marta, a una velocidad de entre 20 y 25 km/h, ya que sabía que en ese country cobraban multas por exceso de velocidad -marcando el recorrido en el plano obrante a fs. 1093- calculando que tardó entre cinco y siete minutos o más, porque ese día estaba lloviendo -la factibilidad del tiempo empleado en este trayecto fue comprobada por el Tribunal en la inspección ocular que realizara-.
+
+Al llegar, estacionó su automóvil sobre las piedritas ubicadas a la entrada de la casa de Carrascosa, observó que estaban estacionadas las dos camionetas. Destacó que debajo de una de ellas las piedritas estaban mojadas, y debajo de la otra -la que usaba la víctima- secas; lo que indica el diferente momento de arribo de ambas.
+
+Descendió del vehículo, sacó la valija de trabajo, la apoyó en el segundo escalón del porche de la casa y cuando volvió a buscar la camilla, se abrió la ventana de arriba -correspondiente al vestidor- y se asomó el Sr. Carrascosa diciéndole: "Betty, no saque las cosas que María Marta tuvo un accidente". En tales circunstancias, entró a la casa corriendo -la puerta estaba sin llave, como era costumbre-, subió y pudo ver a la víctima tirada en el piso. Según describió, la mitad superior del cuerpo estaba tendida sobre la alfombra del dormitorio y las piernas dentro del baño, mientras que el imputado estaba recostado a su lado, con los
+
+
+---
+
+## Página 72
+
+7235
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+pies en dirección a las ventanas del cuarto, sobre el lado izquierdo, acariciándole el pelo.
+
+Recordó que Carrascosa le preguntó si respiraba. Ella no le encontró pulso, pero notó que el cuerpo todavía estaba caliente, con temperatura normal, por lo que comenzó a hacerle masajes cardíacos. Le corrió la espuma que tenía en la boca -señalando que tenía los ojos medio abiertos como si estuviera mirando- y le efectuó respiración boca a boca. Luego le dijo a Carrascosa que llamara a un médico, a alguien para que ayude, a Bártoli.
+
+Guillermo Bártoli llegó al poco tiempo de que se fuera el imputado y la ayudó con el masaje cardíaco. Inmediatamente llegó un chico joven con barbita, y casi con éste llegaron dos personas vestidas como médicos, los que se hicieron cargo de la asistencia -acercándoles Michelini una lámpara del vestidor, que sostuvo alumbrando el cuerpo para facilitar las maniobras de auxilio-.
+
+No hizo referencia la declarante a haber escuchado llamada o conversación alguna de Carrascosa -ni a sus cuñados ni a la empresa de emergencia-, lo que resulta por lo menos llamativo, ya que el propio imputado admitió en su injurada prestada en el debate - 28/02/07- que usó el teléfono de la planta alta, ubicado en la mesita al lado del sillón -es decir, en la antesala pegada al dormitorio- (ver fotografía de fs. 39 de la carpeta de prueba identificada con el nº 110). Sumado a ello, en la grabación de la primer llamada a OSDE -tomada desde el receptor- se
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 73
+
+escuchan las voces de quienes estaban junto al cuerpo de María Marta, por lo que, recíprocamente, alguien ubicado en ese lugar debió escuchar necesariamente lo que hablaba Carrascosa por ese aparato telefónico; máxime si, como contara Irene Hurtig en la audiencia, en medio de la corta conversación que mantuvieron, el imputado se puso a llorar. Sin embargo, Michelini sólo dijo que éste se fue y, al poco tiempo, llegó Bártoli. Sobre esta cuestión he de volver "infra".
+
+Reafirmó Michelini que el Sr. Carrascosa estaba solo cuando ella llegó, acostado del lado izquierdo de María Marta, y no había llamado a nadie -no explicándose qué estaba esperando para socorrerla-. También afirma que, mientras permaneció allí, en ningún momento subió el perro.
+
+Con respecto al punto que nos ocupa, observo que el imputado, en su primera declaración a tenor del art. 308 del C.P.P., dijo que se retiró de la casa de Bártoli diez minutos después del gol de Independiente -casi a las siete-, pasó por el domicilio de la familia Taylor -sin bajar porque no había ningún auto estacionado-, y arribó a su domicilio. Allí, vio al guardia que estaba tocando timbre para que autorizara a la masajista a entrar -lo que así hizo-.
+
+Ingresó -la puerta estaba abierta-, vio que la perra estaba en el lavadero, subió la escalera, llamó a su esposa -no contestándole- y luego la encontró en las circunstancias ya apuntadas, colocándola en el lugar antes señalado.
+
+
+---
+
+## Página 74
+
+7236
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Explicó también que se asomó por la ventana de la antesala y le manifestó a la masajista -que ya había llegado- lo que ella relatara. Recordó que Michelini subió y le dijo que llamara a Bártoli -lo reafirma a fs. 853 ante la pregunta específica- lo que hizo instintivamente, atendiéndolo Irene. Cortó e inmediatamente llamó a OSDE, mientras la masajista le hacía respiración a su esposa. Le preguntó si estaba viva o muerta y la masajista respondió que no le encontraba el pulso.
+
+Llegó Bártoli y, junto con la masajista, se pusieron a hacerle respiración. Llamó a la guardia para avisarles que guiaran a la ambulancia hasta la casa, porque no era fácil llegar -no recordando si en ese momento o un instante después, llegó Irene, que había ido a buscar algún médico y trajo a Diego Piazza, que era estudiante de medicina, quien se quedó con la masajista y Guillermo Bártoli, haciendo maniobras de reanimación-. Luego, relató la llegada de las dos ambulancias, como ya se viera.
+
+En su ampliatoria de fs. 1424/1428, preguntado concretamente si recuerda quién estaba en la casa cuando llamó a OSDE, respondió que Michelini.
+
+En la audiencia del 28-02-07, repitió que llegó a su casa a la misma hora ya señalada -brindando idéntica justificación para tal aseveración-. A su ingreso, advirtió que la campera que le había prestado a María Marta para protegerse de la lluvia al irse en bicicleta de la casa de Bártoli, estaba colgada en el lavadero.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 75
+
+Coincidió en que fue Michelini quien le dijo que llamara a Bártoli. Lo llamó e inmediatamente después llamó a OSDE -y cuando estaba indicándoles cómo llegar al country, llegó Bártoli y se puso a ayudar a la masajista, haciéndole respiración boca a boca-.
+
+En su injurada prestada en el oral el 7 junio pasado, explicó que arriba había un teléfono en la antesala, que cuando hizo el primer llamado a OSDE, Irene no estaba, y Bártoli estaba al lado de María Marta -no recordando si antes de cortar ya había arribado Irene-. Aseguró que la voz de fondo que aparecía en esa llamada pertenecía a Michelini -tema que trataré luego más extensamente-.
+
+Guillermo Bártoli, por su parte, en su declaración de fs. 809/818 coincidió -como se viera- con Carrascosa, en el horario que éste se retirara de su casa, así como en el hecho de que a los cinco o diez minutos llamó por teléfono, comunicándole a Irene el accidente que había sufrido su mujer.
+
+Explicó Bártoli que saltó de la cama, se puso los zapatos y salió corriendo en su camioneta, "comiéndose" los lomos de burro, y llegó en uno o dos minutos. Allí vio el bolsón de la masajista Beatriz en la puerta, y encontró al imputado bajando por la escalera -como viniendo hacia el lado de la cocina- y en total estado de "shock", le dijo que subiera a darle una mano a Michelini que estaba auxiliando a María Marta. Así, se puso a colaborar con los masajes cardíacos y la respiración boca a boca.
+
+
+---
+
+## Página 76
+
+7237
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Treinta segundos después -según aclaró- llegó su esposa y subió con Carlos. El declarante y la masajista le pidieron que fuera a buscar un médico, por lo que la hermana de María Marta se dirigió a la casa de Zancolli. Previo a ello, en ese momento, Irene le preguntó a Carrascosa si había llamado a una ambulancia, y éste le dijo que sí. Es decir, que no hace la más mínima mención a la llamada de Carrascosa a OSDE, en la que como se verá, se determinó que fue hecha mientras el declarante se hallaba junto a María Marta.
+
+Irene Hurtig confirmó la versión de su marido. Dijo que luego de retirarse Carrascosa de su casa -lugar donde se habían quedado ambos en el living viendo el segundo partido-, recibió al rato un llamado telefónico de éste, avisándole del accidente de María Marta, por lo que salieron en dos autos distintos y fueron hasta su casa. Allí, vio en el cuarto a Carlos hablando con OSDE -aclaró que cuando entró, lo vio con el teléfono en la mano y le preguntó si había pedido un médico, a lo cual le respondió que estaba llamando-, vio a Michelini pidiendo un médico y a su marido haciéndole masajes y diciendo "Vamos María".
+
+Salió corriendo a buscar un médico -yendo primero hasta la casa de Zancolli, que no estaba-. Regresó y llamó a la guardia para que se pidiera asistencia médica y luego, en auto, fue a la casa de Zuelgaray -esto lo aclaró al confrontarse sus dichos con su declaración anterior, obrante a fs. 44/45-. Después fue a buscar a Diego Piazza, al que se encontró y llevó al lugar del hecho -llegando a esa altura la primer
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+FERNANDO E. NICOLAS
+SECRETARÍA
+PARA LA PROXIMACIÓN CRIMINAL N° 3
+PODER JUDICIAL
+
+
+---
+
+## Página 77
+
+ambulancia-. Recordó que llamó o pensó en Casagne -que es odontólogo-, pero no pudo precisar el momento.
+
+Diego Piazza confirmó que Irene Hurtig fue a buscarlo a su casa en su auto, dándole a entender que a María Marta le había pasado algo y necesitaba ayuda. Fueron hasta la casa de esta última, se bajó y ella siguió hasta la casa de Gonzalez Zuelgaray.
+
+Subió las escaleras, vio a la víctima en el piso -mitad en el baño y mitad en el cuarto-, no le encontró pulso, y empezó a hacerle reanimación -lo cual fue visto por la masajista-. Agregó que Bártoli y Carrascosa también estaban, pero no pudo precisar en qué parte de la casa. Recordó que al ratito -a los cinco minutos aproximadamente- llegaron los médicos y se dividieron las tareas.
+
+Lo relatado por el imputado respecto de la hora de arribo a su domicilio es coincidente con la versión de Ortiz. Ahora bien, para el Agente Fiscal, Ortiz no sólo está mintiendo, sino que está encubriendo al imputado, ya que lo ubicó arribando al lugar del hecho, cuando en realidad ya estaba allí.
+
+¿En qué se basa el Inquisidor para asegurar tamaña connivencia entre el imputado y un vigilador, sobre quienes no ha sido acreditada ni la más mínima relación que justifique que el segundo le brindó al primero lo que, a juicio del Dr. Molina Pico, sería su coartada salvadora?
+
+Nótese que esta versión de ver llegar al imputado en su camioneta, mientras tocaba el timbre, golpeaba la puerta, y oía la campanilla del
+
+
+---
+
+## Página 78
+
+7238
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+teléfono -supuestamente por los llamados de la guardia-, y ya a punto de irse, la brinda Ortiz en ese mismo momento. Se lo transmite a Maciel, se lo dicen a Michelini, y lo escucha Diego David Rivero -quien se encontraba de guardia en el puesto que vigilaba la casa de Nicolás Pacheco-. No es algo que dijo tiempo después, cuando fue llamado a declarar en la causa.
+
+¿Cuándo se puso de acuerdo con el imputado para inventar esta historia? ¿Salió éste de la casa y le pidió que mintiera de esa manera porque acababa de matar a su mujer? Creo que esto ya es adentrarse en el terreno de lo hipotético. No hay ningún elemento probatorio que permita sostener seriamente semejante afirmación, introducida por el Fiscal en su alegato.
+
+Ateniéndome a las probanzas aportadas -y sólo así puedo sacar conclusiones válidas- considero que, efectivamente, la secuencia narrada por Ortiz, el imputado, y los demás, podría haber sucedido tal y como fue coincidentemente descripta. Si había estado antes o no el imputado en su casa, y quiso hacer creer que recién llegaba, es algo que no voy a tratar en este punto. Pero de ningún modo puedo aceptar que la expresión "Ya viene la guardia para acá" que se escuchó gracias a la ampliación de audio original de la pista nº 2 de la llamada de las 19:13 hs., se erige en prueba indubitable de que en ese momento, Carrascosa se refirió a la llegada de Ortiz. Por el contrario, ésta debió haberse producido, como se viera, alrededor de las 19:00 hs., amén de que a esa hora -19:13- la guardia ya estaba anoticiada de lo que sucedía en ese domicilio por Irene
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 79
+
+Hurtig y, probablemente por el propio Carrascosa, quien dijo que avisó a la guardia que guiaran a la ambulancia de OSDE -y bien podrían haber enviado a alguien a ver qué pasaba-. El propio Ortiz declaró que se quedó por la zona, y tanto él como Rivero escucharon que se modulaba sobre lo acontecido y se anunciaba el arribo de una ambulancia.
+
+Volviendo al tema que nos ocupa, sí he de coincidir con el Fiscal en que resulta muy difícil creer que Michelini se encontrara presente durante la llamada que el imputado hizo a OSDE, donde se comprobó la presencia de Guillermo Bártoli y de una mujer -que según refirió el acusador, sería Irene Hurtig-. Aquí, debo aclarar que aun cuando podría darse también esta última aseveración -la presencia de la hermana de la víctima-, la Fiscalía no ha traído una prueba indubitable de que haya sido así -tal como lo fue el resultado de la pericia de audio respecto de Guillermo Bártoli (punto n° 272, agregado como anexo)-.
+
+Pese a ello, el encadenamiento lógico y razonable de los hechos y horarios -como dije- indica que es altamente improbable que Michelini estuviera presente durante el llamado a la ambulancia. Ello demostraría que las acciones fueron decididas y ejecutadas con premura, desprolijidad e improvisando sobre la marcha, ya que no parecen obedecer a un plan orquestado -de todas formas, a esta conclusión he arribado por otras probanzas que decididamente me dan un marco de certeza-.
+
+Retomando el análisis, habré de seguir el recorrido temporal que hizo el Fiscal en su alegato, a partir de la llegada de Michelini. Las
+
+
+---
+
+## Página 80
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+referencias horarias surgen del V.A.I.C. y de las fotografías referidas precedentemente.
+
+La masajista pasó la barrera de entrada al country a las 18.59.23 hs. -a las 18.59.22 hs. consta un llamado de la guardia a la casa de Carrascosa que dura ocho segundos, y que evidentemente, por todo lo visto, es el aviso infructuoso de la llegada de Michelini-. Luego ingresó y esperó en el auto a pocos metros.
+
+Por menos que haya aguardado, hay que calcular que, aun siendo la señalada la última llamada de la guardia a la casa de Carrascosa, y que simultáneamente se hubiera modulado para que un vigilador verificara la presencia o no de alguien en el domicilio, éste tuvo que llegar al lugar, tocar reiteradamente el timbre y golpear la puerta -como hizo saber Ortiz-, avisar que sólo estaba estacionada una camioneta, lo que le hicieron saber a Michelini y confirmó que los dueños de casa tenían dos, ver llegar a Carrascosa, comunicarle el motivo de su presencia y modular a la guardia para autorizar el ingreso de quien allí aguardaba.
+
+Cuando a la masajista se le comunica que puede ingresar, tarda entre cinco y siete minutos en llegar -o más por la lluvia-; pero admitamos que demoró el tiempo menor. Arriba a la casa, saca el maletín del vehículo y lo deposita en un escalón de la entrada -Bártoli confirma que lo vio en ese lugar-, va a buscar la camilla, y allí Carrascosa se asoma por la ventana y la anoticia del accidente de María Marta. Sube corriendo y lo encuentra recostado al lado del cuerpo, le toma el pulso, comienza a hacer
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 81
+
+maniobras de reanimación, y le dice a Carrascosa que llame a Bártoli. Aquél lo hace, es atendido por Irene Hurtig, y le comunica el accidente de la hermana. Sale el matrimonio corriendo con segundos de diferencia en sus dos vehículos -esto si nos atenemos a sus propias declaraciones- y llegan a la casa de María Marta -recorriendo la distancia que se aprecia en el plano de fs. 428-. Puntualizo al respecto, que no hay un camino vehicular directo entre ambos domicilios, ya que la calle que se aprecia sombreada entre las arterias Santa Rita y San Carlos, es un sendero peatonal -como se pudo observar en la segunda inspección ocular-.
+
+En virtud de lo expuesto, resultaría prácticamente imposible que Michelini haya estado al momento del primer llamado a OSDE -19.07.58 hs.- en el que se constató la presencia de Guillermo Bártoli a los nueve segundos de comenzado, como se verá. Y más imposible aún sería pensar que Michelini pudo haber estado a solas con Carrascosa y la víctima, antes de que éste llamara a Bártoli -si, como dijera el imputado, lo hizo por indicación de la masajista- lo que la ubicaría en el lugar apuntado en un horario muy próximo a las 19:00 hs., -recorriendo el lapso antes descripto, inversamente-.
+
+Continúo con las evidentes contradicciones que, sobre este punto, se advierten en las distintas declaraciones analizadas,
+
+Si Irene llegó treinta segundos después de Bártoli, o mientras Carrascosa llamaba a OSDE ¿Cómo puede ser que Michelini ni siquiera se refiera a su presencia? Amén de recordar -como ya dijera- que ésta
+
+
+---
+
+## Página 82
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+sólo mencionó que cuando le sugirió que llamara a Bártoli, Carrascosarse fue, y no escuchó ninguna de las dos conversaciones -ni a OSDE ni a sus cuñados- y menos sollozo alguno de parte del imputado. A ello se suma, que Michelini señaló que Diego Piazza llegó casi inmediatamente de haber llegado Bártoli, y casi con éste, los médicos.
+
+Diego Piazza confirma que estuvo haciendo reanimación junto con la masajista desde que llegó hasta que arribó la ambulancia -calculó que fueron cinco minutos-.
+
+La primer ambulancia pudo haber arribado a la casa a las 19.30 hs., conforme se viera en la fotografía nº 1 de fs. 3535, y lo explicado por el vigilador que la recibiera.
+
+Si esto lo relacionamos con el llamado de Irene Hurtig a la guardia, y la llamada de ésta a Emernort (19:12:13 hs.), resulta difícil, pero puede admitirse que hubiera salido corriendo al finalizar la llamada a OSDE -a las 19:09:17 hs., calculándolo por la duración de la misma (79 segundos)- y hubiera vuelto de la casa de Zancolli -sin ir en ese momento a otro lado- para llamar a la guardia alrededor de las 19:12 hs., y luego ir en auto hasta la casa de Diego Piazza, explicarle lo que pasaba y llevarlo a la casa de María Marta. Se observa de este modo, que sería coincidente con la ubicación temporal que hacen Michelini y el propio Piazza con relación al horario de arribo de la ambulancia. Esto reafirma que la masajista llegó en realidad después de la llamada a OSDE, y pareciera que se le hizo una
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 83
+
+puesta en escena para que pensara que Carrascosa recién había descubierto a su esposa, supuestamente accidentada.
+
+Conecto lo dicho con las contradicciones que advierto en las declaraciones del imputado y Guillermo Bártoli, en cuanto al momento y lugar del encuentro de ambos en la casa del primero.
+
+Existe otra relación con un episodio que me parece no menor. En su injurada de fs. 850/855, el procesado, a preguntas que se le formulan, expresó que cuando él estaba con la masajista, la perra subió a la planta alta, y la bajó otra vez -creyendo que se cruzó con Bártoli cuando fue a encerrarla, mientras éste último entraba a la casa-. En la misma declaración, había dicho que les estaba explicando a los de OSDE cómo llegar al country, llegó Bártoli y, junto con la masajista, se pusieron a hacerle respiración a María Marta.
+
+En su segunda declaración (fs. 1427) confirmó que la perra -que evidentemente estaba más nerviosa que de costumbre- se soltó en ese momento, cuando estaba la masajista, y llegó hasta al lado de María Marta. Esto fue negado por Michelini en su injurada, como ya se señalara.
+
+Curiosamente, la versión de Guillermo Bártoli en su declaración a tenor del art. 308 (fs. 809/818) coincide -como se viera- en que, al llegar a la casa, lo encontró a Carlos Carrascosa en la escalera, y no hablando por teléfono con OSDE. Al contrario, dijo que treinta segundos después llegó Irene, que subió con Carlos, y le preguntó si había llamado a una ambulancia -respondiéndole afirmativamente-. Irene Hurtig, en cambio,
+
+
+---
+
+## Página 84
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+refiere que lo encontró con el teléfono en la mano, y le dijo que estaba llamando una ambulancia.
+
+Paralelamente, considero de crucial importancia establecer si ha quedado acreditada la presencia del imputado en el "Club House" en momentos que él asegura haber permanecido en la casa de su cuñado, Guillermo Bártoli.
+
+En sus injuradas de fs. 850/855 y 1424/1430, así como en las prestadas durante la audiencia, Carrascosa afirmó que finalizado el partido entre River y Boca a las 18:07 -conf. informe de la Asociación del Futbol Argentino obrante a fs. 194- se quedó en la casa de su cuñado Bártoli, viendo un segundo partido, entre Independiente y Rosario Central (comenzado a las 18:15 hs.) hasta diez minutos después del primer gol de Independiente -que se produjo a las 18:47 hs. según el citado informe (VIDE fs. 197)-, lo que implica que se hubo retirado hacia su domicilio al borde de las 19:00 hs., arribando a los pocos minutos, si observamos en el plano (VIDE fs. 428) el corto trayecto entre ambas casas, previo paso por la vivienda de la familia Taylor, en la que no se detuvo por no ver autos estacionados.
+
+Que Carrascosa permaneciera en el lugar indicado hasta minutos después de las 18:07 hs. también fue afirmado por Diego Piazza y su novia, Delfina Figueroa, quienes coinciden en que María Marta se retiró en su bicicleta, mientras que Bártoli los llevó a ambos a su casa, en su
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 85
+
+automóvil -la testigo Figueroa aceptó esta circunstancia al cotejarse sus dichos con su declaración anterior, obrante a fs. 1037-.
+
+A partir de ese momento, que podremos situar alrededor de las 18:15 ó 18:20 hs., las versiones difieren, ya que el haber estado juntos hasta casi las 19:00 hs., sólo lo afirmaron los co-imputados Carrascosa y Guillermo Bártoli (VIDE declaración a tenor del art. 308 del C.P.P. de fs. 809/818), su mujer, Irene Hurtig, y sus dos hijos, Francisco y Tomás Bártoli -no así la empleada doméstica de éstos, sobre cuyo testimonio volveré luego-.
+
+Por su parte, Alba Máxima Benítez, afirmó en la audiencia que, el día del hecho, Carrascosa estuvo en el "Club House" -del cual ella era encargada- unos quince minutos -que calculó por el tiempo que tardó en tomar un café y un lemoncello, que le convidó-. Lo ubicó sentado a la mesa que la deponente suele usar para cobrar.
+
+Recordó que ese domingo hubo un partido importante (Boca-River), y que había finalizado cuando llegó el imputado, ubicando su permanencia entre las 6 y las 7 de la tarde -aunque por lo referido "supra", es dable pensar que no pudo haber llegado al "Club House" antes de las 18:15 hs.-.
+
+Agregó que como el tiempo estaba feo, se quedó en el "house" desde el mediodía hasta finalizar, puntualizando que Carrascosa fue el único cliente de la tarde.
+
+
+---
+
+## Página 86
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Dijo que a Carrascosa lo vio como siempre, serio, nada demostrativo, que estuvieron conversando -lo que no era habitual- y que le dio consejos sobre cómo manejarse con el servicio durante el verano porque, le explicó, la mayoría de los socios de Carmel irían a Punta del Este, ya que la dicente hacía pocos meses que había tomado a su cargo la concesión del restaurante.
+
+Mencionó que el procesado solía ir al "Club House" los viernes, sábados y miércoles, no recordando si fue algún otro domingo.
+
+Recordó que mientras se encontraban conversando, se asomó por la puerta de la cocina Javier Castro, al que llamó "el chico del delivery" y ella lo miró con severidad, por lo que el empleado cerró la puerta y no accedió al salón, ya que no se lo tenía permitido.
+
+Respecto del automóvil que tenía en esa época, dijo que era un Renault 18 blanco, usado no sólo por ella, sino por su marido, el mozo, era "el auto del pueblo" -así lo denominó- donde se llevaba mercadería, y explicó que en la guardia a veces registraban la entrada o la salida y a veces, no.
+
+Asimismo, recordó que ese día además del mozo, estuvieron Cintia, que atendía el kiosco del golf, a quien pasó a buscar la nuera de la dicente, no pudo precisar a qué hora, un cocinero de nombre Gustavo, y también se hizo presente el mozo del restaurante de su propiedad "La Casona de Alba", quien arribó a Carmel en moto, y tuvo que aguardar para cobrar.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 87
+
+Se enteró de la muerte de María Marta esa misma noche por Zancolli, quien concurrió al "Club House" a cenar, y ahí relacionó esa terrible noticia con la conversación que había tenido con el marido de la víctima, precisamente esa tarde.
+
+Eduardo Rafael Zancolli recordó su cena en el "Club House" esa noche, así como su conversación con Alba Benítez, aunque no memoró la referencia a la visita de esa tarde de Carrascosa.
+
+Alba Benítez también hizo saber que comentó su encuentro con Carrascosa, el día 7 de diciembre, al Escribano Pereyra Lucena, cuando se realizó una asamblea y se comunicó que María Marta no había muerto en un accidente
+
+José Luis Fernando Pereyra Lucena fue oído en el oral, y corroboró los dichos de la testigo Benítez. Puntualmente, recordó que le dijo: "Pobrecito Carrascosa, ese día (el del asesinato de su mujer) estuvo tomando un café, un lemoncello y pagando unas cuentas, entre las 6 y las 7 de la tarde".
+
+Advierto que la testigo Benítez hizo este comentario a más de un mes de la muerte de María Marta, como una expresión de pena hacia Carrascosa. No se imaginaba, entiendo yo, ni remotamente, que su declaración fuera incriminante. ¿Y por qué habría de haberlo pensado? ¿Qué motivos tendría Alba Benítez para mentir?
+
+Por su parte, Gerardo Oberndorfer, refirió en la audiencia que el día del hecho trabajó como mozo en el "Club House", que, a pesar de la lluvia
+
+
+---
+
+## Página 88
+
+7243
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+se jugó el partido de River-Boca, y que el dicente simpatiza con este último cuadro.
+
+Memoró que esa tarde estaba sentado en una silla del salón comedor porque desde ahí podía ver quién llegaba, ya que en ese momento no había clientes. Vio venir una camioneta -cree que de color azul-, y desde la playa de estacionamiento, vio llegar a Carrascosa.
+
+Ubicó el momento de arribo del imputado, finalizado o a punto de finalizar el partido, ya que pensó en hacerle una broma en el supuesto de que fuera hincha de River, porque estaba ganando Boca, pero no se animó debido a no tenía confianza.
+
+Carrascosa le pidió un café, no recordando si había alguien más, ni tampoco haber visto a Alba Benítez. Dijo que le pidió un cigarrillo, y se fue al living con el cafecito y un lemoncello, que el dicente preparó y sirvió, y que se quedó aproximadamente quince minutos.
+
+Explicó que, luego de atenderlo, se fue a la cocina o a otro lugar fuera de salón a fumar un cigarrillo.
+
+Dijo que era casi seguro que ese día había estado Alba Benítez en el "Club House", pero no recordó haberla visto hablando con Carrascosa.
+
+Sí recordó que esa noche había ido a cenar -muy temprano, entre 20:00 y 21:00 hs.- el Sr. Zancolli; fue el único cliente que tuvieron.
+
+Él les dio la noticia de la muerte de María Marta, ya que antes habían visto que pasaban ambulancias pero recién se percataron de lo sucedido por lo referido por Zancolli.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 89
+
+Tanto el declarante como Alba Benítez, le hicieron referencia a que justo esa tarde había estado Carrascosa en el "house", en términos tales como : "¡Qué barbaridad! Salió de acá y se encontró con su mujer muerta". Lo dijeron ambos espontáneamente, ya que antes no habían hablado del tema.
+
+También contó que al día siguiente le comentó a su compadre, Hernández, otro mozo del "house", la muerte de la Sra. de Carrascosa - que aparentemente se había desnucado en la bañera- y probablemente, la visita de éste por la tarde.
+
+El referido Maximiliano Gastón Hernández confirmó en la audiencia lo dicho por Oberndorfer, quien le contó el lunes siguiente al fallecimiento de María Marta -aparentemente por un accidente- señalándole que justamente cuando esto habría sucedido, el marido estaba en el "house", y recordó que le pidió un cigarrillo.
+
+Carrascosa ha negado enfáticamente haber estado esa tarde en el "Club House", por lo que se realizaron sendos careos con los testigos que afirman tal circunstancia.
+
+Así, a fs. 1672/1678, Carrascosa sostiene que Alba Benítez es una persona de bien, pero está confundida, que normalmente pasaba los domingos a pagarle, y que la conversación que ella refiere, efectivamente la tuvieron, pero en otra oportunidad, o bien ese mismo día, pero por la mañana.
+
+
+---
+
+## Página 90
+
+7244
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Por su parte, Alba Máxima Benítez confirmó que esa noche, cuando el Dr. Zancolli -mientras tomaba una rápida cena en el "house"- le dio la noticia de la muerte de María Marta por un accidente doméstico, la declarante quedó muy "shockeada", ya que "son noticias que uno no se espera" y asoció ese hecho con que justamente había estado el marido tomando un café. Estaba segura que fue por la mañana, no por la tarde, en un lapso que ubicó entre las 18.00 y las 19.00 hs., y ello lo relacionó con el partido de River y Boca, porque el mozo Gerardo es fanático boquense.
+
+En suma, ratificó sus dichos e insistió -como lo hizo en la audiencia- en estar absolutamente convencida de lo que asevera, que ella no miente.
+
+Por su parte, Gerardo Oberndorfer, al ser careado con el acusado a fs. 1666/1671, también se mantuvo en sus dichos.
+
+Explicó que Carrascosa no pudo haber pasado por la mañana, considerando que no podría equivocarse tanto, ya que tomó como referencia el partido, el cual había terminado o faltaba muy poco para que concluyera. Dijo que lo estaba escuchando en una radio que había en la cocina, pero lo hacía esporádicamente, ya que iba y venía del salón comedor.
+
+Dijo que es hincha de Boca -ese día cree que ganó 1 a 0- y como el dicente estaba contento y no tenía a quién hacer una chanza, porque -según explicó- todos en el "Club House" son también hinchas de Boca, al
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 91
+
+ver entrar a Carrascosa quiso preguntarle si era hincha de River, pero no se animó a hacerlo porque no tenía confianza.
+
+Insistió en que no fijó en su memoria si Alba Benítez había estado presente en ese momento, aunque dijo que ella siempre estaba, que es probable que hubiera estado y que ese sector -delante de la barra- suele ser el lugar donde ella se instala "como base". Y tampoco recordó la presencia del mozo de "La Casona de Alba".
+
+Confirmó que esa noche fue a cenar el Dr. Zancolli, y por él se enteró de la muerte de la víctima, ya que se lo dijo a la Sra. Benítez delante del deponente, noticia que lo "shockeó", sobre todo al enterarse de cómo había sucedido, y dado que la Sra. de Carrascosa era un clienta habitual.
+
+Insistió que tanto él como Alba Benítez le manifestaron a Zancolli, que esa tarde había estado Carrascosa, porque ambos asociaron que había salido del "house" y se había enterado de la muerte de su mujer.
+
+Resulta lógico pensar que si Alba Benítez y Oberndorfer no coincidieron en el lugar donde se sentó Carrascosa -el living o la mesa frente a la puerta de la cocina- es precisamente porque están diciendo la verdad. No recuerdan cada detalle lo cual es entendible, ya que de lo contrario -si sus versiones fueran exactamente iguales- resultaría evidente que se han puesto de acuerdo.
+
+Me parece razonable que se recuerde el contenido de una conversación luego de un mes o más -sobre todo si está relacionada con
+
+
+---
+
+## Página 92
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+7245
+
+MINISTERIO DE MEDIO AMBIENTE
+Y MEDIO AMBIENTE
+TRIBUNAL DE GOBIERNO
+TRIBUNAL DE MEDIO AMBIENTE
+
+un hecho singularmente impactante como una muerte-. Pero no me parece que suceda lo mismo con el lugar donde se sentó el interlocutor, si se trata de situaciones que se repiten -Carrascosa no fue por única vez al "Club House", sino que lo hacía habitualmente-.
+
+Las razones dadas por Alba Benítez para demostrar lo que afirma, lo explicado por el mozo en cuanto a su alegría por el triunfo de Boca y sus ganas de "cargar" a alguien de River -pensando que el imputado podría serlo-, pero no haberse atrevido a preguntar por falta de confianza, conectan dos hechos que pueden fijarse en la memoria por mucho tiempo. Los pormenores que rodearon la situación pueden haberse superpuesto con otros recuerdos. No sé si justo ese día, Oberndorfer le sirvió el café y el "lemoncello" en el living, o si -como dice Alba Benítez- se lo llevó a la mesa de ésta, o si al llegar, el imputado se sentó en el living y luego se acercó a conversar con la segunda.
+
+Estos detalles menores no desmerecen la credibilidad de sus versiones que, en lo esencial, coinciden y se mantuvieron en los careos -no reeditados en el oral-, y en sus declaraciones durante el juicio, las que se apreciaron seguras y convincentes.
+
+La versión de Alba Benítez se refuerza con lo declarado en el juicio por Javier Ezequiel Castro, quien relató que trabajaba en el "Club House" como ayudante de cocina y repartía los pedidos en bicicleta. Ese día vio a Carrascosa en el salón ya que, mientras acondicionaba la lechuga en la cocina, abrió la puerta para buscar papel, y lo encontró, tomando un café,
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 93
+
+sentado con Alba Benítez en la mesa que ésta acostumbraba ocupar. Volvió a entrar rápidamente, ante la expresión de censura de su empleadora.
+
+Continuando con su relato, Castro no pudo precisar la hora del episodio -sí que era por la tarde-, agregando que generalmente esa tarea la hacía después del mediodía -cuando se va la gente- pero en esta ocasión no recordaba si lo hizo antes o después del partido.
+
+Por lo demás, tanto en las inspecciones oculares realizadas por este Tribunal como en la planimetría obrante a fs. 6808/6818, se comprueba que resulta factible lo explicado por Castro.
+
+Más allá de que Castro le haya llevado ese domingo un agua a María Marta mientras estaba jugando al tenis, lo cierto es que este testigo claramente explica cómo vio el partido en el "house" de menores (autorizado o no por su empleadora), yendo en el entretiempo a su lugar de trabajo, para luego de finalizado el encuentro, dirigirse a continuar sus tareas. Explicó que siempre iba a buscar a Cintia al golf, no recordando a qué hora lo hizo ese día, pero que se quedó trabajando hasta las 11:30 ó 12.00 de la noche.
+
+También fue escuchada Cintia Samanta Narciso, quien confirmó que ese día trabajó como siempre en el golf, que llovía y que Javier "el chico del delivery" fue a buscarla y la llevó al "Club House" - probablemente en bicicleta- para entregarle el dinero de la caja a Alba. Luego, se fue con su hermana -Claudia Marcela Narciso-, quien la pasó a
+
+
+---
+
+## Página 94
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+7246
+
+MARTIN DE SUELAS
+MINISTERIO
+TRIBUNAL DE LICENCIA
+TRIBUNAL DE ACCESO
+
+buscar en un Renault 18 azul; lo que ésta corroboró –ver horario de ingreso de la testigo identificada como "Narciso C.", obrante a fs. 23, punto n° 2- no pudiendo precisar ninguna de las dos el horario en que se retiraron del "Club House", salvo la referencia de la segunda a que era de día pero estaba feo.
+
+Norma Beatriz Escalada -ayudante de cocina en el "Club House"- recordó haber estado trabajando el día del hecho. Dijo que estuvo con Javier, los mozos, el cocinero Gustavo y Alba Benítez. Por su parte, permaneció siempre en la cocina y no vio a Carrascosa –aclarando que desde su lugar de trabajo no se ve el salón-.
+
+Recordó que entre las 7 y las 8 de la noche habló con Alba para preparar la cena, y que más o menos en ese horario se comentó que María Marta había tenido un accidente –habiéndosela hallado muerta en la bañera-. Alguien -cree que Javier- manifestó que el marido había estado por la tarde en el "house" tomando un café. Reprodujo aquí la expresión: "¡Uy! ¡Pobre! Hoy justo estuvo Carrascosa".
+
+Confirma además, que estuvo Cintia en el golf, que se retiró con la hermana, y que la dicente se quedó hasta alrededor de las 23:30 hs. Se fue con Alba Benítez, no recordando a qué hora llegó ésta al "Club House", ni si estuvo todo el día.
+
+La Defensa ha intentado desmerecer los testimonios cargosos, trayendo al oral a otros testigos que, a su criterio, probarían que Carrascosa jamás se acercó esa tarde al "Club House".
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 95
+
+Alberto Mario Romero relató que a la época del hecho que nos ocupa, se encargaba en Carmel de las canchas de tenis. Así, esa tarde estuvo junto con Castillo -el masajista- en esa zona y en el vestuario, donde está el sauna; lugares desde donde se ve el "Club House" y el estacionamiento. En tales circunstancias, afirmó que en ningún momento vio ni a Carrascosa ni a su camioneta -una 4 x 4 bordó-.
+
+Explicó que por momentos, cuando llovía, entraba en el sauna y si miraba para las canchas, el estacionamiento quedaba a sus espaldas.
+
+Pedro Juan Castillo -quien se desempeñaba como masajista en Carmel- declaró que el 27 de octubre de 2002, llegó a su trabajo alrededor de las tres de la tarde, y permaneció en el vestuario, saliendo y entrando - ya que estaba lloviendo-. Desde ese lugar, afirmó que se veía el "Club House" y su estacionamiento -no recordando haber visto a Carrascosa, ni a su camioneta-.
+
+Alfredo Atilio Torres, encargado de la proveeduría de Carmel, dijo haber estado atendiéndola el día del hecho, entre las 5 y las 7 de la tarde - pero aclaró que desde su lugar de trabajo no se puede ver ni el "Club House" ni el estacionamiento-. Sí recordó que Alberto Romero le refirió que no había visto al imputado en ese lugar.
+
+Cito una vez más la pericia planimétrica luciente a fs. 6808/6818 y lo percibido por mí misma en las dos inspecciones oculares realizadas en el Country Carmel, ya que no encuentro elemento alguno que sea decisivo
+
+
+---
+
+## Página 96
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+para demostrar la mendacidad de los testigos que sitúan a Carrascosa en el "Club House".
+
+En primer lugar, es perfectamente factible que desde el salón del restaurante, Oberndorfer haya visto descender al imputado de su camioneta -más allá de haber equivocado su color-.
+
+Se advierte, por la ubicación de las canchas de tenis y vestuarios -esto es, recintos cerrados- que no se puede tener desde estos lugares el control continuo de los asistentes al "Club House". De este modo, ninguno de estos tres testigos desmerecen en lo más mínimo las otras declaraciones.
+
+Simplemente, no vieron ese día ni a Carrascosa ni a su camioneta, y no dudo que así fuera. Sólo que ello no prueba que éste no haya estado en el "Club House", ya que ninguno de los tres se encontraba en dicho sitio. Dos de ellos, estaban ubicados en un lugar desde donde sería "posible" ver entrar o salir a alguien a esa dependencia, si y sólo si en el preciso momento de hacerlo, el testigo hubiera estado mirando -o si y sólo si hubiera dejado estacionado su vehículo en un lugar visible desde las canchas de tenis, y además, el testigo hubiera mirado durante ese corto lapso de 15 minutos-.
+
+Tres personas han declarado bajo juramento que vieron al imputado en el "Club House", dando razón de sus dichos -los que concatenadamente se aprecian como veraces al reforzar su credibilidad los testimonios de quienes, como se viera, corroboraron la referencia a
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 97
+
+esa presencia justamente el día y probablemente, en el momento (o próximo al mismo) en que su mujer moría-. Ninguno de ellos, repito, tenía motivo alguno para mentir -no se ha probado animadversión, ni interés ni confabulación alguna para perjudicar al imputado, sobre todo si es dable pensar que el hecho puntual de su visita a la confitería del country no tiene entidad cargosa por sí mismo, como para creer que fue inventado con intenciones malvadas-.
+
+A lo apuntado, debo unir un testimonio que, por otra vía, también coadyuva a demostrar la falsedad de la coartada conjunta de los imputados Carrascosa y Bártoli.
+
+Catalina Vargas refirió durante la audiencia que el día del hecho trabajó como empleada doméstica en casa de Irene Hurtig y Guillermo Bártoli -habiendo ocupado esa función el fin de semana del hecho y el siguiente, cuando prescindieron de sus servicios-.
+
+Puntualmente, sobre el tema que nos ocupa, recordó que esa tarde hubo visitas, se sentaron en el living, ella les llevó café, y preparó tostadas que su empleador buscó en la cocina. Allí permaneció la dicente hasta las seis de la tarde, precisando la hora porque escuchó la señal en la radio, que se encontraba en el cuarto de servicio -muy próximo a la cocina, según pudo observarse en las diligencias de inspección ocular-. En el ínterin, recuerda que entró por ese lugar, quien luego supo era la Sra. de Carrascosa y le pidió que le secara la raqueta.
+
+
+---
+
+## Página 98
+
+7248
+
+# PROVINCIA DE BUENOS AIRES
+
+# PODER JUDICIAL
+
+Afirmó que el living quedó vacío y el televisor apagado retiró la vajilla y sacudió los almohadones de los sillones. Recordó que había pasado poco tiempo desde que escuchó la señal radial de las seis de la tarde.
+
+Manifestó no saber a qué hora le refirieron sus empleadores lo sucedido con la víctima -sí recordando que ambos salieron juntos y muy rápido-. En ese momento, estaba acomodando los almohadones, y no recordó cuánto tiempo había pasado desde que recogió las tazas, ya que primero hizo esto y luego se puso a limpiar el living. Estimó que esta última tarea le habrá demandado media hora, y que habrá pasado una hora desde que escuchó el "toc" de las seis, y sus patrones "salieron disparando".
+
+Esta testigo fue careada con el imputado -medida que tampoco se reeditó en el debate-. Ello consta a fs. 1661/1665. En esa oportunidad, Vargas admitió que no sabía a qué hora Irene Hurtig regresó a su domicilio, pero reafirmó lo dicho respecto de lo que hizo después de las seis de la tarde, y repitió la explicación de por qué lo recordaba. También reafirmó que no vio autos estacionados porque no miró desde la ventana de la cocina -la cual tenía cortinas-, aclarando que los Bártoli estacionaban sus autos en un pequeño garaje que no se veía desde ese lugar.
+
+Dijo no recordar haber visto a los invitados de su empleador, si sabía que había visitas en el living porque preparó la bandeja para el té y, al percatarse de que ya eran las seis de la tarde, se asomó para ver si
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 99
+
+habían gente porque le pareció que ya había pasado mucho tiempo desde que se había servido el té -y además esperaba el horario para retirarse-, pudiendo comprobar que ya no había nadie.
+
+En esta ocasión, recordó que fue Bártoli quien le comunicó la desgracia sucedida. Lo hizo alrededor de una hora y media después de que la dicente hubo retirado las tazas.
+
+Respecto a lo declarado por esta testigo a fs. 1605/1610 de la Causa nº 2060 tramitada por ante el Tribunal Oral en lo Criminal de la Nación por el delito de falsedad ideológica -incorporada por su lectura al debate-, no advierto contradicciones sustanciales.
+
+Amén de prevalecer su versión oral, confrontada con su declaración brindada en la etapa preparatoria (fs. 1362/1364), así como con lo dicho en el careo referido y, teniendo en cuenta que a pesar de su condición de analfabeta -ya que la probable enfermedad incapacitante que se sugirió que padecía, no pasó de ser un desafortunado comentario del Dr. Cafetzoglus, sin sustento probatorio alguno- la testigo se mostró firme y convincente en su circunstanciado relato, respondiendo con coherencia las preguntas que se le formularon. Se extrae así, claramente de sus dichos, lo siguiente:
+
+Efectivamente, estuvo trabajando en casa de Bártoli esa tarde, y preparó la merienda para los invitados de éste -en la Causa 2060 ya referenciada termina admitiendo que varias personas (de las que
+
+
+---
+
+## Página 100
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+desconoce número e identidad) estaban sentadas en el living rotando a televisión-.
+
+Vio a María Marta entrar por la cocina y, después de las seis de la tarde -sabemos, por lo dicho "supra" que debieron haber transcurrido por lo menos diez minutos desde esa hora- encontró el living vacío, por lo que se dedicó a acomodar y limpiar.
+
+Si hacemos el cálculo al revés -no desde la señal radial que dijo haber escuchado sino yendo para atrás, desde que advirtió que sus patrones salían corriendo de la casa-, lo cierto es que siempre esta testigo aseguró que hizo el aseo de la sala. Aun admitiendo que no lo hizo entre las seis y seis y media como lo afirmó en sede capitalina, de todos modos resulta imposible creer la versión de Carrascosa, de que se retiró de la casa diez minutos después del primer gol de Independiente -esto es, como se viera, casi a las 19:00 hs.-, permaneciendo con Bártoli en el mismo living que Vargas viera vacío.
+
+Creo que este testimonio no hace más que reforzar la hipótesis que lo aleja a Carrascosa de la casa de sus cuñados en el lapso cuestionado.
+
+Concluyo entonces, en que el imputado fue mendaz. Al verse en la necesidad de explicar sus movimientos antes de la hora en que fuera visto arribar a su domicilio -cerca de las 19:00 hs.- recurrió a una mentira -compartida con el co-imputado Bártoli-.
+
+Es evidente que ambos se pusieron de acuerdo en ubicarse juntos en un lugar, mientras María Marta era asesinada -ya que sabemos que el
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 101
+
+episodio central debió ocurrir entre las 18:20 y las 19:00 hs. Aproximadamente-. Ello, calculando la hora de finalización del partido (18:07), el tiempo de levantarse y despedirse, buscar la campera de Carrascosa en su camioneta, subir a su bicicleta, pedalear hasta la casa, dejar el biciclo, entrar, subir, ser golpeada por sus agresores -como se desprende de las lesiones descriptas en la autopsia, a la que me remito-, para finalmente caer acribillada por cinco balazos disparados todos mientras todavía se hallaba con vida, y siendo cada uno de ellos letal.
+
+Por su parte, los menores Santiago Asorey, Pedro Miguel Aspiroz Achával y Marco Cristiani la vieron pasar cuando habían caminado varias cuadras desde el "House" de menores, del que salieron luego de finalizado el partido, y estaban en la puerta de la casa de Peralta Ramos -trayecto que señalaron en la audiencia en el plano allí expuesto, y verificamos en la diligencia de inspección ocular-, que también ubicaría el arribo de María Marta a su casa, no antes de las 18:25 hs.
+
+Al tener que rendir cuentas de su accionar, el imputado inventó una historia cuya credibilidad ha sido derrumbada, a mi entender.
+
+Si olvidó o no dio importancia a su paso por el "Club House", resulta indiferente. Lo cierto es que, cuando Alba Benítez y todos los otros testigos corroborantes revelan lo que realmente estuvo haciendo, ya era imposible cambiar la versión. Uno pudo haberse confundido, dos no, eso revelaba connivencia, y esa versión debía ser mantenida contra viento y
+
+
+---
+
+## Página 102
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+marea, para evitar que se los tildara de mentirosos, como finalmente lo hago.
+
+Si unimos este faltar a la verdad con los otros indicios referidos a que no resulta creíble que Carrascosa hubiera encontrado a su mujer en las condiciones que alude y que mostrara a los que se presentaron en su domicilio, no cabe otra posibilidad que afirmar que ese tiempo mal justificado lo empleó en alterar los rastros del crimen. Tal afirmación se enlaza directamente con la idea del accidente doméstico que trataré más adelante, ya que todavía resta analizar una cuestión anterior: la posible participación del acusado en la comisión del hecho principal.
+
+La acusación final dirigida a Carlos Alberto Carrascosa, llamativamente, se basó en una prueba obtenida a último momento: el resultado de la pericia de audio agregada como anexo e incorporada como punto n° 272, ya citada.
+
+Desde este enfoque, no sólo tomando en cuenta la referencia a la identidad de los interlocutores que se escuchan de fondo, sino además en función de las partes de sus dichos que pudieron ser interpretadas, el Dr. Molina Pico consideró acreditada la participación tanto del acusado como de Guillermo Bártoli e Irene Hurtig en el homicidio -solicitando la correspondiente remisión de testimonios para que se amplíe la investigación por el primero, y se inicie por la segunda-.
+
+Contrariamente, los Sres. Defensores -y aun los representantes legales de la Particular Damnificada- consideraron que tal inferencia no
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 103
+
+era acertada, y que no había elementos de prueba para semejante imputación.
+
+Otra curiosidad, es que ambas partes –Particular Damnificada y Defensa- coincidieron en que el Fiscal había dejado de lado hipótesis que podrían haber brindado otra explicación al suceso. Y no sólo eso, llamativamente coincidieron en una misma hipótesis que consideraron altamente probable: la idea de que el o los posibles autores del hecho habrían sido Nicolás Pacheco y/o ciertos vigiladores sospechados de sustraer bienes de la despensa y viviendas del country –nunca mejor usada como aquí la palabra “móvil”, ya que el “leit motiv” fue desplazándose desde comestibles hasta un millón de dólares; pasando por una cajita fuerte sobre la cual escuchamos testigos durante la audiencia (por ej. Haydee Edith Burgueño y María de las Mercedes Pieres) e incorporamos prueba por lectura, y ni siquiera fue mencionada durante los alegatos-.
+
+Por supuesto que no resulta novedoso ni llamativo el recurso defensista en sí. Decir que no fue el imputado el autor del hecho y además señalar a un tercero, lejos de constituir una mera táctica para ejercer el derecho de defensa en juicio, resulta una cuestión esencial, pues obviamente en caso de comprobarse -descartando la connivencia entre ambos- libera al acusado.
+
+Pese a ello, no se trata de un tarea sencilla, puesto que implica contar con elementos de prueba que avalen tan delicada afirmación –
+
+
+---
+
+## Página 104
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+imputación concreta dirigida a un tercero-. He aquí el principal problema de la Defensa.
+
+Este Tribunal –aun con disidencias en casos puntuales- mantiene un criterio amplio en la aceptación de pruebas, en virtud de lo dispuesto en el artículo 363 del C.P.P. Y, además, estando en juego el derecho de defensa en juicio, siempre resulta delicado limitar su ejercicio, sin inmiscuirse en la estrategia que se sigue. Ello explica –en parte- la abultada prueba con que nos hemos tenido que enfrentar para llegar a una decisión.
+
+Ahora bien, la pregunta que se impone es: Con todos los elementos aportados -que llevaron una gran parte del tiempo de duración del debate- ¿se logró demostrar algún tipo de participación de aquellos que fueron señalados alternativamente? Y la respuesta es tajante, a mi criterio: No.
+
+Contamos con diversas causas remitidas “ad effectum videndi et probandi” que se encuentran vinculadas a Nicolás Pacheco -incluso la causa Nº 11-39.124/3 tramitada por ante el Juzgado de Transición Nº 3 Departamental (punto 252) sobre el suicidio de su padre, en la que ni siquiera se le imputó delito alguno. En dos de ellas –Nº 173 del Tribunal en lo Criminal Nº 7 Departamental por el delito de encubrimiento agravado (punto 250) y la Nº 2083, del Tribunal Oral en lo Criminal de la Nación Nº 15 (punto 260) por delitos contra la propiedad, resultó condenado. Es obvio que sus antecedentes delictivos no alcanzan para responsabilizarlo del hecho objeto de esta causa.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 105
+
+Admito que se acreditó que Nicolás Pacheco, además, vivía en el country, y se tenía de él un pésimo concepto -a tal punto que fue al único vecino al que se le puso una vigilancia preventiva frente a su domicilio-. Además, tres jóvenes -Santiago Asorey, Pedro Miguel Azpiroz Achával y Marco Cristiani- declararon bajo juramento que lo vieron el día del hecho, alrededor de las 18:15 hs, trotando por el country cerca de María Marta - quien circulaba en bicicleta hacia su domicilio- a lo que puede sumarse la circunstancia -relatada por varios testigos- de que María Marta le tuviera miedo porque estaba segura de que Pacheco le habría pedido el pago de un rescate por la devolución de su perro "Tom", que le habría sustraído - recordemos, entre otros, los testimonios de Florindo Santiago Miguel Cometto, Cristina Esther Barrientos, Nora Margarita Burgués de Taylor, Teresa Hortensia Flouret y Carmen Hortensia Aberastain de Panelo-.
+
+Y si bien todas estas circunstancias, lo hacían el sospechoso perfecto -como señaló el Dr. José Licinio Szelci en la audiencia- esta hipótesis, evidentemente, no fue descartada por el Fiscal que investigó el ilícito que nos ocupa.
+
+Prueba de ello es que lo sometió a éste -quien además, accedió voluntariamente- a exámenes de ADN, a fin de cotejarlo con los patrones genéticos masculinos de rastros hallados en el lugar -con resultado negativo- (fs. 3885/3892 -punto 213-).
+
+El Fiscal actuante no halló, evidentemente, elementos suficientes que conecten a Pacheco con el homicidio investigado, así como tampoco
+
+
+---
+
+## Página 106
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-2.jpeg](img-2.jpeg)
+
+los halló respecto del vigilador José Ramón Alejandro Ortiz, quien también se sometió a la prueba de ADN, con igual resultado negativo (VIDE fs. 3885/3892 -punto 213-).
+
+Si bien no le corresponde a este Tribunal de Juicio -es más, le esta vedada- la realización de tareas investigativas ajenas a su función específica y exclusiva de evaluar las pruebas que le aporten para determinar la inocencia o culpabilidad del único imputado sometido a su jurisdicción, lo cierto es que entre las pruebas arrimadas, tampoco se logro desplazar por esta vía la responsabilidad endilgada al imputado, colocándola en cabeza de otro u otros.
+
+Se trajo al oral a dos empleados de un bar ubicado en Ruta 125 y acceso Pilar, al que solían ir vecinos del country Carmel -Walter Eduardo Mantovani y Miguel Ángel Monzón- que refirieron que Nicolás Pacheco, el lunes 28-10-02, fue a desayunar al lugar -antes de las 7 de la mañana- y preguntó si sabían algo de la mujer que mataron en el country, lo que luego, al enterarse de la causa de la muerte de la víctima de autos, comentaron como llamativo.
+
+Balbina Elba Ávila, empleada doméstica de la familia Pacheco para esa fecha, afirmó que el día y hora señalados por los anteriores testigos, Nicolás Pacheco estuvo desayunando en la cocina de su casa.
+
+Pero, más allá de lo dudoso del dato temporal, el haber preguntado Pacheco por la mujer "que mataron" en el country, cuando se ha visto que,
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 107
+
+desde el principio, se sospechó en Carmel que la muerte de María Marta no había sido accidental ¿lo convierte en homicida?
+
+Los Sres. Defensores consideraron que el Dr. Molina Pico ha violado groseramente su deber de actuar con objetividad –mandato legal-. Ahora bien, no parece que ello sea así. Todo lo que hizo la Fiscalía fue contemplar las diversas hipótesis con las que contaba e ir encaminando la investigación a medida que consideró en base a elementos de prueba, que un sendero se extendía y otro se cerraba. La hipótesis del robo, según se ha visto, fue descartada porque no halló elementos de peso para sostenerla.
+
+Irene Hurtig, aclaró que en la casa no faltó nada, que estaba todo en orden (ver declaración de fs. 44/45 que fuera reconocida durante el debate).
+
+En igual sentido, Bártoli (fs. 817) refirió que “la casa estaba perfectamente en orden, no había rastros de pelea, huellas, María Marta no aparentaba tener signos de violencia a simple vista, no tenía machucones, no tenía el rostro deformado, tenía cara de paz, tenía todos sus objetos personales consigo, su reloj, su pulsera, los aros...”.
+
+El funcionario policial Ángel Reinaldo Beserra, en tanto, explicó en el debate que, al comienzo: “El tema era no descartar ningún tipo de hipótesis, porque las cosas no eran claras: estaba la hipótesis de no descartar a Carrascosa, la de un vecino de apellido Pachelo, o certificar fehacientemente que no hayan entrado ladrones”.
+
+
+---
+
+## Página 108
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-3.jpeg](img-3.jpeg)
+
+El testigo White manifestó que la bronca que tenía era que si Pachelo apareció como la figura del asesinato de María Marta, ese énfasis que le puso la familia en el crimen a Pachelo, debió haberlo hecho antes. Al mismo tiempo, le provocó indignación, preguntándose por qué no lo hicieron antes, si alguien tenía dudas de algo, por qué no llamar a la policía.
+
+En oportunidad de alegar la defensa del imputado, el Dr. Cafetzoglus hizo hincapié en la situación que se vivía en el country en torno a la seguridad -la cual describió como de terror-, resaltando los robos cometidos por quienes estaban encargados de vigilar el predio; y que -según sus apreciaciones- no fue adecuadamente investigado por el representante del Ministerio Público Fiscal.
+
+A tal fin, tanto la defensa como los representantes legales de la Particular Damnificada se abocaron a la tarea de desarrollar durante las audiencias de debate, una investigación tendiente a sacar a la luz los ilícitos que habrían sido cometidos por algunos empleados de seguridad, quienes en oportunidad de ser oídos relataron que "se comentaba" o "habían oído" que el vigilador Ortiz secundado en muchas de las oportunidades por Glennon se habrían apoderado de artículos de la Proveeduría, como ser mate, helado o galletitas. También se dijo que habrían ingresado a la propiedad de uno de los socios del club para buscar "OFF", porque había muchos mosquitos.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 109
+
+Sin perjuicio de ello, como dije, la posible comisión de delitos de acción pública por parte de los vigiladores -muy a pesar de este argumento- fue debidamente investigada. A fs. 3686/3692 (punto nº 245) obran copias certificadas de la I.P.P. nº 29.357 perteneciente a la Unidad Funcional Nro. 1 Distrito Pilar, en la que se inició una investigación a partir de la remisión de una serie de piezas procesales por parte del Dr. Molina Pico.
+
+Luego de realizar la pertinente investigación, el Sr. Fiscal Dr. Ferrari, consideró que siendo las referencias vertidas por los testigos vagas, imprecisas, genéricas y contradictorias, y no existiendo denuncia por parte de Atilio Torres, quien resultaba ser el responsable de la proveeduría, ni por parte de Claudio Maciel -quien se desempeñaba como Jefe del Servicio de Seguridad en el country-, no podía tener por acreditada la materialidad ilícita ni la autoría punible en los hechos sometidos a investigación -procediendo así al archivo de las actuaciones-.
+
+Pero repito, no es debido a esta desmedida e infructuosa avalancha probatoria, que he de arribar a un pronunciamiento coincidente con la postura de inocencia del imputado respecto al homicidio de su esposa., sino porque considero que la Fiscalía no aportó elementos de prueba que me permitan afirmar con el grado de certeza que esta etapa requiere, que el acusado Carlos Alberto Carrascosa sea autor penalmente responsable del hecho que se le imputa con carácter principal.
+
+
+---
+
+## Página 110
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-4.jpeg](img-4.jpeg)
+
+No habiendo sido probada una motivación específica para el hecho y no contando con pruebas directas, lo único que lo conectaría sería su cercanía temporal en el lugar y las conclusiones a que arribó el Fiscal respecto del informe pericial acústico nº 45918, que lleva el Nº 272 - ampliatorio del nº 29183, que obra a fs. 1418/1421-, realizados ambos en la Dirección de Policía Científica de la Gendarmería Nacional.
+
+Descarto de plano aquí, la prueba indiciaria que constituye según el acusador el haberse sabido que en el seno familiar hubo un arma con las mismas características que la empleada en el hecho -calibre .32 mm.-. Este es otro ejemplo de un elemento de prueba incorporado, que resultó completamente inútil (se remitieron copias certificadas de la causa nº 40.887/1999 denominada "Ognio, Horacio Daniel s/denuncia p/sup. Hurto - Capital" Legajo nº 6695, que tramitó por ante el Juzgado de Instrucción nº 4 de Corrientes; agregada a fs. 6877, 6880 vta. y 6881, punto nº 273). La denuncia de robo data del año 1999 y la causa se encuentra archivada.
+
+Retomando los dos puntos anteriores, el primer aspecto no es para nada determinante -teniendo en cuenta además, que no estaban juntos sino que la víctima llegó a su hogar minutos antes que el acusado-. No hay elementos de prueba que permitan inferir terminantemente que el marido se hallaba en el lugar al momento del hecho. Nada tiene que ver aquí, que el crimen haya sido como lo denominó el Fiscal "a puertas cerradas". Gran parte de los delitos lo son, y ello sin embargo, no releva de la carga probatoria al Inquisidor. De todas formas -como ya expresé-, la acusación
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 111
+
+no se ha basado en este solo indicador, sino que se le ha dado suma importancia al resultado de la pericia de sonido. Al respecto, en la audiencia tuvimos oportunidad de escuchar al perito interviniente.
+
+Hugo Marcelo Arancibia Vázquez (Ingeniero en computación, Primer Alférez de Gendarmería Nacional) comenzó explicando los tres puntos de pericia: 1) Determinar los sonidos con características de voz humana en la primer llamada (fondo) -se refiere a la realizada a las 19:07:58 hs., el día 27-10-02, desde el abonado 02322428060 al abonado 43105050-; 2) Cotejar los timbres con los de la segunda llamada -realizada desde y hacia los mismos abonados, el mismo día a las 19:22:33 hs.- 3) Amplificar los sonidos. Más adelante, explicó la metodología de trabajo y, finalmente, las conclusiones a que se arribó.
+
+Se encontraron tres timbres de voz del lado del emisor (domicilio de Carrascosa), y se determinó que las voces provenían del mismo ambiente. Uno de esos timbres corresponde al propio emisor, y las restantes a otro hombre -como ya mencioné, Guillermo Bártoli- y una mujer -no identificada, como también aclaré- que aparecen en segundo plano -de fondo-.
+
+De allí en adelante, se dilucidaron las siguientes frases:
+
+- Al terminar la llamada, Carrascosa dice "Guillermo".
+
+- "¿No la ves?" (pregunta; voz de mujer por la cantidad de agudos; está al principio de la llamada).
+
+- "¿Alguien va llama..?" (pregunta, voz de Bártoli).
+
+
+---
+
+## Página 112
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+- "Tocala (... y te vas a dar cuenta)" (aunque luego, con el sonograma, solo se confirmó "Tocala", porque hay enmascaramiento; voz femenina).
+- "Cerrá la puer.." (voz de Bártoli).
+- "Dale" ... "vamo" (voz de mujer)
+- "¿Que dice?" (es un susurro, como no hay intensidad no se pueda determinar si es hombre o mujer el que formula la pregunta).
+- "Tenela" (voz de Bártoli).
+- "Si esta muert.." (voz de Bártoli).
+
+El orden de las frases o palabras que se escuchan durante la llamada es el siguiente:
+
+- "¿No la ves?" (segundo 9).
+- "¿Alguien va llama?" (segundo 20).
+- "Tenela" (segundo 23).
+- "Tocala" (segundo 26).
+- "Cerrá la puer.." (segundo 31).
+- "Si esta muert.." (segundo 39).
+- "Dale" ... "vamo" (segundo 39).
+- "¿Que dice?" (parte final).
+- "Guillermo" (parte final; es el emisor).
+
+Con relación al segundo punto, el perito señaló que luego de hacer una comparación de las llamadas, advirtieron que hay formantes que aparecen en las voces de ambas. Hay frecuencias graves que son
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 113
+
+semejantes en las dos llamadas, por ello determinaron que se trata de la misma persona.
+
+Así entonces, ¿Qué aporte nos brindan las palabras o pequeñas frases descubiertas, para tener por acreditado que el acusado y Guillermo Bártoli, junto a una mujer, dieron muerte a María Marta García Belsunce?
+
+El Sr. Fiscal consideró que la circunstancia de que la voz del emisor se mostrara agitada, es el lógico indicador de que acababan de mantener una pelea y dar muerte a María Marta. También se refirió a las frases y palabras determinadas e hizo una valoración. En su opinión, cuando uno tiene un accidente lo primero que hace es buscar ayuda, abrirse hacia los demás y, en el caso, las menciones demuestran que hubo una división de tareas e intención de ocultar el delito que acababan de cometer. Al comienzo de la conversación, advirtió dos preguntas que a su juicio denotan preocupación en el ambiente, porque ya hacía unos minutos que estaban recibiendo la presión de la masajista por ingresar -preguntas tales como: "No la ves?" o "Alguien va a llamar?"-.
+
+Independientemente de que tales apreciaciones resultan sumamente apresuradas, arbitrarias y hasta cercanas al absurdo, hay que decir que, jurídicamente, no alcanzan para sostener la acusación.
+
+Para analizar este elemento de prueba, en primer lugar habré de definirlo como indicio. Siguiendo a CAFFERATTA NORES, el indicio "...es un hecho (o circunstancia) del cual se puede, mediante una operación lógica, inferir la existencia de otro" (CAFFERATTA NORES, José I., La
+
+
+---
+
+## Página 114
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+prueba en el proceso penal, Ed. Depalma -3º ed.-, Buenos Aires, 1998, p. 192).
+
+Su fuerza probatoria como bien aclara el citado autor, reside en el grado de relación que revela entre un hecho conocido (el indiciario), psíquico o físico, debidamente acreditado, y otro desconocido (el indicado), cuya existencia se pretende demostrar. Pero para que la relación entre ambos sea necesaria, será preciso que el hecho "indiciario" no pueda ser relacionado con otro hecho que no sea el "indicado" (es lo que se llama "univocidad" del indicio). Si el hecho indiciario admite una explicación compatible con otro hecho distinto del indicado -o al menos no se opone a ella- la relación entre ambos será contingente: es lo que se llama "indicio anfibológico". (Ídem anterior, p. 192 y sgte.). Por lo demás, tal definición y explicación ha sido adoptada pacíficamente en doctrina (A modo de ejemplo, entre otros, cfr. FRONDIZI, Román J. y DAUDET, María Gabriela S., Garantías y eficiencia en la prueba penal, Librería Editora Platense, Buenos Aires, 2000, ps. 107/108; JAUCHEN, Eduardo M. Tratado de la prueba en materia penal, Rubinzal Culzoni Editores, Buenos Aires, 2002, p. 583 y sgte.; MITTERMAIER, Karl Joseph Antón, Tratado de la prueba en materia criminal, Editorial Hammurabi, Buenos Aires, 1993, p. 447 y sgtes.; y FLORIAN, Eugenio, De las pruebas penales. Tomo I, Editorial TEMIS, Bogotá, 1976, p. 176 y sgtes.).
+
+Por supuesto que dentro de la libre apreciación que nos es concedida a los Jueces, debemos atenernos sin duda a las reglas
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 115
+
+inflexibles de la lógica al examinar esta prueba indiciaria. Y no encuentro, en el caso, relación de causalidad entre los hechos circunstanciales y el hecho principal que se trata de establecer. Puesto que el valor probatorio del indicio es más experimental que lógico, sólo podría guiarme en caso de que se tratara de un indicio unívoco –único que podrá producir certeza-. La sentencia condenatoria podrá ser fundada sólo en aquél; el otro permitirá, a lo sumo, sustentar la decisión de elevar la causa a juicio.
+
+Las razones expuestas, me llevan a sostener que no ha sido acreditada la participación del acusado en el hecho principal –correspondiendo entonces, su absolución por este suceso-.
+
+Continuaré ahora, analizando los hechos acreditados, que fueran materia de acusación alternativa o subsidiaria, a fin de determinar si le son atribuibles al encausado.
+
+De todos los testigos presentados en la causa y coimputados en causas conexas, Carlos Alberto Carrascosa fue quien primero tuvo acceso y apreció la escena del crimen. No puedo dejar de señalar que, dado que a María Marta –como se ha acreditado- la mataron en el baño de la planta alta –de pequeñas dimensiones, y sólo conectado con un recinto también reducido, aun contando la antesala contigua- quien arribara al lugar debió haber percibido el olor que produce la deflagración de la pólvora de seis disparos de arma de fuego, máxime si –como admitiera el imputado- las ventanas se encontraban cerradas, ya que le llamó la atención el vapor existente en el ambiente.
+
+
+---
+
+## Página 116
+
+7257
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Al respecto, el Prof. Raffo aseguró en la audiencia que, en tal situación, tuvo que haber quedado olor a pólvora, que sería percibido por quien lo hubiera olido anteriormente; lo que -agrego- es obviamente válido para identificar cualquier tipo de aroma.
+
+Por lo demás, resulta sumamente llamativo, en primer lugar, la posición en la que refirió haber encontrado el cuerpo -semi-sumergido en la bañera-. Contrariamente, la mancha de sangre de considerables dimensiones que gran cantidad de testigos -cuyos relatos ya han sido reseñados- y el propio imputado reconocieron haber visto entre el inodoro y el bidet, es un fuerte indicio de que allí pudiera haber quedado el cuerpo de la víctima luego de caer abatida.
+
+Tal idea se conecta además, con los testimonios de las empleadas de Carrascosa, quienes reconocieron que al limpiar el baño, debajo de los artefactos y del escalón que da a la bañera, salió sangre -lo cual demuestra que, necesariamente, debió haber otras manchas en el piso-. Ello, asimismo, resulta más lógico y compatible con la abundante pérdida de sangre que sufriera la víctima -nótese que también ha quedado demostrado en la cuestión anterior, que se utilizaron gran cantidad de toallas y toallones para intentar frenar el sangrado-.
+
+Paralelamente, resulta significativo el hallazgo de manchas de sangre arriba y detrás del cuadro ubicado en la antesala (informe de fs. 138/139 y fotografías obrantes a fs. 141/143, ya reseñados). Allí, según se aclara, algunas las observó un experto a simple vista, y otras sólo después
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 117
+
+de haber sido sometidas al reactivo "luminol" y al peróxido de hidrógeno, por haber sido limpiadas.
+
+Asimismo, recuerdo que el perito de parte Raúl Torre, asoció las salpicaduras halladas, con la sexta bala y explicó que el primer disparo podría haberse producido en ese lugar.
+
+Y, para que se hayan encontrado manchas por detrás del cuadro, éste debió haberse caído y luego haber sido puesto nuevamente en su lugar -que es la hipótesis más plausible, como se explicara al tratar la cuestión anterior- o bien, se hubiera colocado un cuadro, donde no lo había antes.
+
+Alguien podría pensar que estas alteraciones fueron hechas por el autor del crimen para montar una escena y dar la idea del accidente doméstico. Pero esto no resulta razonable, ya que aun bajo las circunstancias en las cuales el acusado dijo haber hallado el cuerpo, la escena no era propia de un accidente hogareño. Había sangre en varios lugares, la víctima perdía en gran cantidad, y la lógica de la experiencia indica que si bien la muerte puede producirse por un golpe, las heridas que presentaba María Marta García Belsunce no eran compatibles con ninguno de los elementos que se hallaban a su alrededor -porque como advirtió rápidamente el médico autopsiante, no daban las medidas con los artefactos, o bien porque ninguno de esos elementos tenía la entidad para ocasionar semejante daño-.
+
+
+---
+
+## Página 118
+
+7258
+
+MINISTERIO DE HOLAS
+
+TRIBUNAL DE HOLAS N° 6
+DIRECCION
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Tan evidente era el cuadro de situación, que por la mera descripción del hecho y las heridas de la paciente, los propios operadores de los servicios de emergencia –cuyos relatos ya han sido reseñados en la cuestión anterior- se preguntaban si el golpe se lo había hecho sola o si había sido golpeada; si había habido intencionalidad.
+
+Pero Carlos Alberto Carrascosa no dudó ni un instante. Se aferró ciegamente a la idea del accidente y rápidamente se la transmitió a los demás. Ya he citado el acta de inspección de fs. 5 (punto n° 153), llevada a cabo el día 30 de octubre de 2002 en el domicilio del imputado –reconocida y ratificada por éste durante la audiencia oral-.
+
+Con respecto a la valoración de las denominadas "manifestaciones espontáneas" de un imputado, he de seguir en este punto a CARRIÓ quien señala que "los jueces deberían distinguir nítidamente los casos en que alguien ha sido ya detenido, de los que se refieren a simples encuentros entre la policía y posibles sospechosos, previo a una detención", y agrega que "si la policía está tan solo tratando de esclarecer un hecho dudoso y, sin haber privado de su libertad a nadie, dirige simplemente preguntas a una persona y ésta responde con dichos que lo incriminan, no parece que eso implique transgredir derechos de los imputados" (CARRIÓ, Alejandro D., Garantías Constitucionales en el Proceso Penal -3 ed.- Ed. Hammurabi, Buenos Aires, 1997, p. 311).
+
+En la citada pieza, Carrascosa indicó como el lugar de los hechos, el sector del baño ubicado en la primer planta, y le transmitió a los
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 119
+
+funcionarios policiales Beserra, Godoy y Magnoli una mecánica específica: siendo alrededor de las 18.45 hs. "... encuentra a su esposa tirada dentro de la bañera, totalmente inconsciente y con el agua corriendo sin llegar a rebalsar el contenedor, por lo cual atina rápidamente a sacarla del interior de la bañera solicitando ayuda a la señora Michelini, quien ya se encontraba en la finca, pudiendo observar en ese momento gran cantidad de sangre en ese sector de la bañera, como así un golpe en la región frontal de la señora Belsunce. Seguido a ello se requirió auxilio médico, quienes una vez arribado al lugar y previo realizar todos los ejercicios de reanimación, corroboraron el deceso de la señora Belsunce...".
+
+El funcionario policial Cristian Javier Magnoli, recordó haberse entrevistado ese día con el esposo de la víctima, quien explicó de manera clara y precisa cómo habían sido los hechos. Les dijo que él estaba en una casa vecina mirando un partido de fútbol, y su mujer se retiró antes. Cuando llegó el declarante, había un vigilador que le dijo que estaba ahí porque la masajista estaba esperando para entrar. Autorizó el acceso e ingresó en su domicilio, subió la escalera y halló a su mujer tirada en el baño.
+
+Por la situación, Carrascosa les dijo que su esposa se había golpeado la cabeza con un tirante del techo y luego con la grifería del baño. Les marcó con la mano donde se había pegado –el testigo reiteró que el dueño de casa fue muy claro y muy preciso en cuanto al relato de cómo sucedieron las cosas-.
+
+
+---
+
+## Página 120
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Al exhibírsele al testigo las fotografías del lugar, explicó que el marido había señalado un tirante que está arriba de los sanitarios. Luego de ello, les mostró la grifería de la bañera.
+
+A preguntas de las partes, Magnoli respondió que no encontró dubitativo a Carrascosa quien además, justificó el golpe al decir que su mujer era muy torpe y que no era la primera vez que le ocurría -sobre lo brusca y tosca que era su mujer, a pesar de su agilidad, también se refirió el procesado en sus injuradas de fs. 850/855 y en el debate, el día 28-02-07-.
+
+En ese momento, al testigo le llamó la atención porque no conocía a la víctima, no sabía si era una persona de edad avanzada. Luego de ello, bajó y vio a la masajista sentada en un sillón mirando para abajo. Le tomó declaración y le preguntó qué edad tenía la occisa -destacando nuevamente que le había llamado la atención-.
+
+Por lo demás, durante una reunión en un estudio jurídico, el propio imputado reconoció que la idea del accidente había sido transmitida por él a los demás -médicos, familiares, amigos, dependientes, etc.-. Cabe recordar que el testigo Alberto Enrique White dijo haber concurrido a una reunión en el estudio jurídico del Dr. Scelzi. Allí, además del titular de la firma y su socio, estaban presentes el Dr. Arauz Castex (miembro de la Comisión Directiva de Carmel), Carrascosa, Miguel Taylor, Horacio García Belsunce, Terán (Gerente del country) -no recordando si había alguien más-. En dicha oportunidad, según destacó, Carrascosa dijo: "Lo del
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+7259
+
+MINISTERIO DE CIENCIA
+AL RELACIONADO
+TRIBUNAL EN EL PERSONAL N°
+SANTIAGO
+
+A-1
+
+
+---
+
+## Página 121
+
+accidente, yo lo provoqué, yo induje a la teoría del accidente, los demás actuaron en función de lo que yo dije, ellos colaboraron".
+
+Dicho testigo, en rigor -ante las repreguntas de las partes-, no recordó con exactitud las palabras, pero sí el concepto: que Carrascosa se auto-culpó por haber inducido a la teoría del accidente, como salvando a los demás -relevando de culpa a los demás-. Le pareció que por la manera en que lo decía, estaba convencido de que había sido un accidente. No obstante, en ese momento, White hizo saber a la familia que a mucha gente -ya a esa altura- les sorprendía mucho el tema del accidente. Pero eso no es todo.
+
+Durante el debate, a preguntas de las partes, White sostuvo que podrían haber sido más abiertos, no aferrarse a la hipótesis del accidente y colaborar con la investigación -textual: "...no recién cuando las cosas se pusieron más fuleras, cuando entró la policía científica, cuando se hizo la autopsia, y cuando se develó que había sido un crimen"-. Agregó que hubo un tiempo para investigar más, para colaborar con los que estaban investigando, y no hubo un interés en hacerlo. Creyó que, claramente, si al segundo día empezaron a haber movimientos en el club, empezaron a colaborar los auxiliares de la justicia, la policía científica comenzó a levantar pruebas, había que empezar a moverse, y refirió textualmente: "Te equivocas uno, dos o tres días, pero después empezas a colaborar, a demostrar que vos tenes interés en que si paso tal cosa, queres saberlo".
+
+
+---
+
+## Página 122
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-5.jpeg](img-5.jpeg)
+
+Hasta aquí entonces, encuentro elementos para afirmar que el acusado alteró la escena del crimen. Sin embargo, todavía debe responder a un nuevo argumento planteado por los Sres. Defensores, quienes sostuvieron que en las presentes actuaciones se ha ignorado el principio básico previsto en el artículo 34 inc. 1° del Código Penal, que indica que la ignorancia o error de hecho no imputable excluye la culpabilidad.
+
+Así también, señalaron que si aquellos que sabían -o se supone deberían saber- y tenían la obligación de actuar de una determinada manera en virtud de su función específica e indelegable no lo hicieron, no es posible que se le impute a gente que no tenía un conocimiento específico supuestas conductas antijurídicas. Tal circunstancia -según sus consideraciones- acreditaría que ninguno de los dos médicos cumplió con lo dispuesto en el artículo 287 inc. 1° del Código Penal -entendiendo como tal, que se quiso hacer mención al artículo 287 inc. 2° del Código Procesal Penal-.
+
+Expresaron que el "encubridor" debe saber que lo que está haciendo desaparecer tiene un contenido criminoso, y en cuanto a este punto en particular, aludieron a ausencia de dolo por parte de su ahijado procesal, toda vez que las conductas supuestamente típicas que se le endilgan son directamente irracionales -ya que según su apreciación el aquí imputado tenía una creencia errónea de que lo ocurrido había sido un accidente-. Reiteraron que en el peor de los casos, la conducta
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 123
+
+desarrollada se enmarcaría en la previsión del artículo 34 inc. 1° del C.P., tratándose de un error que jamás le sería imputable, y justificaron dicho accionar en que estaba en un estado de "shock" -no era una persona lúcida con capacidad para construir su dolo-.
+
+Destacaron además, que los testigos Taylor y Zarracán reconocieron el estado de conmoción de Carrascosa. Agregaron que el terapeuta Piaggio indicó que al momento del examen, éste todavía no había salido del estado de perplejidad por lo que le estaba ocurriendo. A ello sumaron el hecho de que la madre del acusado se cayó en la bañera y sufrió un traumatismo de cráneo que le produjo la muerte con posterioridad, y refirieron que sin duda debió haberle dejado una marca en su inconsciente.
+
+En primer término, a fin de precisar el error de tipo apuntado, me remito a la definición de BACIGALUPO: "Si el autor tiene una falsa representación de un elemento del tipo objetivo -error- o si directamente ignora su existencia faltará el conocimiento de los elementos del tipo objetivo. Paralelamente desaparecerá la voluntad de realización del tipo, pues como consecuencia del error, el autor no puede haber tenido voluntad de realizar un hecho que no es el típico según su conocimiento (...) En consecuencia, el error sobre los elementos del tipo objetivo excluye el dolo, o dicho de otra forma, el error de tipo excluye el dolo -art. 34, inc. 1°, Cód. Penal argentino-. La exclusión del dolo, sin embargo, no significa también exclusión de responsabilidad penal. En efecto, si el autor ha
+
+
+---
+
+## Página 124
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+incurrido en un error de tipo por falta de cuidado -por obrar negligentemente-, la realización del tipo no será, naturalmente, dolosa, pero será una realización del tipo culposa. En estos casos, el autor será punible si el delito correspondiente está amenazado con pena en la ley para su realización culposa" (BACIGALUPO, Enrique. Lineamientos de la teoría del delito, 3ª edición, Ed. Hammurabi, Buenos Aires, 1994, pag. 89).
+
+Para dar respuesta al planteo, debo reiterar que no considero que la escena descripta por Carrascosa haya sido la que se le presentó. En base a los argumentos ya reseñados, he sostenido que el propio acusado debió haber acomodado y limpiado superficialmente la antesala -lo cual, como se vio, no alcanzó para suprimir por completo algunas de las manchas halladas arriba y detrás del cuadro-; sumergiendo además, la cabeza de María Marta en la bañera, con la torpe intención de justificar un traumatismo de cráneo con pérdida de masa encefálica por un golpe con la grifería.
+
+Así también, a mi entender el acusado no estaba en estado de "shock" sino que, por el contrario, sabía perfectamente lo que hacía. Sea o no un rasgo de su personalidad, se aprecia que en las dos comunicaciones telefónicas que mantuvo con el servicio de asistencia médica se encontraba sereno y coherente. Más aún, en sus diálogos explicó claramente el recorrido que tenía que hacer la ambulancia para llegar al country. Una persona verdaderamente "shockeada" ni siquiera podría haber levantado el tubo.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 125
+
+Un "shock" representa una "imposibilidad de" -comprender, hacer, etc.-, y aquí no hubo tal imposibilidad. Carrascosa se representó con claridad una mecánica del hecho específica, se la transmitió a los demás y no sólo eso: además intentó justificarla -María Marta era tan torpe-. Esto último llama la atención puesto que los testigos Inés Ongay y los propios coimputados y familiares Horacio García Belsunce (h), señalaron que la víctima no era nada torpe. Por el contrario, era deportista y ágil en sus movimientos. Este último señala en su injurada de fs. 827/836 que le preguntó concretamente al procesado qué había pasado, y éste le dijo que seguramente María Marta, por su torpeza, se habría pegado un golpe contra la viga y, a partir de ahí, se habría pegado otro golpe más que le había provocado la muerte, que no era la primera vez que le pasaba, que ya se había pegado otros golpes, que hacía quince días se había resbalado y se había hecho un moretón en la cadera; contestando después el declarante, a pregunta específica, que no sabía que su hermana fuera torpe, lo que resulta llamativo que lo diga quien habla de María Marta como la que siempre fue su "par tener", que de chicos, hasta le hacía de arquera al hermano varón, cuando éste no encontraba con quién jugar.
+
+En último término, respecto a la referencia a la marca en el inconsciente producto del accidente de su madre en un baño, es importante destacar que la relevancia de este suceso fue introducida en el debate, recién cuando el acusado solicitó ser oído e intentó precisar el
+
+
+---
+
+## Página 126
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIANO VINCOLAS
+SECRETARIA
+TRIBUNAL EN LO起点
+SAN ISIDRE
+
+punto, a raíz de lo informado en los medios de comunicación. En dicha oportunidad, se preocupó por aclarar que su madre no había muerto en ese momento, sino bastante tiempo después –con lo cual, el mismo descartó cualquier tipo de similitud con este suceso–.
+
+Por otra parte, con respecto a la solicitud de que se determine la responsabilidad que les corresponde a los médicos actuantes, debo recordar que el primero en arribar al lugar de los hechos -Dr. Gauvry Gordon- se encuentra coimputado en la I.P.P. nº 19.279 por la presunta comisión del delito de encubrimiento agravado, por lo que considero que su accionar ya es objeto de análisis en el marco de la investigación que se le sigue. Así, en su devenir se determinarán los alcances legales de su conducta.
+
+Ahora bien, con respecto al Dr. Biasi, como ya he advertido, conforme se desprende de las constancias obrantes en el sub-examine, el facultativo actuó en función de lo que el Dr. Gauvry Gordon le indicó, toda vez que éste le manifestó -luego de hablar con su base operativa- que se iba a hacer cargo de la situación.
+
+Sin perjuicio de ello, al día siguiente -preocupado debido a que luego de que Gauvry Gordon le hiciera saber que se iba a ocupar de todo, lo vio retirarse al mismo tiempo que él- Biasi se presentó a su base operativa e hizo entrega en el Departamento de Coordinación Técnica del informe consignado en el lugar de los hechos, a fin de que éstos tomaran las medidas correspondientes. Más aún, considero que resulta cierto lo
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 127
+
+manifestado por el Sr. Fiscal en cuanto a que su testimonio fue crucial para el inicio de la investigación. Tal extremo, se encuentra acreditado por su declaración testimonial obrante a fs. 10/12vta., de fecha 11 de noviembre de ese año -quince días después de ocurrido el hecho-, y por la historia clínica que labrara en oportunidad de atender a la víctima de autos -ya mencionada- y que fuera remitida a la Fiscalía el día 12 de noviembre de 2002 (ver fs. 30).
+
+Hasta este punto, considero acreditado que el acusado alteró la escena inicial del crimen e introdujo así la idea del accidente doméstico, como mecanismo tendiente a ocultar la existencia de un hecho violento. Y lo interpreto y señalo de este modo, porque aun considerando los dichos de los Dres. Moreira y Flores en cuanto a que recién cuando encontraron los proyectiles se dieron cuenta que las heridas habían sido producto de disparos de arma de fuego, la situación con la que se encontró Carlos Alberto Carrascosa ameritaba pensar otras hipótesis mucho más probables que aquella del accidente. Y aquí, de inmediato parece surgir la siguiente pregunta: ¿Por qué lo hizo?
+
+Lo cierto es que si bien la respuesta podría resultar esclarecedora, no es imprescindible para los hechos que debo juzgar. Si Carrascosa actuó para favorecer al autor del hecho porque lo conocía, no lo sé y no ha quedado acreditado; si se trató de un ajuste de cuentas que el acusado intentó ocultar para no verse desprestigiado, y envuelto en una investigación posterior por supuestos negocios espurios que llevaba
+
+
+---
+
+## Página 128
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE DIPOLAS
+SECRETARÍA GENERAL
+TRIBUNAL EN LA REPÚBLICA
+BANCO CENTRAL
+
+adelante, tampoco resultó acreditado; si se trató de un drama pasional que intentó ocultar, tampoco; y si en definitiva consideró la hipótesis del robo pero entendió que ninguna investigación le iba a devolver a su mujer –este es por ejemplo, justamente el razonamiento que según testigos expuso en determinado momento Juan Carlos Hurtig-, menos aún.
+
+Pero en cualquier caso, debió preservarse el lugar y darse intervención inmediata a la autoridad policial y/o judicial.
+
+Ninguna de esas posibles motivaciones que he ensayado, justificaba intentar mantener en el seno familiar, la existencia de un delito grave y de acción pública. No se le está exigiendo al acusado que viera el golpe e interpretara que en realidad había sido producto de disparos de arma de fuego. Se le exige únicamente que, dadas las características del hecho, diera urgente aviso a la autoridad y no lo ocultara. El aferrarse ciegamente a una idea prácticamente absurda en función de las circunstancias que rodearon el suceso –aun dejando de lado las maniobras previas de alteración y ocultamiento en el lugar- demuestra su responsabilidad.
+
+Partiendo de esa idea y transmitiéndosela a los demás, se sucedieron otras tantas maniobras de igual tenor. Aquí, en función de los elementos de prueba traídos a este debate, advierto que algunas personas que colaboraron en la tarea pudieron haber actuado en complicidad con el acusado –en especial, ciertos coimputados que pergeñaron explicaciones tanto o más disparatadas, con la clara intención de justificar la idea inicial–
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 129
+
+al tiempo que otras lo hicieron movidas por relaciones laborales, de sumisión, y hasta por convencimiento.
+
+Resulta curioso que Constantino Hurtig, en su declaración obrante a fs. 840/847 no compartía las dudas de que la hubieran matado porque le parecía mecánicamente imposible que un golpe en un baño de dimensiones tan reducidas le produjera una fractura de tal magnitud, pero si le pareció lógico que esa fractura fuera producto de un golpe con las canillas.
+
+De todas formas, aquí debo juzgar la conducta de Carlos Alberto Carrascosa, y a eso intentaré circunscribirme.
+
+En mi opinión, partiendo del ocultamiento inicial y de la idea del accidente doméstico, como mecanismos tendientes a alterar la escena del crimen, Carrascosa fue mentor y/o artífice de otras tantas maniobras dirigidas en este mismo sentido.
+
+Cabe recordar que el médico Blasi explicó que cuando estaba sentado confeccionando su informe, apareció un joven y se mostró preocupado por como se iba a solucionar el problema. El Sr. Bártoli le había dicho que las decisiones las tomaba Carrascosa y que se iban a seguir las pautas del Dr Gauvry Gordon –lo cual le transmitió-. También explicó que una vez terminado el informe, se lo exhibió a la Sra. Irene y ésta señaló que eso lo tenía que firmar el Sr. Carrascosa. Según refirió, a Irene también le explicó que se trataba de una muerte violenta que requería la participación de la justicia.
+
+
+---
+
+## Página 130
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+El testigo Cachi, en tanto, expresó que mientras estaba recogiendo su material para retirarse, vio a los médicos hablar con el Sr. Carrascosa y escuchó que le decían que tenía que llamar a la policía.
+
+Vázquez Mansilla, como se viera, recordó que el Sr. Binello le había pedido el número de celular de Alberto White. Luego, estando ella presente, se comunicó y la testigo escuchó que Binello le transmitió a White, que le habían dicho que la policía estaba yendo para Carmel y que no debían dejarla entrar. Cuando escuchó eso, le preguntó a Binello que cómo iba a parar la policía –irrumpiendo en sollozos durante la audiencia, al recordarlo–.
+
+A preguntas de las partes, ratificando su anterior declaración respecto al pedido de Binello a White, la testigo recordó que había que parar a la policía, y que si había que coimearla, la coimeara. Esto lo conectó con la siguiente cuestión.
+
+Inés María Ongay manifestó las dudas que se le presentaron desde el mismo momento en que le dijeron que su amiga había muerto de un porrazo en su casa, comentándole a quienes fueron a recibirla al aeropuerto –llegó al día siguiente del hecho– que presentía que la habían matado, sabía que María Marta no era nada torpe, era muy precisa en sus movimientos.
+
+Expresó que le resultaba extraño que se comentaran durante el entierro, distintas versiones sobre la mecánica del accidente que decían había sufrido María Marta –que se había golpeado con la ventana, que se
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+7264
+
+
+---
+
+## Página 131
+
+había caído en la bañadera, primero para adelante y después para atrás, que se había golpeado con las canillas y se había ahogado, que se había golpeado con el bidet-.
+
+Ongay conoció a la víctima cuando ésta tenía once años de edad, siendo amigas muy cercanas, pasando vacaciones y temporadas juntas, y aun en los últimos años, en que Ongay se había radicado en Bariloche, no sólo se veían habitualmente en vacaciones de invierno y de verano, sino que se comunicaban todas las semanas por teléfono o por correo electrónico, ya que la testigo es la fundadora de Red Solidaria en su ciudad de residencia.
+
+También conoce desde chico al imputado, porque fue compañero del hermano mayor de la dicente. Con respecto a la relación del matrimonio Carrascosa sostiene que era buena, así como la de María Marta con su familia, tanto sus hermanos como medio-hermanos, así como con su padrastro y su madrastra -manifestó que "Marialita" la quería mucho, ya que convivieron desde que se casó con Horacio García Belsunce (padre) cuando la víctima tenía entonces once años ya que la madre se había ido a vivir a EE.UU. donde nacieron John e Irene Hurtig, regresando cuando María Marta ya tenía trece años.
+
+Comentó que en abril de ese año, cuando María Marta cumplió cincuenta años, la dicente estuvo de visita en Buenos Aires, y, mientras almorzaban juntas, su amiga recibía continuos llamados de su esposo, por lo que se le ocurrió preguntarle "si la seguía la mafia o algo" a lo que María
+
+
+---
+
+## Página 132
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Marta le contestó que Carlos la cuidada mucho, pero que se había vuelto más maniático con los años.
+
+Explicó que, después del entierro en Recoleta, un grupo de amigas -nombra a Elena Caride y "Canela" Aberastain-, el imputado, Michael y "Pichi" Taylor fueron a tomar el té a la casa de estos últimos en Carmel.
+
+Cuando se quedó a solas con la dueña de casa, le pidió que le cuente exactamente lo que había pasado y recibió como respuesta que como esto se podría haber abierto en un suicidio o un homicidio, hicieron lo que el "Gordo" (refiriéndose a Carrascosa) quería, que éste había pedido que no se la llevaran para hacer la autopsia y que la enterraran en el último horario.
+
+Y, al preguntarle sobre cómo habían podido hacer tal cosa, porque había un "ABC" que cumplir, la Sra. de Taylor le respondió: "Pagamos para hacer lo que el Gordo quería".
+
+Tal afirmación fue rotundamente negada por la Sra. de Taylor, tanto en la audiencia como en sus injuradas de fs. 790/799. Al respecto, explicó que, efectivamente tuvo una conversación con la Sra. Ongay en las circunstancias por ésta apuntadas, que aclaró no duró más de cinco minutos, pero difería en cuanto al tenor de la misma, ya que dijo que sólo hablaron de la posible mecánica del hecho.
+
+Aseguró que jamás Carrascosa le dijo que había que evitar la autopsia, de este tema se habló a la mañana siguiente, cuando se dijo que venía el forense, el imputado sólo pidió que no se la llevaran temprano.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 133
+
+Explicó que se quedó tranquila cuando llegó el Fiscal, ya que él iba a decidir si se trataba de un asesinato o se podía seguir con el entierro.
+
+En su ampliación de fs. 1352/1356, esta testigo explicó que jamás pudo haberle dicho semejante barbaridad a Inés Ongay, a quien sólo había visto cinco o seis veces en su vida, porque le hubiera preguntado: "¿Qué me estás diciendo?", y lo hubiera comentado durante la reunión esa tarde en casa de la declarante (que según sus cálculos duró una o dos horas) o se lo hubiera comentado en el auto, cuando volvió, a sus dos íntimas amigas. Tampoco supo a quién dice que se le pagó.
+
+Afirmó que Inés Ongay siguió teniendo un trato normal con la familia y que echó a rodar esta versión recién después de 90 días, que no se lo comentó a nadie antes, que no es una mala persona ni tiene mala intención, pero entiende que se ha confundido, que fue influenciada por la prensa.
+
+En la audiencia, dijo esencialmente lo mismo, y puntualizó que fue la propia declarante quien le suministró los datos de la Sra. Ongay al Fiscal para que éste la cite, lo que no sería lógico si fuera verdad que le hubiera dicho lo que ella afirma.
+
+Señaló, además, que en la referida declaración de fs. 795 dijo haber escuchado a la "Tana" White que dijo que "Tito" estaba en la puerta, parando a la policía.
+
+
+---
+
+## Página 134
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+![img-6.jpeg](img-6.jpeg)
+
+Admitió haber oído que había que parar a la policía. Comentó que supo del llamado de Horacio a Casafus, aunque no lo escuchó, pero lo relacionó con la no intervención policial.
+
+Las discrepancias entre estas dos testigos, motivaron que se efectuaran dos careos, el primero de los cuales fuera incorporado por lectura (fs. 1362/1364 de la I.P.P. 19.279) y el segundo, se realizó en la audiencia pública, manteniéndose ambas en sus dichos.
+
+Tal como pudo observarse, las dos contradictorias se mostraron seguras en sus afirmaciones.
+
+Pero resulta evidente que una de las dos miente. Por lo que es necesario dilucidar cuál de las dos versiones merece credibilidad, a la luz de los otros elementos de convicción con que cuento.
+
+Así, Inés Ongay explicó que, ante la revelación de "Pichi" Taylor, quedó "shockeada", que no podía creer lo que había oído, ahora piensa que debió continuar la conversación, averiguar más, pero no pudo.
+
+Dijo que le insistió a Carrascosa en tener una conversación con él por lo que insistió en acompañarlo el siguiente miércoles, a llevar a la perra Paca al campo de Canela -otra amiga de María Marta- en Lobos, y durante el trayecto le refirió dos o tres veces, que no podía creer que se hubiera tratado de un accidente, contestándole el imputado: "Yo tampoco, pero así fue". Dijo que no pudo comentarle al imputado lo que le hizo saber "Pichi" Taylor porque estaba asustada, "shockeada".
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 135
+
+Continuó diciendo que sentía una gran angustia por la situación que vivía y la información que manejaba, por lo que, ese mismo día miércoles, en casa de Horacio García Belsunce (padre) se lo contó a la esposa de éste, "Marialita", y ésta le refirió que su hijo Hernán había escuchado que a María Marta la habían matado.
+
+Hizo referencia Ongay, a que también le transmitió lo conversado con "Pichi" Taylor a Elena Caride, el martes -al día siguiente de ese episodio- y que el jueves, fueron a ver al padre de ésta, el abogado Carlos Caride, a quien le transmitieron lo que sabían, y les aconsejó que hicieran una denuncia anónima, pero, en definitiva, no lo hicieron, porque consideraron que María Marta tenía padre y hermano abogados.
+
+Relató que también, fue a ver a un tío de la dicente, el penalista Guerrero Leconte, con quien compartió su preocupación, y la tranquilizó diciéndole que se volviera a Bariloche porque seguramente la iban a llamar a declarar de la Fiscalía.
+
+También nos hizo saber esta testigo sus conversaciones -personales, telefónicas y por correo electrónico- con la ya referida "Marialita", que se hicieron muy frecuentes; ya que ambas compartían las dudas sobre la causa de la muerte de María Marta, a quien "Marialita" quería muchísimo.
+
+Ésta le había comentado que le cambió la ropa a la occisa -concretamente le cambió el buzo manchado de sangre por una camisa que le calzó al revés-, que no le vio golpes, que vio la marca de una mano
+
+
+---
+
+## Página 136
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+ensangrentada con los dedos hacia abajo cerca de la puerta del baño, que había oído a Carlos Carrascosa decir: "Nada me la va a devolver" y a Constantino Hurtig, que no se iba a hacer autopsia, pero le transmitió tranquilidad a la dicente, al decirle "Marialita" que el cuerpo podía desenterrarse y averiguar si había sido asesinada.
+
+Recordó que, en otra ocasión, "Marialita" le habló de algo que habían encontrado, que Constantino Hurtig había dicho que era una cosa que se le había caído a los médicos. Explicó que para ella era algo confuso, que "Marialita" le habló por primera vez de un tiro o una bala, que, como era de bajo calibre no había salido o había quedado dentro de la cabeza, lo que a la deponente le pareció todavía más desesperante que a María Marta le hubieran pegado un tiro.
+
+Todo esto fue antes de que se realizara la autopsia, porque se hablaba de un sólo tiro, y no de todos los disparos que se descubrieron en esa operación.
+
+Elena Susana Caride de Gatto, amiga de la occisa y de la testigo Ongay desde la época escolar, confirmó que esta última la llamó y, al día siguiente del entierro, se juntaron porque quería comentarle la conversación con la Sra. de Taylor, cuando fueron a tomar el té a su casa, refiriéndole que Carlos Carrascosa les había pedido que lo ayudaran para que a María Marta la enterraran lo más tarde posible y que no se hiciera autopsia. Supuso la testigo que se usó el término "arreglar" o "pagar" al respecto.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 137
+
+Confirmó que ambas fueron a ver al padre de la dicente -Carlos María Caride Ceballos, abogado- y le comentaron estas cosas, quedándose él también pensativo, consternado.
+
+También corroboró que Inés Ongay le transmitió las dudas que tenía "Marialita" -con la que charlaba mucho- por la cantidad de sangre, la pérdida de masa encefálica, la marca de la mano invertida ensangrentada.
+
+Dice asociar a Balbino Ongay con la palabra "casquillo" pero no puede precisar, ya que no recuerda si se lo comentó éste o Inés, ni el momento.
+
+Expresó que al enterarse del resultado de la autopsia, le llamó la atención lo de los cinco balazos, pero que ya, al tercer día de la muerte tenía sospechas de que no había sido un accidente.
+
+Al leérsele su declaración de fs. 599/601, confirmó que también Carmen Aberastain de Panelo le manifestó que "Marialita" le había transmitido sus dudas por cómo habían encontrado a María Marta, sin más especificaciones, conforme consta a fs. 600/vta., y también ratificó lo que declaró a fs. 601, respecto a que sintió cierto alivio de que todo saliera a la luz, al conocerse los resultados de la autopsia, que ya había escuchado hablar de una bala, que Inés Ongay le había mandado un mail en el que le decía que por el calibre de la bala, ésta podría haber entrado y no salir de la cabeza, que Balbino Ongay había hablado con Dino Hurtig y éste le había dicho que la policía había encontrado esquirlas, o algo así.
+
+
+---
+
+## Página 138
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Volviendo al careo entre Ongay y Taylor, que presenciamos en la audiencia, me parece importante destacar que la segunda expresó que no se explica, cómo, ante semejante revelación que dice haberle hecho a Inés Ongay, ésta se quedó tomando el té "con esta manga de encubridores y asesinos", que se fue con Carrascosa a llevar a la perra, que no le contó nada a sus amigas, y que recién a los 80 días lo hizo saber, a quien la propia dicente le proporcionó el teléfono para que pudiera ubicarla, lo que no resulta lógico, si le había dado semejante información. Consideró que Inés ya llegó a Buenos Aires con la idea de que a su amiga la habían matado, y después le llenaron la cabeza los diarios.
+
+Por su parte, la Sra. Ongay explicó que reaccionó como pudo, que se quedó helada, que incluso recuerda que la propia "Pichi" Taylor se había quedado helada al comentarlo, lo que motivó que el marido de ésta, al entrar en la habitación, le dijera: "Gorda, te quedaste tildada".
+
+Entiendo, por lo manifestado por Inés Ongay, que la reacción fue de sorpresa, estupor, no relacionando inmediatamente la conducta atribuida a Carrascosa y su entorno -no se determinó quiénes presuntamente habían pagado- con un crimen. Es lógico que quisiera indagar más sobre el tema con el marido de su amiga, con la que sabía se llevaba bien pero no se atreviera a hacerlo al ver que éste no admitía otra hipótesis.
+
+Lo cierto es que la testigo Ongay no se guardó para sí esta revelación. Se la transmitió, por lo menos, a Elena Caride y al padre de ésta, al que fueron a consultar por ser abogado. Aquella ratificó su versión,
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 139
+
+y es creíble que también se lo hubiera hecho saber a su tío penalista, y a "Marialita", quien compartía sus dudas, como también confirmara Elena Caride.
+
+Por lo tanto, no es verdad, como afirmó la Sra. de Taylor, que recién da esta versión, cuando viene a declarar, 80 o 90 días después del hecho, influenciada por los medios periodísticos, y ya conocido el resultado de la autopsia.
+
+Inés Ongay lo hizo saber ya en la época en que recibió la inquietante información, y luego, cuando fue llamada a declarar en la causa abierta al efecto.
+
+El hecho de que no formulara denuncia a las autoridades, no desmerece la credibilidad de lo que afirma. Antes bien, parece lógico que en su fuero interno, se debatiera entre la duda de "delatar" a quien hasta entonces seguramente consideró una buena persona, y el deber moral que podría sentir con su amiga de toda la vida, de quien "sospechaba" - como tantos otros- pero no "sabía" que la habían asesinado.
+
+No parece que esta mujer esté motivada por conseguir "los cinco minutos de gloria" que podrían darle el hecho de declarar en un juicio con tanta trascendencia en la opinión pública, ni que se la pueda tildar de mentirosa ni fabuladora, en primer lugar porque no se acreditó motivo alguno que justifique pensar que su testimonio estuviera contaminado en tal sentido y, en segundo, tampoco se ha puesto en duda que ha sido una de las mejores y más antiguas amigas de María Marta, y que las ligaba un
+
+
+---
+
+## Página 140
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+sentimiento profundo -no sólo entre ellas sino con sus respectivas familias- Por ello, imagino la valentía de que debió munirse esta testigo para dejar al descubierto lo que reveló; lo cual por otra parte, no advierto cómo pudo haber sido producto de una confusión. O se pagó o no se pagó, o Carrascosa no quería la autopsia, y por eso hizo lo que él quería, o esa frase no existió. Pero no puede haber mal interpretación posible, ni la Sra. de Taylor esclareció la supuesta confusión.
+
+Desde otra óptica, resulta evidente que admitir haber pronunciado la frase que la testigo Ongay le atribuye, resultaba incriminante para la Sra. de Taylor, cuando revestía la calidad de co-imputada por el delito de encubrimiento, y sería altamente comprometedor para el aquí acusado y su entorno -del que forma parte esta testigo- que modificara su versión.
+
+Lo que estoy diciendo es que advierto que Nora Burgués de Taylor tiene motivos para no decir la verdad. Y no los advierto para Inés Ongay como ya lo analizara.
+
+Todo lo explicado y sostenido por Inés Ongay aparece como la actitud de sorpresa y preocupación de una amiga de toda la vida, ante la insólita situación que vivió en el entierro, sus sospechas luego lamentablemente confirmadas y la cerrazón que halló en el imputado y su círculo de íntimos, para averiguar la verdadera causa de la muerte que, no a pocos, parecía no derivarse lógicamente de la versión o versiones brindadas por la familia.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 141
+
+Concluyo este punto, por ende, en que es mi sincera convicción, por los razonamientos transcriptos "supra" que, efectivamente el comentario relatado por Inés Ongay, existió. Tal circunstancia, me parece un elemento altamente cargoso para el imputado, porque confirma que dio directivas tendientes a que no se averiguara la verdadera causal de la muerte de su esposa. Y no fue ésta, su única intervención.
+
+Carrascosa también participó en la decisión de desechar uno de los proyectiles que impactaron en la víctima. Al respecto, varios coimputados hicieron referencia en sus respectivos descargos.
+
+Constantino Hurtig explicó que luego de que Horacio señalara que el proyectil era un "apoya-estante" o algo de los herrajes de las ventanas, fueron a buscar al dueño de casa con la finalidad de que se pueda identificar el elemento encontrado. Así Carrascosa, al observarlo, refirió que ello no pertenecía a ningún mobiliario pero que podría pertenecer al material utilizado por los médicos que la habían atendido. Claro que, como dije, estas disquisiciones se hicieron en un contexto nada ingenuo -se hablaba de "bala", "casquillo" o "esquirla"-. ¿Debo creer pese a ello, que no se le dio ninguna importancia a este elemento? Un grupo de personas se reúnen para decidir que hacer con un "pedacito de plomo" que hallaron debajo del cuerpo de la víctima ¿Le resultó una pieza absolutamente irrelevante? Horacio García Belsunce (h) evitó que sus manos tomaran contacto directo con la pieza -sosteniéndola con un papel de por medio- ¿y ello es irrelevante? Teniendo -como se vio- un cesto de residuos al
+
+
+---
+
+## Página 142
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+lado, el elemento fue arrojado por inodoro y cuando se preguntó el por qué, se dijo que porque no había tacho. ¿Esto también es irrelevante? No lo creo.
+
+Horacio García Belsunce (h) manifestó que una vez que Carrascosa lo observó y dio su opinión, ello resultó ser determinante en su convicción de que lo encontrado no revestía la menor importancia y de que posiblemente fuera algo de lo que habían usado los facultativos en las maniobras de RCP -razón por la cual decidieron arrojarlo por el inodoro-.
+
+Juan Carlos Hurtig no logró recordar quien decidió llamar a Carrascosa, pero también coincidió en que al mostrársele el "trocito de metal", éste manifestó que podía ser del instrumental utilizado por los paramédicos.
+
+Otro de los presentes durante la reunión, como se viera, fue Horacio Zarracán. Este testigo explicó que subió al baño y allí estaba "John", Horacio, Carlos y Dino, quienes le mostraron un aparatito que no pudo identificar. Carlos en un momento dado, fue convocado y dijo que podía ser algo de lo que usaron los médicos.
+
+La testigo Reyes expresó durante la audiencia que habiéndose encontrado con Horacio García Belsunce (h) en las inmediaciones de la Fiscalía de Instrucción, éste comentó que se sentía un "Boludo" por haber hablado con Casafus, y reconoció que Binello dijo que había que parar a la policía y si había que pagar se pagara. También le comentó del "pituto" que habían tirado.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 143
+
+Para finalizar acerca de este punto, debo resaltar que los elementos de prueba traídos al debate –VIDE informe de la Armada Argentina, luciente a fs. 517 (punto 20 )- y la declaración del testigo Rafael Carlos Grigera (compañero del acusado en la Escuela Nacional de Náutica) demuestran que Carrascosa tuvo instrucción militar. Por mínima que ésta haya sido, la tuvo y ello debió haberle dado cierta noción de lo que era un proyectil –considerando además, reitero, que ya en ese momento se hacía referencia a que podría ser una bala-.
+
+Paralelamente, también encuentro acreditada la responsabilidad del encausado en la decisión de impedir el acceso al lugar del hecho a ciertas personas. Podría pretender argumentarse que con la cantidad de gente que asistió al velorio, no hubo tal impedimento. Sin embargo, varios testigos dieron cuenta de este impedimento –que coincide temporalmente con las tareas de limpieza del lugar, ocultamiento de rastros y acondicionamiento del cadáver-. Hago la salvedad respecto de esto último, ya que si bien no se ha tenido por acreditada la utilización de un pegamento para cerrar las heridas, o que el cadáver hubiera sido maquillado, se probó que se hicieron numerosos intentos de detener la hemorragia producida por tan graves heridas en el cráneo –cambiando en varias oportunidades las toallas colocadas para detenerla- hasta que luego se la peinó para tenderla prolijamente en la cama –momento en el cual siguió perdiendo sangre, manchando no sólo la almohada sino también el
+
+
+---
+
+## Página 144
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+colchón y hasta parte de la pared cercana al suelo, pero por su ubicación y peinado, ello fue disimulado-.
+
+Retomando el análisis de este punto, ya he reseñado los relatos de los testigos Manuel Nölting, Marcos Pablo Carranza Vélez y Enriqueta Vázquez Mansilla.
+
+El primero -médico reconocido- señaló que cuando se prestaba a colaborar para discernir qué había ocurrido, la Sra. de Taylor -llevando algo de ropa en las manos- y Carrascosa, lo rechazaron, impidiéndole el ingreso. A su salida, Binello le dijo que no hacía falta su ayuda debido a que estaba viniendo un médico a firmar el certificado de defunción.
+
+El testigo Carranza Vélez -quien se encontraba junto al Dr. Nölting- recordó y ratificó el episodio. Pero además, precisó que cuando llegaron, estaban limpiando el lugar y les dijeron que no tocaran nada porque llegarían de la funeraria. En otro momento, vio a Nölting hablando con Carrascosa y Burgués. Y en definitiva -según explicó-, se fueron porque no los dejaron entrar debido a que estaban limpiando.
+
+También destacó la presencia de Irene, y precisó que Carrascosa -a su consideración- estaba para impedir que entrara la gente, porque estaban limpiando. Ante ello, pensó que no querían que se viera lo que estaban limpiando. Al retirarse, observó que Nölting hablaba con el joven Piazza y también creyó haberlo visto dialogar con Binello.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 145
+
+En base la situación reseñada, a ninguno le gustó lo que estaba pasando -pensando que tal vez se trataba de un suicidio y la familia quería taparlo-.
+
+En último término, Vázquez Mansilla de White relató que a su ingreso encontró a Carrascosa en la escalera, se abrazaron, y en ese momento quiso ver el cadáver; pero el acusado le dijo que había que esperar a que llegara el de la casa fúnebre o forense -no pudiendo precisar el término-.
+
+Corresponde destacar aquí, que en sus anteriores declaraciones testimoniales prestadas en la etapa preliminar -27/1/03 y 18/3/03; las cuales le fueran exhibidas durante la audiencia para cotejar sus dichos-, la testigo había dicho que cuando fue a lo de Carrascosa, le preguntó al "Gordo" "¿Qué es este disparate?" y le consultó si podía ir a ver el cuerpo -respondiéndole que no, porque estaban esperando al forense-.
+
+Durante el debate, Vázquez Mansilla aclaró que cuando ella le pidió ver el cuerpo, él no se lo prohibió pero le dijo que había que esperar a la funeraria o forense -recordando que es posible que haya dicho forense, porque asocia forense con policía, frente a un accidente-. Finalmente -según destacó- pudo ver el cuerpo de María Marta esa noche -recién cerca de las 23:00 hs., cuando ya la víctima estaba en la cama, tapada, y con el pelo peinado hacia atrás-.
+
+A fs. 796 vta., Nora Burgués de Taylor afirma que al Dr. Nölting lo paró en la entrada por un gesto que le hizo Carrascosa -con las manos,
+
+
+---
+
+## Página 146
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+como diciendo "Basta"-, lo que la dicente atribuyó a que al imputado le acababa de dar el pésame el médico.
+
+De igual forma, Carrascosa y sus colaboradores condicionaron la labor del empleado de la empresa fúnebre Di Feo, quien explicó que la noche del hecho, al solicitar pasar para ver el lugar y comenzar con los preparativos para el día siguiente, le respondieron que se la iba a velar en la cama, y que ya estaba instalada. De todas formas insistió en ingresar, y Bártoli le dijo que esperara -observando el testigo que fue a hablar con otra persona que después supo que era Carrascosa-. Al rato, se presentó el encausado y le dijo que podía pasar.
+
+Más adelante -tal como lo indicara- cuando solicitó quedarse a solas para manipular el cuerpo a fin de ubicarlo en el cajón -lo cual explicó, era un pedido que realizaba habitualmente para poder trabajar con libertad-, varios familiares de todas formas se quedaron con él. Ello obedece, según mi criterio, a los claros y precisos designios del acusado - obsérvese que desde que llegó y le pidió a Bártoli acceder al lugar. Carrascosa fue quien finalmente lo autorizó-.
+
+Otro de los hechos que he poner en cabeza de Carlos Alberto Carrascosa, se refiere a la obtención del certificado de defunción apócrifo - alterado en cuanto a la referencia al origen del deceso- y de este modo, intentar evitar que se hiciera la correspondiente autopsia, para ocultar que se trató de una muerte traumática.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 147
+
+Nora "Pichi" Taylor, en su injurada de fs. 790/799, asegura que la decisión del sepelio la tomó Carrascosa.
+
+El testigo White recordó haber llamado a Bártoli porque estaba preocupado -no tanto por el clima interno del club, sino por lo externo-. Se reunió con él y estando en su casa, le preguntó qué había pasado, porque el tema no le cerraba. Bártoli le dijo que se quedara tranquilo porque había sido un accidente -aclarándole que había estado con María Marta y la había visto con semblante tranquilo-. Al mismo tiempo, con relación al certificado de defunción, le comentó que lo había hecho para devolverle un favor al "Gordo" -sabiendo que esto último, sí era algo que no debió haber realizado-.
+
+En definitiva, reitero, si los colaboradores del acusado actuaron por verdadero desconocimiento de la real situación de los hechos -convencidos de la idea del accidente- o en connivencia con aquél -complicidad- es algo que excede al alcance de esta sentencia. Pero es evidente que el haber instalado la idea del accidente influyó de manera decisiva en la concepción del episodio.
+
+La suma de estos elementos -indicios de carácter unívoco, graves, precisos y concordantes-, aunada a las afirmaciones mendaces que señalé al inicio de este apartado -tanto respecto de la cuestión horaria como de la visita al "Club House"- demuestran a mi juicio, la participación de Carlos Alberto Carrascosa en los hechos que han sido materia de
+
+
+---
+
+## Página 148
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+acusación alternativa o subsidiaria y de los cuales resulta su responsabilidad penal.
+
+Con relación a la prueba indiciaria, VALLEJO afirma "En el proceso penal tiene una importancia extraordinaria (...) pues no siempre es fácil lograr una prueba directa del hecho, y, evidentemente, prescindir de la prueba indiciaria generaría la impunidad de no pocos delitos". (VALLEJO, Manuel, La prueba en el proceso penal, Ed. AD-HOC, Buenos Aires, 2000, p. 91). Y tal como he hecho a lo largo del presente análisis, CAFFERATTA NORES explica que es recomendable "...valorar la prueba indiciaria en forma general, y no aisladamente, pues cada indicio, considerado separadamente, podrá dejar margen para la incertidumbre, la cual podrá ser superada en una evaluación conjunta. Pero esto sólo ocurrirá cuando la influencia de unos indicios sobre otros elimine la posibilidad de duda según las reglas de la sana crítica racional. Si esta recíproca influencia no se verifica, la simple suma de indicios anfibológicos, por muchos que éstos sean, no podrá dar sustento a una conclusión cierta sobre los hechos que de aquellos se pretende inferir" (CAFFERATTA NORES, La prueba en el proceso penal, ob. cit., p. 196).
+
+ROCHA DEGREEF, por su parte, señala: "Subrayemos que con ayuda de indicios puede alcanzarse no sólo una verosimilitud más o menos cuestionable, sino muchas veces plena certeza respecto de un determinado punto. Bien manejada, la prueba indiciaria permite perfectamente contar con un resultado en el cual puede descansarse (...)"
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 149
+
+La prueba indiciaria tiene una importancia muy grande en el procedimiento penal, puesto que en múltiples casos las presunciones son los únicos medios de llegar al esclarecimiento de un hecho delictuoso y al descubrimiento de sus autores". (ROCHA DEGREEF, Hugo, Presunciones e indicios en juicio penal, segunda edición, EDIAR S.A. editora comercial, industrial y financiera, Buenos Aires, 1997, ps. 146 y 149).
+
+JAUCHEN, en igual sentido, explica y cita a ROXIN: "[l]a no naturaleza de medio probatorio del indicio no le quita a estos elementos y método de razonamiento su importancia probatoria que inexorablemente opera en la mente del juzgador en todo proceso penal, y quizás sea la más importante. Conforme a Roxin, y como veremos, es prácticamente uniforme la opinión de que: "La convicción del tribunal puede estar fundada en prueba indiciaria, esto es, en virtud de hechos que permiten llegar a una conclusión sobre la base de circunstancias directamente graves. Una prueba indiciaria, en particular una prueba con medios probatorios materiales, en ciertas circunstancias puede, incluso, proporcionar una prueba más segura que las declaraciones de los testigos del hecho". (JAUCHEN, Tratado de la prueba en materia penal, ob. cit., p. 583 y sgte.).
+
+FRONDIZI y DAUDET, dan la conclusión al tema: "[d]e todos modos, así como el indicio preciso o unívoco permite la reconstrucción del hecho, y la de la responsabilidad, en términos de certeza tales que excluyen la prospección de otra solución razonable, no ha de exagerarse
+
+
+---
+
+## Página 150
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+hasta pretender también la exclusión de la más abstracta y remota de las posibilidades de que, en contraste con toda verosimilitud y como consecuencia de una hipotética e inusitada combinación de factores imprevisibles, la realidad de las cosas haya sido diferente de la que fue reconstruida sobre la base de los indicios disponibles. En tal caso no se trataría de prueba indiciaria, sino de demostración per absurdum, según reglas que son propias de las ciencias exactas, cuya observancia no puede pretenderse en sede judicial" (FRONDIZI - DAUDET, Garantías y eficiencia en la prueba penal, ob. cit. p. 109).
+
+Y para finalizar con las citas doctrinarias que considero pertinentes a fin de ilustrar acerca de las cuestiones aquí tratadas, respecto de la ausencia de móvil y la mendacidad, los citados autores señalan: "Es conveniente, en fin, dejar aclarado que las consideraciones precedentes no podrían, en ningún caso, llevar a la conclusión de que, en un proceso indiciario, la falta de comprobación del móvil traiga como consecuencia la exclusión de la responsabilidad del imputado en orden al hecho que se le atribuye, que bien puede emerger de los demás indicios comprobados mediante una correcta valoración de las constancias procesales (...) Diferente es la situación si el inculpado ha ofrecido una coartada falsa, es decir preordenada y mendaz, que podría ser reveladora de su mala fe, y síntoma de su intención de sustraerse a la comprobación de la verdad y a la acción de la justicia. Si bien no es suficiente para demostrar su culpabilidad, el Juez podrá darle valor indiciario, y considerarla
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+7274
+
+MARIBURANO E. NICOLAS
+MINISTERIO
+TRIBUNAL DE LO CRIMINAL N° 9
+DE 1.5 AÑOS
+
+
+---
+
+## Página 151
+
+prudentemente, junto a los demás elementos adquiridos en el proceso, en la formación de su juicio acerca de la responsabilidad penal de quien la ha aducido" (Ídem anterior, p. 112).
+
+Como corolario de la conclusión a la que he arribado, considero necesario remarcar que la actuación del acusado y su entorno –familiares, amigos y dependientes; sin perjuicio de la responsabilidad penal que pudiera o no asignársele a cada uno- ha afectado sensiblemente la averiguación de la verdad en este proceso. Así, más allá de que desde el seno familiar –como eje emblemático y central, representado por los Letrados que actuaron por la Particular Damnificada- se ha venido reclamando la culminación de este proceso para poder reabrir la investigación y dar con el responsable del homicidio de María Marta García Belsunce, lo cierto es que los elementos de prueba colectados demuestran, a mi criterio, que las pruebas, rastros y demás elementos del delito principal, fueron literalmente borrados por Carlos Alberto Carrascosa y su séquito de acompañantes habituales y circunstanciales –éstos últimos, según el caso, ya sea por connivencia o por verdadera ignorancia de los alcances de su actuación-.
+
+Del mismo modo, entiendo que ha estado de más la arenga final –por llamarla de algún modo- del Sr. Fiscal que interviniera tanto en la etapa preliminar como durante la audiencia oral.
+
+Nada tiene que ver aquí la selectividad propia del sistema penal –punto que no está en discusión y que involucra tanto a los órganos de
+
+
+---
+
+## Página 152
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIANO E. PISCOLAS
+SECRETARIO
+TRIBUNAL EN EL ORIGINAL N° 6
+SAN DIEGO
+
+administración de justicia como a los demás poderes públicos, pero que no
+juega ningún papel a esta altura del proceso-. Su apreciación meramente
+demagógica no tiene el más mínimo alcance, puesto que la tarea que nos
+toca realizar por la función que desempeñamos, consiste en evaluar el
+mérito de las pruebas producidas y traídas al debate a fin de determinar si
+el acusado es culpable o inocente de los hechos que se le han imputado –
+al margen de su situación económica y condición social-. Eso es,
+precisamente, lo que la sociedad –cuyos ojos, tal como indicara el Sr.
+Fiscal, están puestos en nuestra tarea- espera, y a lo cual nos hemos
+dedicado.
+
+Por todo lo expuesto, considero que no se encuentra acreditada la
+participación del acusado en el hecho materia de acusación principal; por
+lo que propongo votar por la NEGATIVA sobre el particular. En cuanto a la
+acusación subsidiaria, luego de haber analizado las pruebas obrantes en
+autos, he de tener por acreditada la participación de Carlos Alberto
+Carrascosa en los hechos que se describieran precedentemente, y de los
+cuales resulta su responsabilidad penal. Es por ello que doy mi voto por la
+AFIRMATIVA en cuanto a ellos, siendo ello mi sincera y razonada
+convicción (arts. 210, 367, 371 inc. 2°, 373 y cctes. del C.P.P.).
+
+A la misma cuestión, el doctor Rizzi dijo:
+
+I. Sobre el hecho del homicidio de María Marta García Belsunce.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 153
+
+Tal como lo ha hecho la señora Juez votante en primer término, no acompañaré el postulado acusatorio, basándome en las siguientes consideraciones.
+
+Estimo que la imputación formulada carece de toda fuerza convictiva, porque no ha logrado demostrar ninguno de los extremos necesarios que hubieran permitido reprochar a Carlos Alberto Carrascosa, alguna forma de participación en la muerte de su mujer.
+
+a) En primer lugar, vale la pena hacer alguna referencia a la cuestión vinculada a los motivos del delito cometido.
+
+Cierto es que analizar por qué razón una persona comete un delito, no forma parte de la acción típica, salvo en casos específicos (por ejemplo, el odio racial o religioso) que la propia ley explicita. Y también es cierto que cuando el motivo no forma parte de la exigencia típica, en principio no es necesario conocerlo y probarlo.
+
+En otras palabras, si frente a testigos, o a una cámara que lo filma, Juan clava un puñal a Pedro, no es necesario saber por qué lo hizo para reprocharle las lesiones o la muerte de Pedro. Aunque nadie pueda descubrir el móvil de tal acción, y aunque Juan se niegue a confesar las razones de su acto, si además no se sospecha o alega alguna causa de justificación, su responsabilidad penal puede ser determinada sin problemas.
+
+
+---
+
+## Página 154
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MA-ARMADO DE PRUEBAS
+SECRETARIO
+TRIBUNAL EN VIRECA MARCA 9° 9
+SAN DIEGO 9
+
+Pero es indudable que cuando no existe un cuadro probatorio de la simpleza del descripto en el párrafo anterior, determinar cuál ha sido el móvil de lo ocurrido, se convierte en una pieza fundamental de la armazón lógica que será necesaria para conformar la hipótesis acusatoria y poder establecer la autoría del hecho. Principalmente ello ocurre, cuando se carece de pruebas directas y se debe echar mano a indicios o presunciones.
+
+Tal es el caso de autos, en que pese a lo que pretende el fiscal, y repitiendo su metáfora, no sólo no tenemos la "filmación" del hecho, sino que ni siquiera sabemos con la precisión que exige un pronunciamiento condenatorio, cómo, ni cuándo, ni dónde ocurrió el suceso. Cuando se desconoce o se ignora demasiado del cómo, del cuándo, y del dónde, el por qué suele ser de gran utilidad, pero adelanto desde ya que si respecto del cómo, tenemos alguna idea (fueron seis balazos disparados, de los que cinco entraron en la cabeza, pero desconocemos quién lo hizo, con qué modalidad y con qué arma, si en el marco de una lucha o si fue una ejecución mafiosa); del dónde sabemos que probablemente fue en la planta alta de la casa, aunque no exactamente en qué ambiente; y del cuándo, que fue en el lapso de unos tres cuartos de hora transcurridos entre las 18.15 y las 19.00 aproximadamente; del móvil en cambio no tenemos la menor noticia.
+
+En su alegato final el señor fiscal hizo alusión a la existencia de una disputa, discusión o pelea que se habría producido la noche anterior a la
+
+USO OFICIAL - JURISDICCION INTERNACIONAL DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 155
+
+muerte de la víctima, en casa de la familia Bártoli. Su versión pretendió sustentarse en los dichos de los hermanos Inés y Balbino Ongay vertidos durante la audiencia, pero de su examen se verá que estas expresiones carecen de todo valor probatorio.
+
+A la pregunta indicativa del señor fiscal de sí alguien le había comentado si la noche anterior al homicidio hubo una pelea en lo de Bártoli, la testigo Inés Ongay respondió que "... Sí, la versión que tengo es sumamente indirecta ... Elsa Berger es amiga de mi hermano y yo me enteré de esto hace dos o tres semanas, cuando vine ... llegué ahora de Bariloche ... parece que hace bastante cuando fue todo esto de María Marta... le comentó a mi hermano... y ahora yo traté de preguntar, que la señora Pérez del Cerro que falleció ... es amiga de una vecina de los Bártoli que dijo que la noche antes había escuchado una pelea ... habría que investigar ... no es que yo lo escuché ... es en forma indirecta ... para mí era algo nuevo ... me dijeron que había sido una pelea entre mujeres ... a mí me lo dijo mi hermano hace dos semanas en su casa ...
+
+Efectuada la misma pregunta igualmente indicativa sobre si hubo alguna pelea en lo de Bártoli, al testigo Balbino Ongay, hermano de la anterior, este repuso, también durante la audiencia de debate, que le habían comentado "... cosas vagas ... pasaron cinco años ... no me consta nada ..." y preguntado si conocía a Elsa Berger, respondió que "...González Berger, sí ... bueno ...ella me comentó que tenía una amiga vecina de Bártoli ... y que había tenido una pelea en la casa de Bártoli ...".
+
+
+---
+
+## Página 156
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MASCULIANO S. V. V. V.
+SECRETARIO
+TRIBUNAL EN LO CRÉDITO N° 6
+SAN ISIDRO
+
+Al inquirírsele entre quiénes habría sido esa pelea, el testigo contestó: "¡Y
+idea ... no me lo comentaron a mí ... la dueña de casa se lo comentó a una
+señora, y esta se lo comentó a otra que era su amiga ... esta se murió
+hace dos años ... no tengo idea entre quienes era la pelea ..."
+
+Sobre esta base absolutamente imprecisa y dudosa, el señor fiscal
+creyó encontrar una explicación o móvil del homicidio. Al introducir el
+punto en la oportunidad de su alegato final, refirió que continuando una
+pelea del día anterior, Carrascosa en connivencia con Guillermo Bártoli e
+Irene Hurtig de Bártoli, terminó dando muerte a su mujer.
+
+Obviamente, no puede darse por seguro que esa presunta pelea o
+acalorada discusión, fue entre Irene Hurtig y su media hermana María
+Marta García Belsunce. Nada así lo acredita ni siquiera en forma remota, y
+resulta extraño, por otra parte, que el representante del ministerio público
+sólo con estos dos debilísimos testimonios, dé por configurado nada
+menos que el motivo de un homicidio. El punto además, no fue
+debidamente investigado, y si esa omisión respondió a que tardíamente
+tuvo conocimiento de la presunta disputa, le es de todas maneras
+atribuible como un defecto más de la investigación que emprendió.
+
+Pero, como vengo diciendo, nada serio puede sustentarse en esta
+prueba indirecta, de dichos de dichos, de oídas de oídas, y para colmo,
+con una de las que habría oído la versión, ya fallecida.
+
+Y entonces, aún cuando diéramos por cierto —como concesión de
+una hipótesis extraordinaria— que María Marta e Irene discutieron
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 157
+
+agriamente la noche anterior, todavía tenemos que probar que esa discusión tuvo la insólita gravedad como para preceder y provocar un homicidio entre hermanos, y que además, en forma no menos insólita, llevó a que Carrascosa se involucrara en ella tomando partido por su cuñada en contra de su mujer, sumando además al concuñado en macabra connivencia.
+
+Francamente, la posibilidad de que esto sea factible, me resulta imposible de aceptar, pues los vacíos probatorios son de tal entidad que para rellenarlos hace falta un verdadero esfuerzo imaginativo totalmente incompatible con la presunción de inocencia y con la seriedad de un pronunciamiento judicial.
+
+Porque es evidente y debemos reconocerlo, que el fiscal se dedicó con esmero a buscar el móvil homicida, pero también lo es que fracasó reiterada y rotundamente en su intento. La prueba colectada y traída al debate relativa a las vinculaciones con el cartel de Juárez, fueron desechadas por el propio representante del Ministerio Público, que la ignoró por completo en su alegato final. No obstante, al replicar a la defensa este punto, admitió llamativamente que seguía convencido de que ese era el verdadero motivo, pero que carecía de las pruebas para demostrarlo.
+
+Señalo que aún demostrando que Carrascosa fuese el jefe máximo de una red internacional de narcotraficantes, todavía hubiese faltado el móvil, pues esa pertenencia delictiva no implica por sí misma razón para
+
+
+---
+
+## Página 158
+
+7278
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+matar a su cónyuge. Debo suponer que los narcotraficantes o los que forman parte de una organización delictiva no matan automáticamente a sus mujeres, y supongo igualmente, que hay muchos delincuentes de todo tipo que son amantes esposos. Podrá ser cierto que la hermana de una de las amigas íntimas de María Marta tenía alguna oscura vinculación con la organización mexicana, pero lo decisivo, más allá de ello y de un modo u otro, es que no tenemos la menor noticia, ni el más mínimo atisbo serio, de las razones que pudieron llevar a que Carrascosa o sus presuntos cómplices resolvieran matar a María Marta García Belsunce, con lo que el proceso carece de un elemento vital para la imputación que el fiscal pretende efectuar.
+
+Por el contrario, no sólo no tenemos ninguna razón explicativa del presunto homicidio, sino que se acreditó que llevaban más de treinta años de casados y de pacífica convivencia, lo que de por sí supone la existencia de un vínculo por lo menos amistoso, siendo que se trata de personas mayores y de recursos económicos como para vivir separados. Y en abono de esta convicción tenemos los dichos de varios testigos, como la nombrada Inés Ongay, quien expresó que "...yo había estado en abril ... cuando cumplió 50 años fuimos a almorzar y Carlos la llamaba constantemente ... que le pregunté si la seguía la mafia o algo, ... me dijo que Carrascosa la había cuidado siempre mucho ... con los años estaba más maniático..."
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 159
+
+Relación MM
+
+Murray de Prilick, a su vez, preguntada sobre la relación entre los cónyuges, respondió que "...la cargábamos a María Marta le decíamos que era como la madre de él ... era como la mamá ..."
+
+Coincide con estas apreciaciones también, la testigo Aberastain de Panelo, quien dijo que la relación entre ellos era "...normal ... se llevaban muy bien ... como no tenía hijos ... muy unidos ...trabajaban juntos, eran muy compañeros..."; y Ernesto Carlos Otamendi, quien dijo "...la relación de Carrascosa con María Marta era excelente ... eran muy unidos ... además porque no tenían hijos.. se agarraban mucho uno a otro ... había mucho amor y amistad ...".
+
+Elena Caride, igualmente preguntada dijo "...creo que su matrimonio era fantástico, ... creo que María Marta era re feliz..."
+
+También Ema Benítez, ex empleada de los Carrascosa dijo que la relación entre ellos era "muy buena", y asimismo Nora Burgues de Taylor definió al matrimonio como "...el ejemplo de muchos ... una relación envidiable ... eran compañeros ... aventureros. .. una relación lindísima ... jamás los vi discutir mal ... realmente eran la envidia de muchos ... se ocupaban uno de otro ... nunca escuché discutir mal ... nunca un maltrato o una discusión de base ..."
+
+Varios otros testimonios que no vale la pena mencionar, y que no fueron refutados por ninguna otra prueba, coinciden con los anteriores, de modo que, como ya dije, carecemos de toda explicación sobre la presunta conducta homicida que se imputa.
+
+
+---
+
+## Página 160
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+b) A esto se agrega que tampoco contamos con una versión cierta de lo que efectivamente hizo Carrascosa durante el lapso en que necesariamente se produjo la muerte de su mujer.
+
+Según sus dichos y varios testimonios que no han sido puestos en duda, él estuvo en lo de Bártoli mirando el partido de fútbol entre Boca y River, que como se ha acreditado con el informe de la AFA de fs. 194, finalizó a las 18:07 horas. Esto no está controvertido, en mi criterio, pues como se dijo, está abonado por varios testigos, como Viviana Binello, Diego Piazza y su novia. Lo que sí admite discusión, es qué hizo Carrascosa luego de que, terminado el evento deportivo de River y Boca, se retirara la víctima.
+
+Que María Marta se retiró de lo de Bártoli tampoco está discutido pues ello está corroborado por los jóvenes Santiago Asorey y Marcelo Cristiani que la vieron pasar en bicicleta, cuando ellos a su vez retornaban a sus casas apenas finalizado el partido. Remito a este respecto, a las referencias efectuadas en el voto anterior.
+
+Pero en otro orden de cosas, para quien me precede en el voto, es indiscutible que Carrascosa no permaneció en lo de Bártoli, hasta el primer gol producido en el partido siguiente, entre Independiente y Rosario Central, -que según el mismo informe de la AFA ocurrió a las 18.47- sino que luego de terminado el juego anterior, se retiró de la casa y se dirigió al bar del Club House donde tomó café y departió con la encargada de la concesión, señora Alba Benítez, y con el mozo Oberndorfer.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+7279
+
+MAYOR DE F. NICOLAS
+TRIBUNAL GENERAL N° 5
+
+
+---
+
+## Página 161
+
+Los testimonios de estas dos personas -a cuyo análisis ya efectuado me remito- revisten sin duda una alta probabilidad de que sean veraces. Sin embargo, Carrascosa niega el episodio, e insiste en que hubo una confusión entre los nombrados, pues ese día no estuvo en ese lugar, sino que luego del primer gol de Independiente, se retiró a su casa cerca de las siete de la tarde, pasando por lo de Taylor sin detenerse, y encontrándose al llegar con el vigilador Ortiz que le solicitó autorización para el ingreso de la masajista Michelini, quien se encontraba esperando en la entrada del condominio.
+
+La tesis acusatoria, sostiene que luego de tomar el café en el Club House, Carrascosa se dirigió a su casa, donde mató o colaboró en la muerte de su mujer, comenzando luego a limpiar el escenario. En su actividad homicida, debió también preparar la bañera, y si ya lo estaba, introducir allí a la víctima. Pero ocurre que según los dichos de Michelini, en su declaración a tenor del art. 308 C.P.P.(IL n°175) al ingresar al Carmel ese día, luego de que la guardia consultara telefónicamente a la casa de Carrascosa sin éxito, se le acercan y le preguntan cuántos vehículos tenía la familia pues había uno solo estacionado, a lo que la masajista respondió que dos, por lo que debe deducirse que no estaba el de Carrascosa, ya que según las manifestaciones de la masajista, cuando ella arriba por fin a la vivienda, observó que debajo del vehículo de María Marta el suelo estaba seco, prueba de que era el que estaba estacionado al producirse la consulta del guardia, aquél día de lluvia.
+
+
+---
+
+## Página 162
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+7280
+
+MAXIMILIAN DE MASCULAS
+DE LA REPÚBLICA
+TRIBUNAL ESTATAL Y DE
+SACRAMENTO
+
+Entonces, si por lo menos al tiempo de llegar Michelini a Carmel -
+entre las 18.55 y las 19.00- la camioneta de Carrascosa no estaba en su
+casa, mantener la hipótesis de que el viudo estuvo antes participando del
+homicidio, obliga a que luego de dar muerte a María Marta, introducirla en
+la bañera, y limpiar u ordenar la escena, debió salir de la casa a pie y
+volver con su vehículo, teatralizando un arribo a su domicilio al momento
+en que Ortiz se para frente a la vivienda en búsqueda de alguien que
+pueda autorizar el acceso de la masajista.
+
+Mientras tanto, y continuando el análisis de la hipótesis de la
+acusación, ¿dónde están Bártoli y su mujer? Contrariamente a lo que
+sostiene el fiscal ¿llegan, engañados por el viudo, luego de las 19.00
+horas, ante la noticia de que ocurrió un accidente? O como pretende
+Molina Pico ¿están escondidos en la vivienda como cómplices?. ¿Y dónde
+están también sus respectivos vehículos? Téngase en cuenta que Diego
+Piazza afirmó en la audiencia que "...estaba en mi casa con mi novia y
+vino Irene con su auto diciéndome ... me dio a entender que le había
+pasado algo, o un accidente o se golpeó .. María Marta necesitaba
+ayuda..." O sea, Si sus autos no estaban en casa de Carrascosa al
+momento en que el guardia de la entrada pregunta a Michelini por los
+vehículos, también debieron salir subrepticiamente a pie a buscarlos, para
+cumplir su actuación en la teatralización de la sorpresa. ¿O los autos
+fueron ocultados en algún jardín?; ¿o efectivamente no estaban ni los
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 163
+
+Bártoli ni sus vehículos y fueron llamados por Carrascosa luego de descubierto el cuerpo?
+
+La respuesta a todos estos interrogantes puede ser muy variada, pero todas ellas se basan en especulaciones sin sustento objetivo ni lógico que pueda hacer prevalecer a unas sobre otras. Lo único real es que es altamente improbable que semejante tránsito de gente y ocultamiento de vehículos se hubiera efectuado sin que nadie los hubiera visto, pues los guardias transitaban por el lugar. Si algo se nota fácilmente en un barrio cerrado del tamaño de Carmel, es el movimiento de un automotor, y más aún, de varios automotores. Pero además también podemos aceptar como posible la versión del viudo, en cuanto a que llegó viniendo de lo de Taylor, alrededor de las 18.55, siendo recibido por Ortiz y autorizando el ingreso de Michelini. Por último, también pudo haber estado en el Club House, y haberse demorado hasta esa misma hora de arribo a su domicilio, en que se encontró con Ortiz, pues no tenemos posibilidad de saber con exactitud cuánto tiempo y hasta qué hora, habría permanecido en el bar con Alba Benítez, y ésta no brindo con seguridad precisiones horarias.
+
+Es decir, se pueden dar perfectamente todas las hipótesis, con lo que en realidad, no podemos aceptar a ninguna de ellas como la cierta. Y en cuanto a su permanencia o no en el Club House, aún compartiendo la convicción acusatoria de que sí estuvo y en consecuencia miente, no alcanza ello a configurar prueba de su participación homicida, pues aunque sea inexplicable su actitud de faltar a la verdad, su presencia con
+
+
+---
+
+## Página 164
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+Alba Benítez en el bar se transforma en una evidencia fuera del contexto del crimen, pues suprimida o aceptada hipotéticamente, a nada conducen en forma objetiva e indiscutible.
+
+Pues no puedo compartir la idea de quien me precede en el voto, de que tejió junto a Guillermo Bártoli una estratagema conjunta para apartarse del lugar de los hechos en momentos en que estos ocurrían.
+
+Y lo pienso así, en primer lugar porque Bártoli no necesita ninguna coartada. Los dichos de su mucama son a mi juicio definitivamente imprecisos como para sostener que él no estaba en su casa en los momentos críticos del crimen, y no existe otra prueba seria que lo sitúe fuera de su domicilio, antes de que su voz sea detectada detrás de la llamada telefónica a OSDE, de las 19:07:58.
+
+Algo similar ocurre, desde mi punto de vista, con la apreciación formulada por la señora Juez que me precede en el voto, respecto de la presencia o no de Michelini al momento en que Carrascosa hace el llamado ya mentado.
+
+El cálculo de tiempo efectuado por mi colega y por el señor fiscal de la causa tiene innegables visos de realidad. Pero basta que exista un error de pocos minutos en la máquina filmadora del ingreso vehicular, para echar por tierra a toda la aritmética temporal en que ambos se han introducido. Si a ello se agrega la misma referencia a la falta de vehículos en el estacionamiento, constatada por el guardia y relatada por Michelini, se introduce otro elemento de duda sobre la secuencia de los hechos.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+7281
+
+MAXIMILIAN DE HICOLAS
+BALDONDO
+TRIBUNAL DE LA COMERCIAL N° 8
+SABR. 1997
+
+
+---
+
+## Página 165
+
+De todas maneras, si por ejemplo Michelini arribó al Carmel a las 18.55, y le autorizaron el paso tres minutos después, llegó a las 19.04 (seis minutos de recorrido) a la vivienda del imputado, tardó hasta las 19.05 en ser alertada por Carrascosa de lo ocurrido, subió corriendo y a las 19.06 está el imputado llamando a lo de Bártoli, quien llega en dos minutos o sea las 19.08 o durante la llamada de 19.07 a Emernort, que comienza dos segundos antes de las 19:08. Su mujer llega detrás de él o luego de que la comunicación finalizó. Obsérvese, por lo demás, que esto es en la hipótesis de que Michelini arribó efectivamente, sólo minutos antes que los 18.59, hora que marca la filmadora y que no sabemos si coincide con la hora de las llamadas telefónicas. Apunto solamente, que la experiencia enseña que es mucho más que dos relojes no coincidan, que que sí lo hagan.
+
+Pero al igual que en el caso de la dudosa presencia de Carrascosa en el Club House, aún aceptando que no es Michelini quien está allí presente durante la llamada a la empresa de emergencias médicas, ¿cuál es la vinculación de esta evidencia con el homicidio?
+
+Cierto que en esta hipótesis se habría configurado una nueva mentira. Pero sigo sin entender –y el fiscal no ha logrado explicarlo- a qué conclusión certera puede llevarnos. Suponer que la circunstancia de que los Bártoli se hallaban ocultos sólo unos minutos antes de que efectivamente llegue Michelini, es demostrativa de la responsabilidad penal de Carrascosa, pues hace caer su coartada como sostiene Molina
+
+
+---
+
+## Página 166
+
+7282
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MINISTERIO DE HACIENDA
+DE PREVENCIÓN
+TRIBUNAL DE COMUNICACIÓN N° 6
+SANTIAGO
+
+Pico, no tiene sentido, si se advierte que parte del tiempo durante el cual debieron participar en el homicidio y del ocultamiento de las pruebas estuvieron tanto él como Irene Hurtig y su marido yendo y viniendo de las casas buscando sus respectivos automóviles.
+
+Y esto lo afirmo en la convicción de que la versión de que Ortiz también forma parte del entuerto es inaceptable en orden a las razones expuestas por la doctora Etcheverry, a las que agrego que es absurdo pensar que haya formado parte de un plan previo, o que se haya decidido incorporarlo al plan en ese momento, sumado todo a que es ilógico sostener que al mismo tiempo que desde lo de Carrascosa pedían una ambulancia a la Guardia, mandaban desde la misma Guardia a verificar si había alguien que autorizara el ingreso de Michelini.
+
+Así, semejante tránsito de gente debió haber sido visto por más de uno, y es impensable que en la trama previa del homicidio –que necesariamente debió entonces existir- hayan ideado movimientos vehiculares de tal magnitud con el riesgo que ello implica, justo antes de la llegada de la masajista.
+
+En estas condiciones, no puedo solventar la postura acusatoria de la fiscalía, que por otra parte, no brinda ninguna referencia o explicación a la comprobada existencia de la participación de al menos otras dos personas más, según la conclusión resultante de los análisis de ADN, que tanto bullicio introdujeron en la causa y que tan silenciados fueron en los alegatos.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+
+---
+
+## Página 167
+
+Tendríamos entonces que al tránsito de vehículos y personas se suma el de otros dos ignotos personajes que también debieron ingresar y salir de la casa, para colmo presuntamente lastimados y sangrando. Claro que por ejemplo, pudieron estar ocultos en el baúl de alguno de los autos, o podría pensarse en que luego del homicidio, Carrascosa salió con su camioneta con estos dos o más cómplices desconocidos, para facilitarles la fuga, y retornó luego para encontrarse con Ortiz. Efectivamente, ello pudo haber ocurrido, ¿pero puedo sostener esta nueva posibilidad hasta ahora nunca siquiera esbozada, y carente de toda prueba?
+
+Si algo tuvo esta causa, es la manipulación de variadísimas hipótesis de lo sucedido, fomentadas algunas por la propia Fiscalía, y muchas otras por los medios y el imaginario popular. Estoy seguro que también podríamos agregar otras posibilidades tan solo imaginándolas sobre las sospechas que también solventan la defensa y la representación de la particular damnificada. Podríamos decir, por ejemplo, que Carrascosa salió luego del partido de Boca-River, tras su mujer, la mató en su casa, y de ahí se retiró a tomar el limoncello, para llegar luego sobre las siete de la tarde, siendo visto por Ortiz. Se responderá a esto que entonces no tiene sentido que Bártoli diga que estuvo con él viendo el partido siguiente. Pero esto es lo emblemático de esta causa: todas las versiones tienen visos de realidad y todas tienen bemoles que las hacen en definitiva, dudosas, como ocurre también con la tesis de la posible culpabilidad de Nicolás Pacheco. Claro que también pudo haber sido este
+
+
+---
+
+## Página 168
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN PATRICOLAS
+
+TRIBUNAL DE COMERCIO N° 5
+
+SAN ISLA
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+joven y problemático vecino, que entraba a las propiedades a robar y que tuvo problemas con María Marta por un perro y motivos para odiarla; pero resulta extraño que si lo hizo, se detenga a sumergirla en la bañera o a limpiar el lugar. Pudo haber sido el voraz Ortiz, que solía ingresar a las casas a robar comida, o desconocidos habitantes de villas de emergencia, de los que siempre se echa mano para buscar un culpable. Y ¿por qué no? María Marta también pudo haber sido víctima de una ejecución mafiosa, y murió arrodillada junto a la bañera, salpicando con su sangre el piso entre los artefactos del baño. Y así pueden sucederse una tras otra las distintas versiones, pero lo que queda reinando, en forma indiscutible es la duda y nada más que la duda.
+
+Desgraciadamente, la verdad no se ha mostrado en este lamentable hecho, y durante el tiempo que pudo ser descubierta, se filtró por los vericuetos de una errada actividad investigativa.
+
+No puede entonces, pretenderse a esta altura, que se acompañen nuevas y caprichosas explicaciones. No ignoro que si de un peritaje sonoro se determinase que la voz femenina que se oye bajo la comunicación de Carrascosa con la empresa de emergencias, corresponde efectivamente a Irene Hurtig, la versión de la fiscalía podría verse robustecida. Pero la realidad es que el veredicto debe dictarse ahora, y ese peritaje no existe, no fue procurado por la Fiscalía y consecuentemente no ha sido ordenado y ni siquiera sabemos si se realizará algún día. Pero si se realizara, también podría ocurrir que se
+
+A-1
+
+
+---
+
+## Página 169
+
+determine que la voz no es de Hurtig sino de Michelini. Ante esta posibilidad, tan indiscutible como la anterior, parece obvio cuál es la postura que debemos adoptar los jueces, frente al inevitable principio del in dubio pro reo.
+
+Por último, entiendo que resulta un poderoso factor de hesitación sobre la responsabilidad homicida del imputado, la confianza en su inocencia demostrada por su familia política. No puedo presumir, bajo ningún concepto, que estemos ante un grupo familiar perverso y de condiciones patológicas, que conociendo la más mínima razón para sospechar del viudo, adopte una posición de torva e injusta protección de un delincuente en perjuicio de la víctima. No hay ninguna prueba de que quienes conocen a Carrascosa desde que se vinculó a María Marta, alberguen y oculten algún motivo o circunstancia que pueda resultar develadora de su responsabilidad penal. Entonces, si quienes mejor conocían a los dos principales protagonistas de este drama, han actuado al unísono durante estos años, manteniendo un discurso coherente y sin demostrar la menor fisura en sus relaciones entre sí y con el imputado, ello no puede responder a un plan maligno y ficticio, sino que refleja una realidad de armonía familiar que debe ser tenida en cuenta al momento de analizar la autoría y responsabilidad de un hombre, en un hecho de tanta gravedad. Podrá argumentarse que Carrascosa engañó a todos, y se ha alzado malignamente con la buena voluntad de sus parientes políticos, a quienes en definitiva involucró y utilizó en su defensa. Pero otra vez, no
+
+
+---
+
+## Página 170
+
+PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+contamos en sustento de esta idea con ninguna prueba coherente y definitoria.
+
+Por ello, sin perjuicio de los aspectos en que me diferencio de las valoraciones que efectúa quien me precede en el voto, acompañando el resto de sus razones y con las nuevas que he aportado, coincidiré, por aplicación del beneficio de la duda, en dar respuesta negativa a esta segunda cuestión, en lo que respecta a la presunta autoría de Carlos Alberto Carrascosa en la muerte de su mujer, María Marta García Belsunce.
+
+## II. Sobre el encubrimiento
+
+Adelanto desde ya, que llegaré igualmente a una respuesta negativa respecto de la responsabilidad penal de Carrascosa en cuanto a esta segunda hipótesis acusatoria.
+
+Para comprender mejor mi posición, creo conveniente ir desgranando las presuntas conductas encubridoras que se le atribuyen al imputado, a través de la que es mi interpretación de los hechos, partiendo de la base de que se ha resuelto negativamente la autoría o cualquier forma de participación del imputado en el homicidio de su mujer.
+
+Hemos descartado que pueda imputarse a Carrascosa la acción homicida. Y aunque ello fue por imperio de la duda, debemos ahora sustraer la idea que se pueda albergar sobre su verdadera responsabilidad en el crimen, y, como dije, partir de la base de su inocencia en este hecho originario. Cuando el segundo hecho sobre el que se debate la
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+7284
+
+MARIBURRO E. NIGELAS
+SECRETARIO
+TRIBUNAL DE LA CRIMINAL N° 6
+SANTIAGO
+
+
+---
+
+## Página 171
+
+responsabilidad penal de un procesado, es un encubrimiento del primero, es difícil separarse mentalmente de la participación en el delito originario. Sin embargo, los jueces debemos tener la capacidad para que, cerrados mentalmente a la culpabilidad del hecho principal, tratemos el accesorio en forma verdaderamente independiente de aquél.
+
+Así, introducido ya en la cuestión de los actos encubridores, comienzo por descartar que efectivamente Carrascosa haya encontrado a su mujer dentro de la bañera, pues nada confirma esa circunstancia, y lo sitúo entonces en su primer conducta probada, cuando es visto por Michelini asomándose por la ventana de la antesala, mientras ella se encuentra abajo junto a su automóvil. Allí Carrascosa le advirtió que no baje nada, que María Marta había tenido un accidente$^{12}$. Si bien había gran cantidad de sangre entre el bidet y el inodoro, lo que podría hacer presumir que fue allí donde se produjo el homicidio, ninguna certeza tenemos de que efectivamente así haya sido, por lo que tampoco puedo sostener, como se hace en el voto anterior, que fue él quien introdujo a su mujer en la bañera para disimular de alguna manera lo ocurrido.
+
+Michelini dijo que al subir rápidamente a la planta alta de la casa, vio al acusado junto a la víctima, “... recostados sobre el lado izquierdo, con los pies en dirección hacia las ventanas del dormitorio, que le acariciaba el pelo a María Marta ...”. Esta parece ser la única referencia
+
+
+---
+
+## Página 172
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAJOR DE TOBE NICOLAS
+DE LA PAZ
+TRIBUNAL DE LA ORIGINAL N° 5
+2000-2012
+
+concreta de que Carrascosa tocó la cabeza de su mujer, y de que estuvo
+solo con ella antes de la llegada de los médicos. Todo lo demás no son
+siquiera presunciones, sino meras suposiciones de las que no creo que
+pueda deducirse o que permita pensar que Carrascosa debió darse cuenta
+que María Marta había sido asesinada, y menos que su muerte se había
+producido a tiros, pese a la existencia de las manchas de sangre.
+
+El testigo Biasi, a quien la acusación y también la señora Juez que
+votó precedentemente conceden una credibilidad que no puedo compartir,
+atribuyendo a sus manifestaciones del 11 de noviembre de 2002, el origen
+de la investigación, refirió un cuadro que llamó dantesco, con olor a
+lavandina producto de la limpieza, que debió ser parcial pues relata
+también que había sangre por todos lados, hasta sobre los sillones, y en la
+cara de la víctima, quien tenía según él, una "facie espantosa". Dijo que
+pudo introducir los dados en los orificios de su cráneo, y que además
+había pérdida de masa encefálica.
+
+Este escenario trágico, es una de las razones por las que se supone
+que Carrascosa no podía formarse la idea de un accidente, por lo que en
+consecuencia, dadas las características del hecho, debió por sí mismo dar
+urgente aviso a la autoridad, tal como se le reprocha en el voto anterior.
+
+Pero vayamos por partes, tratando los diferentes escalones de este
+aspecto de la acción encubridora que se imputa.
+
+12 Declaración de Beatriz Magdalena Michelini a tenor del art. 308, fs. 1088/1095, IPP
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 173
+
+La presencia en el lugar de masa encefálica fue esgrimido como una de las razones que razonablemente debió descartar la idea de un golpe accidental. Al respecto, es necesario hacer las siguientes precisiones. Se refieren concretamente a ella por haberla visto, los médicos Biasi, como ya advertí, Gauvry Gordon y el chofer del primero, Cachi.
+
+El testigo Biasi dijo en la audiencia que la víctima "...tenía una fractura, un hundimiento, una desaparición de esa zona ..el hueso, el cuero cabelludo, la masa encefálica..." y en el informe que supuestamente confeccionó, también menciona la pérdida de masa encefálica, en tanto que Gauvry Gordon¹³ en su declaración manifestó que "...había fractura de cráneo con pérdida de masa encefálica, el cual consta en mi historia clínica y en mi informe que le doy a Paramedic y Paramedic le da a OSDE...". Más adelante, este mismo profesional expuso que "...yo avisé el diagnóstico final que es óbito por traumatismo de cráneo con fractura de cráneo y pérdida de masa encefálica, convencidísimo que había sido un accidente domiciliario..." y continuó afirmando "... me encuentro con un señor que se identificó como médico al cual también le entrego guantes para que vaya y vea de lo que para mí había pasado. Le expliqué a este señor que había fractura de cráneo con pérdida de masa encefálica, a
+
+19.279, IL 175.
+
+¹³ Declaración a tenor del art. 308 C.P.P., del 17 de enero de 2003, IL 167., fs. 782.
+
+
+---
+
+## Página 174
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+todas las personas con las que hablé les dije que había fractura de cráneo de forma digitoforme con pérdida de masa encefálica..."
+
+Cachi, por su parte, también refirió ante el Tribunal haber visto un tejido "como una pasta", y dijo en la audiencia "...me pareció algo extraño ... yo vi algo blancuzco me llamó la atención y le pregunté a Gauvry Gordon y miró y dijo masa encefálica ..."
+
+Por su parte, los testigos Piazza, y Beltrán sólo hacen referencias a los dichos de los anteriores, sin haberla visto. Piazza manifestó que preguntó a los médicos si habían podido revisar a la víctima y le contestaron que tenía tres agujeros en la cabeza, con fractura de cráneo y pérdida de masa encefálica, agregando más adelante, que eso le llamó la atención, pues semejante lesión debía relacionarse, por ejemplo, con la caída desde un quinto piso. Sin embargo, en toda su declaración Piazza no manifestó haber visto la masa encefálica ni tampoco los agujeros. Anteriormente, además, explicó que el aspecto de María Marta le hizo pensar que "tuvo un accidente". Si consideramos que Piazza llegó antes que los médicos, y estuvo junto con Michelini en las primeras tareas de intentar recuperar a la víctima, y no la vio, es dable suponer que esta no era en gran cantidad o manifiestamente visible.
+
+Beltrán, por su parte, a la pregunta indicativa de la Fiscalía, sobre si vio masa encefálica en algún lugar, respondió que "...no, porque yo no llegué a detenerme a mirar cuando el doctor Gordon mencionó que había
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+7280
+
+MARÍA MARÍA NICOLÁS
+TRIBUNAL DE JUSTICIA
+SAN DIEGO
+
+
+---
+
+## Página 175
+
+encontrado el traumatismo ... no vi otra cosa más que sangre, color rojo
+...no vi si había masa encefálica ... no vi otra cosa más que sangre ..."
+
+Por lo demás, Michelini de activa participación en la inútil
+reanimación, tampoco transmite la presencia de esta clase de tejido, y sólo
+se refiere a la sangre.
+
+De tal modo, si los tres que vieron la masa encefálica no les quedó
+claro que fuera un homicidio, y tan solo se mostraron extrañados por las
+particularidades de un accidente raro, pero accidente al fin, no hay
+suficientes elementos como para atribuir a Carrascosa que él sí debió
+darse cuenta de algo distinto, salvo que estemos presumiendo que es el
+homicida, lo que como hemos visto, debemos descartar.
+
+Retomando el relato, a estar a los dichos de Michelini que en mi
+criterio son merecedores de confianza, antes de la llegada de los médicos
+se produjeron varios llamados telefónicos durante los cuales, habiéndose
+descartado el homicidio, ya no nos importa si estuvo o no Irene Hurtig,
+porque esa presencia, como veremos, no tiene ninguna funcionalidad con
+las acciones de encubrimiento. Si Irene participó del encubrimiento o
+ayudó a Carrascosa en ello, lo mismo da que lo haya hecho desde el
+momento en que se produjo la famosa llamada a OSDE o unos minutos
+después. De hecho, lo único que interesa es que llegaron y estuvieron en
+el escenario que describimos, poco antes que arribara el joven Diego
+Piazza, justamente llamado por Irene Hurtig, lo que no se condice, apunto,
+con una actitud encubridora ni con la participación en la instalación de una
+
+
+---
+
+## Página 176
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+idea falsa sobre lo ocurrido. Sin duda, era más fácil esperar a la ambulancia. Tampoco parece lógico llamar a la guardia insistiendo para que venga otra ambulancia si lo que se quiere es ocultar el suceso.
+
+Se produjo a continuación la llegada de las ambulancias. Lo hizo en primer lugar la que traía al doctor Gauvry Gordon y al camilero Beltrán, ya mencionados, que reemplazaron a Piazza, Bártoli y Michelini en las tareas de reanimación. Mientras tanto, Carrascosa subía y bajaba, o estaba allí presente observando y llamando nuevamente a la empresa de emergencias y a otros allegados. La reanimación continuaba en forma febril, sin ningún éxito, pasando a segundo plano la actuación de los otros protagonistas. Bártoli y Michelini bajaron, Piazza se retiró, y Carrascosa aparentemente también bajó, mientras se producía el arribo del matrimonio Binello, Michael Taylor y más tarde su mujer, Nora Burgues de Taylor. Luego llegó la segunda ambulancia y subieron Biasi y su chofer, Cachi, que colaboran prestando equipo hasta que finalmente, frente al fracaso de todas las tentativas, se dio por muerta a la víctima.
+
+Entre los médicos observaron lo ocurrido. Las constancias de que Biasi examinó a la víctima sólo lo tienen a él como referente y fue radicalmente desmentido, como ya lo adelanté, principalmente por su propio colaborador, Cachi, quien incluso en el careo, con mucha más serenidad que su interlocutor, que estaba visiblemente nervioso y acalorado, se mantuvo firmemente en su posición, en cuanto a que no sintió olor lavandina, que no vio que Biasi examinara el cadáver, aunque
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+MÁXIMA 1000 NICOLAS
+TRIBUNAL DE JUSTICIA
+CÁMARA
+
+
+---
+
+## Página 177
+
+aquel pretendía que estuvo un tiempo separado de él, y que no le dio ninguna directiva de que se comunicara con la policía, pues de hacerlo, la hubiera cumplido.
+
+Como expliqué en la respuesta a la primera cuestión, no hay motivos para que el chofer Cachi falte a la verdad. En cambio, el doctor Biasi intenta justificar su probado acompañamiento e indiferencia a las tareas de limpieza, y su negligencia en la revisación de la víctima, en la falsa afirmación de que ordenó pasar el código de llamado policial, pretendiendo que ya se estaba configurando un cuadro general de ocultamiento, del que él pasaría a ser también una víctima.
+
+En realidad, como dije, tanto él como los otros médicos, más los operadores, los choferes y algún vigilador, y hasta el estudiante de medicina Piazza, o sea todos los protagonistas de estos primeros momentos de los sucesos, pudieron tener alguna sospecha, algún atisbo de impulso de comunicarse con la policía, pero nadie lo hizo efectivamente. Y la razón, vuelvo a reiterarla, es que si bien dudaban de la forma, de la mecánica, de la secuencia del accidente, no pensaban en otra cosa que en un hecho de la fatalidad.
+
+Así no hubo inspiración ni se concibió maliciosamente ninguna idea falsa a sabiendas de su falsedad. Aún admitiendo que Carrascosa fuese quien "indujo" la idea a sus familiares y a los demás, tal como lo expresa el testigo White refiriendo sus dichos en una reunión, esa inducción la hizo
+
+
+---
+
+## Página 178
+
+7288
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+SECRETARIO E NICOLAS
+SECRETARIO
+TRIBUNAL DE PERSONALES
+SERVICIO
+
+errado también él, convencido, como también lo dijo White, de un accidente.
+
+De los dichos de los otros participantes, nadie refiere la menor sospecha de delito. En todas las declaraciones de los protagonistas de esta etapa de los sucesos, no se ha recogido que alguien pensara en un homicidio, y menos que alguien haya pensado que este delito hubiera sido cometido mediando disparos de armas de fuego. Biasi, que impresiono como un testigo sumamente hostil al imputado, y claramente interesado en salvar su propia responsabilidad, ni siquiera transmitió claramente durante la larga audiencia, la idea de un homicidio, ni aún cuando describió enfáticamente la introducción de sus dedos en los agujeros. Si no me falla la memoria no mencionó tampoco la palabra homicidio. Este médico, no hizo alusión asimismo a que haya advertido a alguien que se estaba frente a un homicidio. Todo se limita a dudar del mecanismo del golpe contra los grifos o sus componentes, a dudar de resbalones, golpes contra vigas, y ahogamientos, pero nada va más allá de la greencia en un hecho desgraciado producto de la fatalidad.
+
+Por su parte, el médico Gauvry Gordon, al declarar, cuenta cómo se asomó al baño tratando de explicarse el accidente, y cuando el testigo Cachi, chofer de Biasi refiere que escuchó que se habló de dar aviso a la policía con el propio Carrascosa, no lo dice en términos de sospecha de homicidio, pues como bombero que dijo ser, sabe que aún en caso de muerte accidental es necesaria la intervención policial. En efecto, en esa
+
+
+---
+
+## Página 179
+
+ocasión este testigo manifestó que "...lo llamaron al señor Carrascosa y le dijeron ...bueno, que en ese caso tenía que llamar a la policía ..." Es interesante resaltar, que Cachi aclaró sus dichos más adelante durante la audiencia y también en el careo, explicando que el que hicieron era un servicio más, o sea, en el marco de una muerte accidental. Y ello se deduce de la siguiente respuesta a preguntas concretas que se le formularon ante la visceral desmentida que hace a Biasi, en cuanto este nada le dijo de comunicarse con la policía: "...no se pasó el código azul... no, porque no había nada que pensábamos que era algo ... al menos yo lo que interpreté ... porque el facultativo cuando ve algo raro en seguida llama y dicen llamá a la policía ... era un servicio normal común y corriente..."
+
+En similares términos se expresa el chofer de Gauvry Gordon, Beltrán. Ninguno refiere nada, en definitiva, sobre un presunto homicidio. Ni siquiera Piazza, a quien le parece imposible que semejantes lesiones se produzcan en un golpe contra los grifos o la bañadera, habla de que sospechó un homicidio.
+
+Entonces, una cosa es sospechar que el accidente ocurrió de cierta manera, y otra que efectivamente hubo una muerte violenta de otra clase. La realidad es que los médicos se retiran sorprendidos, extrañados, pero de ninguna manera convencidos de que estaban frente a un delito. Ni siquiera Biasi. En todo caso, tan solo se pensó en la intervención policial, como necesaria en cualquier accidente, y por las dudas.
+
+
+---
+
+## Página 180
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+A este cuadro se agregan los dichos de los médicos que practicaron la autopsia de María Marta García Belsunce, Carlos Alejandro Flores y Héctor Horacio Moreira. En vez de oírlos personalmente, debimos echar mano de sus declaraciones, que integran la causa n° 2060 del Tribunal en lo Criminal N° 2 de la Capital Federal, que fuera incorporada por lectura, y en la que se investigó el tema del certificado de defunción falso, ya que insólitamente, en un proceso de minuciosidad probatoria en gran parte inútil, no fueron citados a la audiencia de debate.
+
+Pues bien, el primero de ellos manifestó que luego de revisar el cráneo de la víctima, el desprendimiento del pelo permitió ver seis orificios "...Que esos orificios dado el tiempo de fallecido en un primer momento se pensó que habían sido producidos por elemento contuso punzante..." Continuó explicando que al abrirse el cuero cabelludo observaron que existía una fractura con hundimiento de cráneo y que al aserrar posteriormente la calota y proceder al colado y lavado de la masa encefálica se observó la existencia dentro de la misma de cinco proyectiles de plomo desnudo, concluyendo a raíz de ello que la muerte se había producido por disparos de arma de fuego. Y agregó "... aclara que se arriba a esta conclusión recién luego de hacer este procedimiento, ya que, con anterioridad y como dijera las lesiones no hacían sospechar el ser producto de un arma de fuego. A nuevas preguntas reitera que antes de pasar la mano por la cabeza y mientras hicieron la inspección ocular no habían advertido nada..." y finalizó diciendo que no encontró pegamento.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+7289
+
+MAXIMILIAN DE LUCAS
+SECRETARÍA
+TRIBUNAL DE LA CRIMINAL N° 2
+SIR ALVADO
+
+
+---
+
+## Página 181
+
+Por su parte, el doctor Moreira, explicó que "...al examinar la cabeza todavía con el cabello notaron la presencia de los hematomas pero no las lesiones contuso punzantes que describieron en primera instancia y que luego resultaron ser contuso perforantes. Aclara que para ese entonces ya le habían dicho que la víctima había sufrido lesiones en la cabeza..." Siguió diciendo que a simple vista sólo se veían las lesiones contusas cerradas, "... es decir que no observó hasta ese momento lesiones producidas por arma de fuego...". Explicó también que desprendido el pelo, vieron con dificultad lo que les pareció cuatro lesiones contuso punzante, es decir, hasta ahí no hablaban de penetrante ni perforante. Agregó que no detectó la presencia de pegamentos y que aún luego de utilizar una pinza o una tijera para separar los bordes de los orificios, tampoco detectó características que indicaran que los orificios hayan sido causados por un proyectil. Continuó manifestando que aún cuando observaron la fractura en el cráneo con lesión contuso perforante no podían decir con certeza que habían sido provocadas por un proyectil, y que recién al encontrar en la calota una marca pensaron en el rebote de una bala y al licuar el cerebro hallaron los cinco proyectiles.
+
+A otras preguntas, respondió que "... la persona común no médico, pudo no haberse dado cuenta tranquilamente que esas lesiones eran productos de disparos de armas de fuego. En cuanto a un médico no especializado en prácticas forenses también pudo no haberse dado cuenta que eran heridas producidas por proyectiles... Aclara que con el solo
+
+
+---
+
+## Página 182
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+MAXIMILIAN DE NICOLAS
+SECRETARIO
+REGIONAL EN LA ORIGINAL N° 8
+CAYIN 2010
+
+tocamiento o deslizamiento sobre el pelo no se podría haber detectado esa fractura..." Y preguntado si un médico no especializado luego no detectar las heridas y el hundimiento de cráneo debía deducir que eran consecuencia de proyectil de arma de fuego, respondió que "de ninguna manera, nosotros recién nos dimos cuenta después que realizamos la autopsia...".
+
+Antes estas contundentes referencias, ¿por qué entonces, debemos pensar que Carrascosa debía tener la convicción de que eso era más que accidente? Si médicos expertos, sin sangre y sin las limitaciones que cualquier persona normal tiene para tocar un herido, ni siquiera se percataron de lo ocurrido al desprender el pelo e introducir no los dedos sino una pinza en los orificios, ¿cómo es posible pretender que el marido de la víctima, en medio de la tensión reinante, debió comprender más rápidamente que cualquier experto que actúa en forma indiferente, que estaba ante algo distinto que una fatalidad?
+
+Recordemos nuevamente que estamos razonando a partir de la idea de que él no es el homicida. Aún cuando hayamos llegado a liberarlo de esta responsabilidad por aplicación del principio beneficiante que emana de la duda, no podemos razonar de otra manera. Y entonces, debemos concluir en que toda su actuación en estos primeros momentos, su presencia junto al cadáver es por demás imprecisa. El fiscal no pudo probar que Carrascosa lo examinara, lo revisara, lo vistiera, o hiciera algo
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+
+---
+
+## Página 183
+
+con el cuerpo de la que había sido su mujer, que permita sostener que sabía lo que había ocurrido, o que debía sospechar de algo distinto.
+
+Ya descartamos también que le haya puesto él o mandado poner algún pegamento en las heridas. ¿Por qué pensamos entonces en que debía saber que era un homicidio, y aún más absurdo, querer ocultarlo?
+
+Participar o difundir la idea del accidente, aun cuando se haga en forma apresurada, no implica un acto reprochable, si no se prueba que lo hizo en la certeza de que con ello ocultaba algo o perjudicaba el accionar de la justicia.
+
+Téngase en cuenta que cuando se pregunta a Gauvry Gordon (fs. 785 de su declaración) "... si la versión del accidente le fue sugerida, comentada o dicha por alguien o surgió en su interior dijo: no, la persona que me ayudó, aparentemente la masajista, me dijo que el marido la había encontrado adentro de la bañadera y que había tenido un accidente en la misma...que aparentemente el marido la había sacado y que ella le había hecho masajes cardíacos ... a lo que yo también interpreté que se había golpeado y se había ahogado..."
+
+Esto coincide con las manifestaciones de Michelini quien como vimos afirma que Carrascosa le dijo que no bajara los elementos para masajes porque María Marta había tenido un accidente, agregando más adelante, en su declaración de fs. 1088 "... Carrascosa fue quien le dijo lo del accidente, pero no le explicó la mecánica, que se había golpeado y la había sacado de la bañera..." manifestando poco después, que "... hasta
+
+
+---
+
+## Página 184
+
+# PROVINCIA DE BUENOS AIRES
+
+PODER JUDICIAL
+
+que no se hizo público que había sido un homicidio, que no dudó porque la
+dicente realizó los masajes cardíacos y la respiración boca a boca,
+cuando posteriormente llegaron los médicos hicieron lo mismo que la
+dicente, que además los médicos le hicieron el electro shock, que jamás
+se representó que había sido un homicidio, sólo pensó que fue un
+accidente... no pudo jamás imaginarse ni pasarse por la cabeza que
+estaba ante un homicidio..."
+
+Es cierto que a continuación, la masajista se despacha contra la
+familia, diciendo que se siente usada y defraudada "...porque solamente
+hizo lo que le pidieron, que los tenía arriba de todo, que jamás se pensó
+que tratarían de pasar un homicidio..." Pero no debemos dejarnos llevar
+por estas últimas apreciaciones vertidas en el mes de marzo de 2003,
+cuando el tremendo desarrollo mediático del caso, la había introducido a la
+dicente como una de los principales protagonistas, y para peor, había sido
+procesada por la fiscalía, y lógicamente, debe adoptar una actitud
+defensista, descargando en alguien la responsabilidad que a ella se le
+reprocha.
+
+De todas maneras, la conclusión parece bastante clara desde mi
+punto de vista. No podemos adquirir la certeza de que Carrascosa sabía
+que lo que había ocurrido era algo que exigía la intervención policial, y
+menos, que sabiéndolo, concibió la idea de ocultarlo. Por eso entiendo que
+atribuirle la difusión, la instalación de la idea de un accidente no tiene
+ninguna implicancia sobre su presunta responsabilidad encubridora.
+
+USO OFICIAL - JURISDICCION ADMINISTRACION DE JUSTICIA
+
+A-1
+
+MAXIMILIAN MUNICIPAL
+SERVICIO NACIONAL
+TRIBUNAL EN COMISIONAL N° 9
+SAN DIEGO

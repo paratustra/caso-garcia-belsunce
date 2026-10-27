@@ -1,0 +1,15 @@
+# Fallo del INADI contra jueces de Casación
+
+Fecha: 2011-12-01T23:33:00.001-03:00
+Fuente: https://casobelsunce.blogspot.com/2011/12/fallo-del-inadi-contra-jueces-de.html
+
+Frente a la presentación realizada por el Presidente del bloque del FpV, Raúl Pérez, ante el INADI en oportunidad de la sentencia de los Jueces Horacio Piombo y Benjamín Sal Llargués, que le permitieron la libertad a un violador de menores, el Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo, dictaminó que la mencionada sentencia es “discriminatoria”.
+El INADI, en su dictamen expresa que “la sentencia dictada por la Sala I de la Cámara de Casación Penal de la provincia de Buenos Aires es discriminatoria en los términos de la ley 23.592, normas complementarias y concordantes, en relación a los argumentos esgrimidos para absolver al imputado (Ávalos, Francisco) del delito de corrupción de menores”.
+Cabe recordar que los Magistrados mencionados, absolvieron a Domingo Francisco Ávalos (quien abusó sexualmente de dos niñas) respecto de los delitos de corrupción de menores de edad, calificado por intimidación, y le redujeron la pena de 18 años a 9 años y 6 meses de prisión, argumentando que las menores pertenecían a una clase social que aceptaba las relaciones sexuales a temprana edad y que, además, libremente habrían prestado su consentimiento.
+En la presentación ante el INADI, con fecha del 7 de abril de 2011, el Diputado Raúl Pérez fundamenta que hubo una “clara discriminación, como sujeto de delito, en su condición de mujeres y además menores y esta situación debería ser un agravante concreto, en vez de un eximente y una reducción de penas”.
+En esta misma línea se pronunció el organismo que “recomienda la notificación del presente dictamen al Consejo de la Magistratura de la provincia de Buenos Aires a los fines que estime corresponda” y agrega que “visto el informe efectuado por el Sr. Pérez Raúl, contra los Señores Jueces Piombo, Horacio Daniel y Sal Llargués, Benjamín Ramón, se comparte el criterio en lo sustancial”.
+Cabe recordar que el Diputado Raúl Pérez presentó sendas denuncias no sólo ante el Instituto Nacional Contra la Discriminación, la Xenofobia y el Racismo, sino también ante el Jurado de Enjuiciamiento de Magistrados, a los fines de que se investigue si los Jueces citados cometieron mal desempeño en sus funciones.
+Entre los fundamentos, el Presidente del bloque oficialista de la Cámara baja, destacó que los argumentos dados por Piombo y Sal Llargués en la causa del pastor, conformaba un “razonamiento perverso”. “La mención del nivel social alude a grupos en desventaja”. En igual sentido, agregó que “el fallo podía resultar un grave antecedente porque las mujeres y niñas que hayan nacido en grupos desfavorecidos, tendrán una nueva desigualdad: Nadie las protegerá de un adulto que las quiera corromper”, explicitó Pérez.
+
+Fuente (http://www.raulperez.com/novedades/diputados-recibio-un-contundente-fallo-del-inadi-contra-los-jueces-piombo-y-sal-llargues/)
+Ver fallo (http://casobelsunce.blogspot.com.ar/2011/11/fallo-del-inadi-contra-jueces-piombo-y.html)

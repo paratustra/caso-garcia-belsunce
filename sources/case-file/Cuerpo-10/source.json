@@ -1,0 +1,22 @@
+{
+ "cuerpo": "Cuerpo 10",
+ "url": "https://www.slideshare.net/casobelsunce/cuerpo-10",
+ "title": "Cuerpo 10",
+ "total": 310,
+ "loc": "cpo10-120625223003-phpapp01",
+ "stitle": "Cuerpo-10",
+ "sizes": [
+  {
+   "quality": 85,
+   "width": 320
+  },
+  {
+   "quality": 85,
+   "width": 638
+  },
+  {
+   "quality": 75,
+   "width": 2048
+  }
+ ]
+}

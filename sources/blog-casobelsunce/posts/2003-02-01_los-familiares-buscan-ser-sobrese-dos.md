@@ -1,0 +1,21 @@
+# Los familiares buscan ser sobreseídos
+
+Fecha: 2003-02-01T03:52:00.000-03:00
+Fuente: https://casobelsunce.blogspot.com/2003/01/los-familiares-buscan-ser-sobreseidos.html
+
+El fiscal de Pilar Diego Molina Pico recibió ayer un nuevo cuestionamiento por las decisiones que, hasta ahora, tomó en la investigación del asesinato de María Marta García Belsunce, ocurrido el 27 de octubre último.
+El abogado Marcelo Nardi solicitó ayer la nulidad de las declaraciones indagatorias del esposo de la víctima del homicidio del country Carmel, Carlos Carrascosa, y de su concuñado Guillermo Bártoli. Usó el mismo argumento planteado días atrás por José Licinio Scelzi, defensor del resto de familiares y amigos de María Marta García Belsunce imputados por el presunto encubrimiento agravado del crimen: que Molina Pico cometió un "error gravísimo" al no relevar a los acusados del juramento de decir verdad que habían prestado en la causa al declarar como testigos.
+Según Nardi y Scelzi, la consecuencia inmediata, de prosperar su pedido, es el automático sobreseimiento de los imputados; sostienen que si aquellas declaraciones son nulas y se los volviera a indagar, se violaría el precepto constitucional de que nadie puede ser perseguido dos veces por el mismo delito, lo que se conoce como el principio de non bis in idem.
+Otras fuentes judiciales, en cambio, sostienen que el acto que provocó la nulidad, si no es irrepetible, puede ser subsanado. Sí admitieron que la nulidad de un acto hace nulos los actos consecutivos que dependen de él.
+En tanto, el lunes próximo se reincorporará en su cargo, tras la feria judicial, el juez de Garantías de San Isidro Diego Barroetaveña, a cargo de controlar la legalidad del proceso por el crimen del Carmel. El deberá resolver el pedido de recusación contra Molina Pico presentado por los familiares en la parte del expediente relacionada con el presunto encubrimiento.
+Pero también deberá expedirse sobre las nulidades planteadas esta semana. Se sabe que fue él quien, el 15 del actual, y ante los pedidos de detención hechos por Molina Pico, resolvió que se relevase de juramento a Carrascosa, Bártoli, Horacio García Belsunce (h.) y el médico Juan Gauvry Gordon, aquellos que gozaban de la eximición de prisión. La resolución alcanzó a la masajista Beatriz Michelini y a John y Constantino Hurtig.
+Pero de la lectura de las indagatorias no consta que Molina Pico haya relevado a los imputados del juramento prestado como testigos, aun cuando les hizo saber que tenían derecho a guardar silencio.
+
+BAJO PROCESO EN SAN MARTÍN
+En tanto, fuentes judiciales dijeron a LA NACION que las fiscales de San Martín Laura Pascual y Karina Carbonella recibirán entre hoy y el lunes, finalmente, la copia certificada del expediente que dirige su par de Pilar. Entonces, tendrán ante sí el principal elemento de prueba para evaluar la tarea de Molina Pico en la instrucción del caso García Belsunce.
+Como informó LA NACION en su edición del sábado último, el fiscal de Casación bonaerense Carlos Altuve -en reemplazo del procurador provincial Eduardo De la Cruz- envió a la Justicia de San Martín la denuncia presentada por el abogado Juan Carlos Iglesias, el 6 del actual, contra Molina Pico, los jueces de Garantías de San Isidro Barroetaveña y Juan Makintach, y Juan Martín Romero Victorica, fiscal de Casación nacional y amigo de la familia de la víctima, por su eventual actuación irregular en la causa García Belsunce.
+Iglesias ya ratificó el lunes último su denuncia y aportó fotocopias de las primeras 60 fojas de la causa. Pero Pascual y Carbonella sólo pueden tomar por válidas las copias certificadas de un expediente, a la hora de evaluar la actuación judicial en ese caso.
+Con todo, las fuentes confiaron a LA NACION que las fiscales ya leyeron aquellas 60 fojas. Y que de esa lectura -y de lo que se sabe públicamente del caso- sospechan que el fiscal no cumplió con sus deberes, al no haber convocado a un forense en el preciso instante en el que él se presentó en la casa de la víctima, en pleno sepelio, y se enteró del supuesto accidente. También se preguntan cómo no avanzó sobre la inacción policial.
+Fernando Rodríguez
+
+Fuente (http://www.lanacion.com.ar/470283-los-familiares-buscan-ser-sobreseidos)

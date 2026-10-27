@@ -1,0 +1,20 @@
+# Carrascosa seguirá en prisión
+
+Fecha: 2007-08-14T23:13:00.000-03:00
+Fuente: https://casobelsunce.blogspot.com/2007/08/carrascosa-seguira-en-prision.html
+
+Con pesar, aunque sin sorpresas, Carlos Carrascosa recibió ayer la noticia de que deberá seguir cumpliendo en la cárcel de Campana su condena por el encubrimiento del asesinato de su esposa, María Marta García Belsunce. Es que el tribunal que lo sentenció rechazó su pedido de permanecer detenido en la casa de su amigo Héctor Liñeiro, en un country de Escobar, hasta tanto se resuelva si la Cámara de Casación bonaerense confirma o revoca el fallo.
+La decisión se basó en el voto de dos de los jueces, María Angélica Etcheverry y Hernán San Martín, los mismos que firmaron la condena del viudo, mientras que Luis Rizzi, como aquella vez, votó en disidencia.
+Carrascosa, que durante los cinco años que ya lleva la causa estuvo la mayor parte del tiempo en libertad y siempre a disposición del tribunal, pidió vivir en la casa de su amigo en el barrio privado CUBE, de Escobar. El tribunal entrevistó a Liñeiro e hizo un estudio del lugar, pero rechazó su solicitud por entender que hay riesgo de que entorpezca la investigación o de que se fugue.
+El abogado de Carrascosa, Diego Ferrari, dijo que no apelará la medida, sino que presentará un hábeas corpus, recurso de rápida resolución al que se recurre ante una eventual detención ilegal.
+En el fallo, la jueza Etcheverry aseguró: "Ha pasado apenas un mes de dictada aquella resolución [la condena] y, francamente, no encuentro motivos para apartarme de lo decidido. La sentencia emitida, cuanto menos, ha dado un marco de «certeza provisoria» a los hechos investigados".
+Los defensores destacaron que si no se fugó en cinco años ante la perspectiva de una condena a prisión perpetua, menos lo haría ahora, cuando sabe que deberá cumplir cinco años y medio de cárcel. Pero para la jueza "ya no se trata de una persona que enfrenta una durísima acusación, pero que sólo se representa la posibilidad de condena como «probable»". Sostuvo que aunque "el riesgo procesal de entorpecer la investigación ha disminuido sensiblemente, el peligro de eludir la acción de la Justicia ha aumentado en forma paralela", por lo que votó por mantener preso al viudo.
+Su colega San Martín minimizó la "férrea voluntad de someterse a la Justicia" de Carrascosa, al señalar que "nadie podía negar válidamente" su comportamiento durante el proceso mientras estuvo imputado "bajo el contexto de contención que le otorgaba el inmaculado principio de inocencia y la posibilidad que anidaba en su ánimo de tornarse acreedor de un veredicto absolutorio".
+"Pero eso no sucedió. La detención del encartado en la unidad de encierro dentro del Servicio Penitenciario Bonaerense resulta la única solución procesal válida imperante en la actualidad para neutralizar los peligros de frustración existentes", dijo.
+"Carrascosa no se encuentra en una situación privilegiada ni diversa de tantos otros encausados, que en prisión preventiva aguardan el tiempo que demanda la sustanciación de los recursos extraordinarios", señaló San Martín,
+En cambio, Rizzi insistió en que la Constitución garantiza el principio de inocencia y advirtió que no está justificado tenerlo "en prisión con sentencia no firme". "No advierto datos objetivos, ciertos o determinantes que permitan sospechar de su intención de eludir la acción de la Justicia".
+
+ESTRATEGIA
+Los abogados de Carlos Carrascosa no apelarán el fallo que decidió dejarlo preso. Pues ese camino llevaría a tener que esperar mucho tiempo hasta que se pronuncie la Cámara de Casación bonaerense y eventualmente la Suprema Corte bonaerense. En cambio presentarán un hábeas corpus, que los jueces deben resolver con celeridad. Es una acción constitucional que tutela el derecho a la vida y la libertad frente a cualquier acto u omisión de cualquier autoridad, funcionario o persona, que pueda vulnerarlos.
+
+Fuente (http://www.lanacion.com.ar/934347-carrascosa-seguira-en-prision-mientras-se-revisa-su-sentencia)

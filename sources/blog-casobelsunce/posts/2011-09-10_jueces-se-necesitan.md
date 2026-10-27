@@ -1,0 +1,29 @@
+# Jueces... se necesitan
+
+Fecha: 2011-09-10T18:04:00.001-03:00
+Fuente: https://casobelsunce.blogspot.com/2012/04/jueces-se-necesitan.html
+
+[img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQRKZrXSbiiSBlyhcNaXg6yfnZOlDhyphenhyphenClnaDco9ivJDUAq8Favh1oL1Ry14DC4_U_DemNCRf9O7zhgBAS8ypa4rsRb2wiKZo1UmWXZhYhcxmpE_bvZ1mXVayeg0Js5RLc3nmFa4uD89axr/s320/Papa.jpg]
+ (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQRKZrXSbiiSBlyhcNaXg6yfnZOlDhyphenhyphenClnaDco9ivJDUAq8Favh1oL1Ry14DC4_U_DemNCRf9O7zhgBAS8ypa4rsRb2wiKZo1UmWXZhYhcxmpE_bvZ1mXVayeg0Js5RLc3nmFa4uD89axr/s1600/Papa.jpg)
+Por Mauricio Ortín
+
+La calidad de la Justicia en un país, más que con la voluntad de impartirla de sus jueces, tiene que ver con la dosis de injusticia que están dispuestos a soportar sus habitantes. El sistema nunca es perfecto, por ello, uno debe resignarse a lo que se estima como una razonable administración de justicia para un momento y lugar determinado.
+Las personas, es un hecho, tienen disímiles posibilidades de obtener justicia; ya sea, cuando acuden a solicitarla o cuando son llamados a rendir cuentas. El tener dinero, fama, influencias o poder es (no siempre) una ventaja; pero, el pertenecer a un país civilizado en el que rige, plenamente, el estado de derecho es, sin duda, la mejor garantía. Mas, no se debe confundir (como es habitual) estado de derecho, con gobierno elegido por el voto popular. No siempre suelen darse juntos. Menos aún, como es obvio, separados.
+En la Argentina tenemos un gobierno elegido por el voto popular y jueces designados con arreglo a los dictados de las constituciones nacionales y provinciales.
+Ahora bien ¿Tenemos calidad de justicia a la altura de estos tiempos? Poseemos quizás, la que nos merecemos o la que se nos parece; pero, seguramente, no la que debiéramos, si consideramos el gasto que el conjunto de la población hace para mantenerla.
+El costo de una justicia del Primer Mundo con el servicio de una del Tercer Mundo. Esta afirmación, que puede parecer exagerada, para mí también lo era hasta que conocí la “africana” sentencia por encubrimiento en el caso por el homicidio de María Marta García Belsunce. Se trata, en mi opinión, del mejor diagnóstico del calamitoso estado en que se encuentra la justicia argentina. Digo esto porque, luego de haber leído y releído sus cuatrocientas y pico de páginas, todavía no entra en mi cabeza como, mamarracho semejante, no haya despertado la indignación y la repulsa espontánea en los argentinos.
+Sucede que. aún cuando no es su obligación, los sentenciados (ahora detenidos) han demostrado con creces su inocencia; y, por el contrario, el alegato de la fiscalía y la monstruosa sentencia no han conseguido presentar una sola prueba que demuestre la culpabilidad. Para muestra, un botón.
+La sentencia hace suya la absurda y principal teoría de la fiscalía que afirma (en contradicción con las declaraciones de Ortiz, Carrascosa, y otros dos guardias del country) que, el vigilador Ortiz, se encontró con Carlos Carrascosa alrededor de las 19.20 hs. (Carrascosa y Ortiz sostienen que fue, a más tardar, a las 19.00).
+Pero resulta que la sentencia, también, da por hecho, que desde su casa Carrascosa hizo un llamado telefónico a las 19.07.58 a OSDE, con el objeto de solicitar asistencia médica (llamado, registrado por la empresa telefónica y cuya conversación fue grabada por la obra social).
+Hay que agregar además el llamado del Dr. Zancolli a las-19:16 horas- y dos llamados de OSDE a la casa de Carlos Carrascosa de las 19:13:49 a las 19:15:11 horas (todos atendidos según los registros telefónicos y los testimonios de los que se comunicaron).
+De lo que se deduce, necesariamente, que Carlos Carrascosa, Irene Hurtig y Guillermo Bártoli primero, descubrieron su presencia en la casa a través de los llamados telefónicos (a partir del llamado a Osde 19.07.58 hs.) y, luego, de manera incomprensible, abandonaron la escena del crimen (porque según Ortiz en la casa no había ni vehículos ni gente antes que llegara Carrascosa) para luego aparecer Carlos Carrascosa como recién llegando a su casa las 19.20 .
+Es estúpido pensar que Carrascosa, llegando a esa hora y aparentando que no sabía que su esposa estaba muerta, buscaba instalar una coartada que lo desincrimine ¡Acaso no había llamado a OSDE a las 19.07.58! La versión de los jueces es un insulto a la inteligencia, pues esta dicotomía, planteada en un mismo escrito, es incompatible e irreconciliable con el razonamiento lógico más elemental. Y ésta es sólo una, de las múltiples inconsistencias en las que se incurre.
+Sin embargo, ello no ha sido óbice para que un batracio de porte semejante sea tragado, en seco, por los argentinos
+¿Donde están, sino, las decenas de miles de estudiantes y docentes de abogacía, de comunicaciones sociales, de filosofía, etc?
+¿Donde están los profesionales del derecho con sus colegios, sus congresos y sus bibliotecas?
+¿Acaso, no advierten como magistrados y periodistas meten presos a inocentes de la manera más desfachatada y burda?
+¿No sienten, siquiera, un poquito de náuseas? No hay nada que repugne más a la conciencia que un inocente preso; tanto que debiera tener el status de delito de Lesa Humanidad.
+Por otro lado, la desaprensión y la impiedad con que la prensa tira a los perros a esa familia, es tenebrosa. No es noticia, ni tiene rating, el que la sentencia sea un mamarracho. Salvo excepciones (Pablo Duggan y Raúl Kollman y, seguramente, algún otro que no conozco) los periodistas y los medios no han perseguido esclarecer la muerte de María Marta García Belsunce, sino, más bien, el impacto mediático que los distinga y los proyecte.
+Faltan jueces en la Argentina; pero, más todavía, ciudadanos justos.
+
+Fuente (http://www.opinioncalificada.com/Leer/11287_Jueces-se-necesitan)

@@ -1,0 +1,57 @@
+# OCR de 2007-01-09_declaracion-del-vigilador-mato.pdf
+
+Motor: Mistral OCR (mistral-ocr-latest). Cada sección corresponde a una página del PDF.
+
+
+---
+
+## Página 1
+
+818
+
+PROVINCIA DE BUENOS AIRES
+PODER JUDICIAL
+
+GONZALO AQUINO  
+FISCAL EN LO ORIGINAL  
+Y CORRECCIONAL
+
+USO OFICIAL - MINISTERIO PÚBLICO
+
+///////Pilar, a los 9 días del mes de noviembre del año 2007, compareceante ésta Unidad Funcional de Instrucción nro. 2 de Pilar una persona previamente citada a quien se le hace saber que se le va a recibir declaración testimonial en relación a los hechos en investigación, por lo que se le pone en conocimiento de las penas con que la ley castiga a quienes se producen con falsedad (art. 275 del C. Penal) y que depone bajo juramento o promesa de decir verdad de todo cuanto supiere o le fuere preguntado, haciéndolo de acuerdo a las creencias o convicciones cívicas del compareciente.- Preguntada por sus circunstancias personales manifiesta ser y llamarse NORBERTO ADRIAN MATO, nacionalidad argentino, estado civil casado, desocupado, que en este acto exhibe DNI 18.347.626, el cual le es devuelto en este momento, que refiere que su domicilio es Florida 5562, Del Viso, Pcia. de Bs. As., tel cel. 1568929040.- Preguntado para que diga si es cónyuge, ascendiente, descendiente o pariente colateral hasta el tercer grado, tutor, curador o pupilo de las personas imputadas, o en su caso pariente en grado igual o mas próximo con la víctima, CONTESTO: Que no.- Preguntado para que diga si ha resultado víctima en el hecho que se investiga en la presente causa, MANIFESTO: no.- Preguntado para que diga si posee algún otro tipo de relación con el imputado y/o si posee algún interés en la presente causa MANIFESTO: Que no.- Que en este acto se encuentran presentes los letrados patrocinantes del particular damnificado, Dr. Juan Pablo Vigliero, T. 112, F. XIV, CASM, y el Dr. Gustavo Hechem, T.VI, F. 344 CASM. Que invitado que fue a manifestar en cuanto supiere del hecho DECLARA: Que el declarante se desempeñó como vigilador, en el Carmel, desde el día 7 de agosto del 2002, que comenzó en el turno noche, después paso a la mañana y luego nuevamente a la noche, que al declarante le daban un arma, que no recuerda el calibre. Que al dicente estuvo mucho en el puesto cinco, vigilando a Pachelo, que cuando este salía de su casa, avisaban por donde iba, así le iban haciendo un seguimiento, que a la mujer también la seguían pero más a él, que lo que hacían con Pachelo era pasar el dato, o sea uno decía salió de la casa,
+
+A-23
+
+
+---
+
+## Página 2
+
+ALBERTO GAIG
+SECRETARIO
+
+va para tal lugar y luego el otro confirmaba que había pasado. Que ese día al dicente hizo el turno diurno y luego se quedaba el turno noche, en remplazo de otro vigilador, no recuerda quien, que si recuerda que había arreglado esto, con esta persona el día anterior, que de esta situación ya estaba enterado Maciel. Que ese día estaba a cargo, como jefe de servicio Maciel, que cree que esa mañana como encargado estuvo Vera. Que ese día trabajo hasta las 19.00hs, que iba a ser 24hs, pero al final le dió Maciel, que podía irse debido a que faltaba gente. Que el declarante ese día estuvo en el puesto dos. Preguntado para que diga quien era la persona a la que tenía que remplazar a la noche dice : que no recuerda, que era otro vigilador debido a que tenía un bautismo o algo así. Preguntado por el Sr. Fiscal para que diga quien era el encargado habitual del turno noche en esa época dice: que cree que Martinez. Preguntado para que diga cuando termino el servicio dice: que lo termino a la hora habitual, que el dicente estaba en el puesto dos y Maciel por handy le dijo que si quería podía retirarse, debido a que sobraba gente, que entonces fue hasta la guardia, se cambió y se tomó la camioneta. Preguntado por el Sr. Fiscal si entonces quedaba el puesto dos descubierto dice: que si que momentaneamente había quedado vacio. Que recuerda que ese día cuando se estaba cambiando para irse, en la guardia, que esta en el acceso principal al contry le dió a Ortiz, la gaseosa que tenía el dicente, que no recuerda si Ortiz estaba de uniforme, que cree que si, que estaba a pié. Que el tren que se tomaba el dicente salía a las 19.12 aproximadamente y la camioneta del Carmel hasta la estación tardaba diez minutos aproximadamente. Preguntado por el Sr. Fiscal a pedido del Dr. Hechem si en la camioneta se fue mucha gente dice: que si como siempre, unas cinco o seis personas. Preguntado por el Sr. Fiscal a pedido del Dr. Hechem si Vera estaba en la camioneta dice : que no, que no recuerda si estaba Walter Vera, que estaba el hermano de Vera el que manejaba. Preguntado por el Sr. Fiscal si lo convocaron a alguna reunión dice : que no, que en realidad recuerda que si que una vez lo citó a Maciel en la guardia y le dijo que quería que el
+
+
+---
+
+## Página 3
+
+6819
+
+# PROVINCIA DE BUENOS AIRES
+
+# PODER JUDICIAL
+
+declarante comente, que sabía que Ortiz quería robaba herramientas y que si no se lo decía todos iban a perder el laburo, que el dicente interpreto que debía comentarseo a Theran. Preguntado para que diga si el que conducía la camioneta los llevaba a algunos al puesto viejo y a otros a la gurdia dice : que si pero después del hecho. Preguntado por el Sr. Fiscal a pedido del Dr. Hechem si antes del hecho Ortiz había trabajado como auxiliar dice : que si y que estaba en la guardia junto con el encargado, que cree que era Dominguez. Preguntado por el Sr. Fiscal si ese día vio a Glennon dice : que ese día no lo vio a Glennon. Preguntado por el Sr. Fiscal si ese dia estuvo cerca de la casa de Carrascosa dice : que no. Aclara que luego de su ultimo trabajo el declarante le dió una depresión por estres y se encuentra bajo tratamiento psiquiatrico, pero que esto no afecto su memoria, que todo lo que dijo es que lo recuerda bien, que lo que no recuerda es con quien cambió ese día. Preguntado por el Sr. Fiscal a pedido del Dr. Hechem si vio a Pachelo corriendo por el interior del country en alguna oportunidad dice : que lo vió caminando con los chicos en alguna oportunidad, no ese día. Preguntado por el Sr. Fiscal si vió a la mujer de Pachelo dice : que no la conoce. Preguntado por el Sr. Fiscal a instancias del Dr. Hechem si ese día escuchó mudulaciones que hicieran referencia a Pachelo dice : que no recuerda. Que ello es todo cuanto puede expresar al respecto, no deseando agregar mas nada, por lo que se da por finalizado el presente acto, previa íntegra lectura y ratificación, firma el compareciente y los letrados patrocinantes, después del Suscripto y por ante el actuario que da fe de ello.-
+
+USO OFICIAL - MINISTERIO PUBLICO
+
+A-23
+
+ALBERTO GAIG
+SECRETARIO
+
+GONZALO AQUINO
+FISCAL EN LO CRIMINAL
+Y CORRECCIONAL

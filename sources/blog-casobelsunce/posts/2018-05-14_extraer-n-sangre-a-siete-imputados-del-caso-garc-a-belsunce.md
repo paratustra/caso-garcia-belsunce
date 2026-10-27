@@ -1,0 +1,16 @@
+# Extraerán sangre a siete imputados del caso García Belsunce
+
+Fecha: 2018-05-14T10:03:00.001-03:00
+Fuente: https://casobelsunce.blogspot.com/2018/05/extraeran-sangre-siete-imputados-del.html
+
+[img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltFhwf6oQ_c_peHPWTt20TK-FElaA_tgHPMkR5rmnxvpBXr0AT9DeJSdN0h2QjXi5W-PHp6eML0GWZe_pE0R7uucsNqQKDKPQbebsbElMlRO6J88NWr_-ywA2mhYUNE4cLJpJFRw9tX_A/s200/adn2-e1417889052158.jpg]
+ (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltFhwf6oQ_c_peHPWTt20TK-FElaA_tgHPMkR5rmnxvpBXr0AT9DeJSdN0h2QjXi5W-PHp6eML0GWZe_pE0R7uucsNqQKDKPQbebsbElMlRO6J88NWr_-ywA2mhYUNE4cLJpJFRw9tX_A/s1600/adn2-e1417889052158.jpg)
+Se comparará su patrón genético con el ADN de los rastros hallados en el lugar del crimen
+Nicolás Pachelo, procesado con prisión preventiva por una serie de robos en el country Tortugas; su exmujer, Inés Dávalos Cornejo, y los exvigiladores José Ramón Alejandro Ortiz, Ramón Alfredo Acosta, Víctor Hugo Contreras, Eduardo Walter Vera y Norberto Glennon deberán presentarse hoy al mediodía en la Asesoría Pericial de La Plata. Se les extraerá sangre para la realización de un análisis comparativo de ADN. Se intenta develar si es de alguno de ellos la sangre hallada en la escena del crimen de María Marta García Belsunce, ocurrido hace más de 15 años en el country Carmel, de Pilar.
+El patrón de cada uno de los varones será cotejado con el nuevo ADN masculino que pudo ser develado en las últimas semanas gracias al uso de técnicas que no existían en tiempos del homicidio, y con otros dos perfiles que ya estaban incorporados en la causa. El de Dávalos Cornejo será comparado con el ADN femenino distinto del de la víctima hallado en un rastro ya decodificado en 2002.
+El ADN del "hombre 1" se encontró en una viga del techo y del marco de la puerta del baño y en la antesala, mezclado con sangre de la víctima. El perfil del "hombre 2" fue hallado en la viga del techo del baño, mezclado con el del "hombre 1", y el ADN femenino distinto del de la víctima se encontró en la alfombra de la antesala del baño.
+La directora del Laboratorio de Análisis Comparativo de ADN de la Asesoría Pericial de La Plata, María Mercedes Lojo, informó a los fiscales María Inés Domínguez y Andrés Quintana que el perfil genético revelado recientemente fue encontrado en una mancha de sangre levantada de uno de los dos recortes que se hicieron de la alfombra verde que cubría la planta alta de la vivienda.
+"Es una sala de estar ubicada donde terminan las escaleras que conducen a la planta alta y que antecede a la entrada al cuarto matrimonial, donde había un sillón, una mesita con un teléfono y una ventana. Allí también se recortó el pedazo de alfombra donde aparentemente está este nuevo ADN", precisó a la agencia de noticias Télam una calificada fuente judicial.
+La hipótesis de los fiscales es que el 27 de octubre de 2002 García Belsunce llegó y sorprendió dentro de su casa a ladrones, a los que se enfrentó. Según esa teoría, pudo haber lastimado a alguno de sus atacantes antes de que la mataran de cinco tiros. Así, la sangre hallada sería de uno de los homicidas.
+
+Fuente (https://www.lanacion.com.ar/2134298-extraeran-sangre-a-siete-imputados-del-caso-garcia-belsunce)

@@ -1,0 +1,18 @@
+# Una muerte que esconde un secreto
+
+Fecha: 2003-05-30T19:45:00.003-03:00
+Fuente: https://casobelsunce.blogspot.com/2003/05/una-muerte-que-esconde-un-secreto.html
+
+[img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-XHjE8Pz6NZm8DUE6GW4U3YC9Em4mg4ZYJl4J1_1EFv71EsF5uRCUayxZSX1KUCXo4PtMRPdQBm7rGqApp-fCzLyc1AmNjMf8IlVE_tYuA19nXrT26n3VKeYBjCXKqCOMBzrBmDFaW4m/s320/n19_f02_p.jpg]
+ (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-XHjE8Pz6NZm8DUE6GW4U3YC9Em4mg4ZYJl4J1_1EFv71EsF5uRCUayxZSX1KUCXo4PtMRPdQBm7rGqApp-fCzLyc1AmNjMf8IlVE_tYuA19nXrT26n3VKeYBjCXKqCOMBzrBmDFaW4m/s1600/n19_f02_p.jpg)
+Aun cuando jamás se sepan los verdaderos motivos que la llevaron a arrojarse al vacío, e incluso si nunca pudiera probarse acabadamente si, efectivamente, ese acto fue la consecuecia de una decisión suicida, es indudable que Silvia Ryan, al morir, se llevó a la tumba un secreto: qué hizo su hijo, Nicolás Pachelo, en la tarde-noche del 27 de octubre último, a la hora en la que una mano aún no identificada asesinó de cinco balazos en la cabeza a María Marta García Belsunce en el country Carmel, de Pilar.
+Pachelo, el "sospechoso favorito" para la familia de la víctima, había puesto a su madre como protagonista de la coartada que ofreció para situarse temporal y espacialmente lejos de aquel episodio del country.
+Era el cupón de su tarjeta de crédito por una compra en un local del shopping Paseo Alcorta, de la Capital, el que usó Pachelo como prueba de descargo. La certeza de que Ryan firmó aquel comprobante e hizo efectivamente una compra no admite cuestionamientos.
+Sin embargo, tres chicos dijeron haber visto a su hijo en Carmel, muy cerca de María Marta, poco antes del homicidio. Y algunas llamadas telefónicas sitúan a Pachelo más cerca de la escena del crimen que de la Capital. Por ejemplo, entre una comunicación recibida por él y captada por una antena de celular de Pilar, y la hora en la que el sospechado dijo haber hecho una compra con su madre median sólo ocho minutos. Desandar el camino entre Carmel y Palermo en ese tiempo resultaría imposible.
+Es por eso que lo que tuviera ella para decir o para callar sobre ese episodio cobraba suprema relevancia para la investigación del asesinato de María Marta García Belsunce.
+Cierto es que, legalmente, una madre no es penalmente punible por encubrir a su hijo, si se creyera que éste pudo haber cometido un crimen. Pero igualmente cierto es que, llegado el momento, la Justicia podría haber tomado la decisión de citarla a declarar para que dé explicaciones.
+Aunque el nombre de Nicolás Pachelo como presunto implicado en el crimen del country está instalado en el expediente desde hace cinco meses, la decisión tomada hace una semana por el juez de San Isidro Diego Barroetaveña de dejar en libertad a Carlos Carrascosa y sugerir que la policía -y no los colaboradores elegidos por el fiscal Diego Molina Pico- investiguen otras pistas distintas a las que conducían al viudo y a la familia de la víctima, tuvo como consecuencia natural que el hijo de Ryan quedase como sospechoso número uno.
+Era esperable que otra madre -la de María Marta- pidiese, por medio de sus abogados, que las presuntas mentiras y contradicciones de Pachelo fuesen escrutadas minuciosamente. Así, más tarde o más temprano, los detectives hubiesen golpeado a la puerta de la casa de Silvia Ryan.
+Dos de las tres cartas póstumas atribuidas a la mano de la mujer que murió ayer se refieren a la presunta inocencia de Pachelo. Pero eso nunca será igual a que ella hubiera dicho lo mismo, en vida y de viva voz.
+
+Fuente (http://www.lanacion.com.ar/499914-una-muerte-que-esconde-un-secreto)

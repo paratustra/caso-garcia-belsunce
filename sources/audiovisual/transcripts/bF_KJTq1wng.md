@@ -1,0 +1,35 @@
+# Del "pituto" a la absolución de Carrascosa
+
+Fuente: https://www.youtube.com/watch?v=bF_KJTq1wng
+Canal: Telenueve
+Fecha de publicación: 20161220
+Duración: 0:07:53
+Transcripción automática: ElevenLabs Scribe v2 (diarización; los hablantes son speaker_N, sin identificar).
+
+**[0:00:00] speaker_0:** Volvemos a hablar del crimen de María Marta García Belsunce, impune al día de hoy porque la Cámara de Casación bonaerense absolvió a Carlos Carrascosa, el único detenido que estaba y condenado. Tuvo tres sentencias en toda la, en todo este caso Carrascosa. La primera lo absolvieron por encubridor. En Cámara lo condenaron como coautor y ahora la Cámara de Casación Penal dice: absuelto.
+
+**[0:00:27] speaker_1:** Sí, en realidad el primer encubrimiento, eh, que fue en 2007, lo, lo, el, el, la primera absolución en 2007 es cuando lo absuelven de la autoría del crimen, pero en ese mismo fallo lo condenan a cinco años por encubrimiento. Dos años después, cuando se revisa el fallo, dicen: "No, hay que condenarlo como coautor del crimen". Claro, una causa rarísima. Había encubridores de un asesino que no se sabía quién era y había un coautor de un crimen de quien no se sabía quién era el asesino. Bueno, ahora, en este fallo del máximo Tribunal Penal de la provincia de Buenos Aires, piensen ustedes, el Tribunal de Casación es, después de eso, solo la Corte Suprema dispone la absolución y la investigación de irregularidades en esta causa, que comenzó el 27 de octubre de 2002, cuando María Marta García Belsunce fue encontrada muerta en su casa del Carmel. Esta es la historia.
+
+**[0:01:30] speaker_2:** [música suave de fondo] Creo en la justicia. Soy totalmente inocente. Quiero mi absolución y quiero que se reabra la investigación para saber quién mató a mi mujer.
+
+**[0:01:43] speaker_1:** Domingo, 27 de octubre de 2002. La lluvia interrumpió el partido de tenis que María Marta García Belsunce jugaba en el country El Carmel, donde vivía. Y en ese domingo de lluvia y superclásico River-Boca, la socióloga fue asesinada. Su familia la encontró semisumergida en la bañera de su casa. Estaba vestida y nadie observó los orificios de bala que tenía en su cabeza. Eran cinco balazos. Un sexto disparo había impactado fuera de su cuerpo, pero esto se sabría mucho después. Si bien los primeros testigos de la escena declararon que se trató de un accidente doméstico, la autopsia practicada treinta y seis días después comprobó los cinco disparos del arma calibre 38, que nunca apareció. La sexta bala fue el famoso pituto, que había sido arrojado al inodoro por los familiares de María Marta y que fue encontrado cuando el fiscal Diego Molina Pico ordenó búsquedas en el pozo ciego de la vivienda. El tribunal que juzgó a Carlos Carrascosa en 2007 no encontró pruebas para culparlo por el crimen, pero sí lo condenó a cinco años y seis meses de prisión por el delito de encubrimiento agravado. Sin embargo, el Tribunal de Casación bonaerense revisó la sentencia en 2009 y lo condenó a prisión perpetua como coautor del delito de homicidio agravado por el vínculo. Pero el viudo siempre juró ser inocente.
+
+**[0:03:23] speaker_2:** Cuando me condenan a cadena perpetua, me llama una periodista de Crónica, un jueves a las tres de la tarde, para avisarme que me habían condenado a cadena perpetua. Y a mí me vinieron a buscar el viernes recién, veinticuatro horas después, porque me dieron todo el tiempo para que yo me escapara. Y entonces cerraban el caso si yo me escapaba. Pero yo no me voy a escapar, porque yo soy inocente y quiero saber quién mató a mi mujer.
+
+**[0:03:59] speaker_1:** Tres familiares, un médico, un vecino y una masajista fueron juzgados por su presunta participación en el crimen. Menos la masajista Beatriz Michelini, el resto fue hallado culpable también de encubrimiento.
+
+**[0:04:14] speaker_0:** Condenando a Horacio Carlos García Belsunce a la pena de cuatro años de prisión, accesorias legales y costas del proceso.
+
+**[0:04:24] speaker_1:** En 2014, al cumplir setenta años y luego de pasar cinco en el penal de Campana, Carrascosa fue beneficiado con prisión domiciliaria. Pagó una fianza de un millón de pesos para poder pasar el resto de sus días de perpetua en una casa de Luján, monitoreado por una tobillera electrónica. Pero su abogado había apelado esa condena y logró llegar hasta la Corte Suprema, que también dispuso una nueva revisión judicial. Y de ahí este nuevo giro. Carlos Carrascosa, el viudo, absuelto. Y el asesino de María Marta, aún un misterio para la justicia.
+
+**[0:05:12] speaker_0:** Es un volver a empezar. ¿Y quién es el asesino?
+
+**[0:05:16] speaker_1:** Y quedan doscientos noventa y dos días, como lo decíamos antes con Toni Colman, porque cuando el-- se produzca el año que viene un nuevo aniversario de este crimen, quince años, habrá ya prescripto la causa y no habrá tiempo. Bueno, pasaron catorce años, quedan doscientos noventa y dos días. Vamos a ver algunos puntos que tienen que ver con esta causa. A ver, los médicos que la vieron por primera vez allí en la escena del crimen advirtieron una sola herida en aquel momento, compatible con la hipótesis del golpe contra la canilla. Esto recién, Claudio, lo hablamos con Toni Colman. Pero ¿qué pasaba con el certificado de defunción? A ver, ¿qué decía el certificado de defunción que firmaron esos médicos? Paro de, paro cardiorrespiratorio no traumático e insuficiencia cardíaca aguda. Acá vino la primera cuestión que, eh, le dio al fiscal Molina Pico...
+
+**[0:06:11] speaker_0:** Claro.
+
+**[0:06:12] speaker_1:** Pasto a la fiera, ¿sí? Para poder apuntar contra la familia. Porque este certificado se había hecho en Capital cuando la socióloga había muerto en Pilar. ¿Por qué? Bueno, no era una cuestión poco frecuente. Todos sabemos que muchas veces se hace para poder hacer el trámite rápido, el trámite de poder, eh, bueno, velar y enterrar el cuerpo. Cuerpo que fue enterrado y que luego fue exhumado. ¿Cuándo? Tras la declaración de esos médicos, estamos hablando de Santiago Biasi y de Juan Gaubry Gordon. Cuando ellos declaran ante el fiscal Molina Pico es cuando el fiscal ordena la exhumación del cuerpo. Ya habían pasado muchos días. Recordemos, lo decíamos antes, la autopsia se terminó realizando treinta y seis días después del crimen. Y ahí sí es cuando los médicos advierten que la socióloga tenía fractura de cráneo por seis orificios de bala. Atención con esto. Los orificios eran seis, pero extraen solo cinco proyectiles. Como decíamos en el informe, el sexto era el famoso...
+
+**[0:07:16] speaker_0:** Pituto.
+
+**[0:07:16] speaker_1:** Pituto, que el medio hermano, John Hurtig, dijo haber arrojado al inodoro y que él mismo se ofreció luego a buscar y fue encontrado en el pozo séptico de la casa. Decíamos también con Toni Colman, y es importante aclarar esto, en la causa se conservaron tres perfiles de ADN de dos hombres y de una mujer. La pregunta: ¿a quién pertenecen? Porque está probado que esos perfiles de ADN, esos muestras genéticas, no se corresponden ni con el viudo, ni con la víctima, ni con ninguno de los familiares que fueron condenados por encubrimiento.
