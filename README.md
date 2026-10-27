@@ -1,4 +1,4 @@
-# Caso García Belsunce: el material completo, listo para revisar
+# Caso García Belsunce
 
 María Marta García Belsunce murió el 27 de octubre de 2002 en su casa del Country Carmel, en Pilar. Más de veinte años después, la causa acumula varios juicios y fallos que revocaron condenas y absoluciones anteriores. El material está disperso en PDFs escaneados, blogs, notas de diarios y horas de televisión.
 
